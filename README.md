@@ -5,7 +5,9 @@
 </p>
 
 <h3 align="center"> 🙋🏽‍♂️About Me </h3>
-<p align="center"> ..
+<p align="center"> <samp> 
+   I am a Full Stack Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Computer Science and Engineering Programmer at the Indian Institute of Technology ( BHU ). I explore all fields of Computer Science, be it Web Development, Android or IOS development, Fun events like Capture the Flag, Machine Learning, and the sport of Competitive Programming. My hobby is Photography as I enjoy capturing the moments and relishing those memories in the future; checkout my Insta Page for my work.
+  </samp>
 </p><br>
 
 <h3 align="center"> 👨🏽‍💻Tech Stack </h3>
@@ -28,7 +30,7 @@
 
 </p><br>
 
-<h3  align='center'>Find me around the web 🌎 </h3>
+<h3  align='center'>Find me around the web 🌎<img src="https://visitor-badge.glitch.me/badge?page_id=king-11.king-11-badge" /></h3><br>
 
 <p align='center'>
   <a href="https://www.github.com/king-11/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,5 +50,6 @@
 <img src="https://media.giphy.com/media/xT0xeOGAGEAuQK1ujm/giphy.gif" width="150" />
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   </p>
+
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
