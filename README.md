@@ -30,7 +30,7 @@
 
 </p><br>
 
-<h3  align='center'>Find me around the web 🌎<img src="https://visitor-badge.glitch.me/badge?page_id=king-11.king-11-badge" /></h3><br>
+<h3  align='center'>Find me around the web 🌎</h3><br>
 
 <p align='center'>
   <a href="https://www.github.com/king-11/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
