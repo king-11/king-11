@@ -30,7 +30,7 @@
 
 </p><br>
 
-<h3  align='center'>Find me around the web 🌎 <img align="right" src="http://hits.dwyl.com/king-11/king-11.svg" /></h3><br>
+<h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
 
 <p align='center'>
   <a href="https://www.github.com/king-11/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
