@@ -1,8 +1,13 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <h2 align='center'> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  I'm Lakshya 👋 🧑🏻‍💻 </h2>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=king-11&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=king-11&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img align='center' height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-11&hide_title=true&layout=compact&bg_color=0000&text_color=2f80ed">
 </p>
+<p align='center'>
+  <img src='https://github-profile-trophy.vercel.app/?username=king-11&margin-w=38' />
+</p>
+
 
 <h3 align="center"> 🙋🏽‍♂️About Me </h3>
 <p align="center"> <samp> 
