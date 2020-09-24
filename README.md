@@ -5,7 +5,7 @@
   <img align='center' height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-11&hide_title=true&layout=compact&bg_color=0000&text_color=2f80ed">
 </p>
 <p align='center'>
-  <img src='https://github-profile-trophy.vercel.app/?username=king-11&margin-w=38' />
+  <img src='https://github-profile-trophy.vercel.app/?username=king-11&margin-w=38&theme=dracula' />
 </p>
 
 
