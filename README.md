@@ -39,6 +39,10 @@
 
 </p><br>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
 
 <p align='center'>
