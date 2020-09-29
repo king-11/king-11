@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/king-11/P2P_Backend/pull/7) in [king-11/P2P_Backend](https://github.com/king-11/P2P_Backend)
-2. 🎉 Merged PR [#6](https://github.com/king-11/P2P_Backend/pull/6) in [king-11/P2P_Backend](https://github.com/king-11/P2P_Backend)
-3. 💪 Opened PR [#4](https://github.com/king-11/P2P_Backend/pull/4) in [king-11/P2P_Backend](https://github.com/king-11/P2P_Backend)
-4. 🎉 Merged PR [#2](https://github.com/king-11/API-Design-Node.JS/pull/2) in [king-11/API-Design-Node.JS](https://github.com/king-11/API-Design-Node.JS)
-5. 🎉 Merged PR [#1](https://github.com/king-11/API-Design-Node.JS/pull/1) in [king-11/API-Design-Node.JS](https://github.com/king-11/API-Design-Node.JS)
+1. 💪 Opened PR [#10](https://github.com/appwrite/awesome-appwrite/pull/10) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+2. 💪 Opened PR [#7](https://github.com/king-11/P2P_Backend/pull/7) in [king-11/P2P_Backend](https://github.com/king-11/P2P_Backend)
+3. 🎉 Merged PR [#6](https://github.com/king-11/P2P_Backend/pull/6) in [king-11/P2P_Backend](https://github.com/king-11/P2P_Backend)
+4. 💪 Opened PR [#4](https://github.com/king-11/P2P_Backend/pull/4) in [king-11/P2P_Backend](https://github.com/king-11/P2P_Backend)
+5. 🎉 Merged PR [#2](https://github.com/king-11/API-Design-Node.JS/pull/2) in [king-11/API-Design-Node.JS](https://github.com/king-11/API-Design-Node.JS)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
