@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/king-11/king-11/pull/3) in [king-11/king-11](https://github.com/king-11/king-11)
-2. 💪 Opened PR [#2](https://github.com/king-11/king-11/pull/2) in [king-11/king-11](https://github.com/king-11/king-11)
-3. 🗣 Commented on [#287](https://github.com/DXHeroes/dx-scanner/issues/287) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-4. 🗣 Commented on [#15](https://github.com/appwrite/awesome-appwrite/issues/15) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
-5. 🗣 Commented on [#21](https://github.com/appwrite/awesome-appwrite/issues/21) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+1. 🎉 Merged PR [#3](https://github.com/king-11/king-11/pull/3) in [king-11/king-11](https://github.com/king-11/king-11)
+2. 🎉 Merged PR [#2](https://github.com/king-11/king-11/pull/2) in [king-11/king-11](https://github.com/king-11/king-11)
+3. 🎉 Merged PR [#59](https://github.com/king-11/ComputerSystem/pull/59) in [king-11/ComputerSystem](https://github.com/king-11/ComputerSystem)
+4. 🗣 Commented on [#59](https://github.com/king-11/ComputerSystem/issues/59) in [king-11/ComputerSystem](https://github.com/king-11/ComputerSystem)
+5. 🎉 Merged PR [#1](https://github.com/king-11/dotrc/pull/1) in [king-11/dotrc](https://github.com/king-11/dotrc)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
