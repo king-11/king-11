@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/devfolioco/scrroll-in/issues/18) in [devfolioco/scrroll-in](https://github.com/devfolioco/scrroll-in)
-2. 🗣 Commented on [#614](https://github.com/appwrite/appwrite/issues/614) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-3. 🎉 Merged PR [#3](https://github.com/king-11/king-11/pull/3) in [king-11/king-11](https://github.com/king-11/king-11)
-4. 🎉 Merged PR [#2](https://github.com/king-11/king-11/pull/2) in [king-11/king-11](https://github.com/king-11/king-11)
-5. 🎉 Merged PR [#59](https://github.com/king-11/ComputerSystem/pull/59) in [king-11/ComputerSystem](https://github.com/king-11/ComputerSystem)
+1. 🗣 Commented on [#575](https://github.com/appwrite/appwrite/issues/575) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#575](https://github.com/appwrite/appwrite/issues/575) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 🗣 Commented on [#15](https://github.com/appwrite/awesome-appwrite/issues/15) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+4. 🗣 Commented on [#22](https://github.com/appwrite/sdk-for-python/issues/22) in [appwrite/sdk-for-python](https://github.com/appwrite/sdk-for-python)
+5. 🗣 Commented on [#18](https://github.com/devfolioco/scrroll-in/issues/18) in [devfolioco/scrroll-in](https://github.com/devfolioco/scrroll-in)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
