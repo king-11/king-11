@@ -11,7 +11,7 @@
 
 <h3 align="center"> 🙋🏽‍♂️About Me </h3>
 <p align="center"> <samp> 
-   I am a Full Stack Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Computer Science and Engineering Programmer at the Indian Institute of Technology ( BHU ). I explore all fields of Computer Science, be it Web Development, Android or IOS development, Fun events like Capture the Flag, Machine Learning, and the sport of Competitive Programming. My hobby is Photography as I enjoy capturing the moments and relishing those memories in the future; checkout my Insta Page for my work.
+   I am a Full Stack Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Computer Science and Engineering Programmer at the Indian Institute of Technology ( BHU ). I explore all fields of Computer Science, be it Web Development, Android or IOS development, Fun events like Capture the Flag, Machine Learning, and the sport of Competitive Programming. My hobby is Photography as I enjoy capturing the moments and relishing those memories in the future; checkout my Insta Page for my work. I don't believe in writing just the code that works instead I try my best to write most proficient code in terms of both time and memory.
   </samp>
 </p><br>
 
