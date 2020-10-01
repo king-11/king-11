@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/appwrite/awesome-appwrite/issues/15) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
-2. 🗣 Commented on [#21](https://github.com/appwrite/awesome-appwrite/issues/21) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
-3. 💪 Opened PR [#10](https://github.com/appwrite/awesome-appwrite/pull/10) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
-4. 💪 Opened PR [#7](https://github.com/king-11/P2P_Backend/pull/7) in [king-11/P2P_Backend](https://github.com/king-11/P2P_Backend)
-5. 🎉 Merged PR [#6](https://github.com/king-11/P2P_Backend/pull/6) in [king-11/P2P_Backend](https://github.com/king-11/P2P_Backend)
+1. 🗣 Commented on [#287](https://github.com/DXHeroes/dx-scanner/issues/287) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+2. 🗣 Commented on [#15](https://github.com/appwrite/awesome-appwrite/issues/15) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+3. 🗣 Commented on [#21](https://github.com/appwrite/awesome-appwrite/issues/21) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+4. 💪 Opened PR [#10](https://github.com/appwrite/awesome-appwrite/pull/10) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+5. 💪 Opened PR [#7](https://github.com/king-11/P2P_Backend/pull/7) in [king-11/P2P_Backend](https://github.com/king-11/P2P_Backend)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
