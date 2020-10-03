@@ -43,10 +43,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#287](https://github.com/DXHeroes/dx-scanner/issues/287) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-2. 🗣 Commented on [#233](https://github.com/LoginRadius/engineering-portal/issues/233) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-3. 🗣 Commented on [#287](https://github.com/DXHeroes/dx-scanner/issues/287) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-4. 🗣 Commented on [#422](https://github.com/datenanfragen/website/issues/422) in [datenanfragen/website](https://github.com/datenanfragen/website)
-5. 🗣 Commented on [#439](https://github.com/DXHeroes/dx-scanner/issues/439) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+2. 🗣 Commented on [#287](https://github.com/DXHeroes/dx-scanner/issues/287) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+3. 🗣 Commented on [#233](https://github.com/LoginRadius/engineering-portal/issues/233) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+4. 🗣 Commented on [#287](https://github.com/DXHeroes/dx-scanner/issues/287) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+5. 🗣 Commented on [#422](https://github.com/datenanfragen/website/issues/422) in [datenanfragen/website](https://github.com/datenanfragen/website)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
