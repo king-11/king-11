@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/king-11/Web_Design/issues/15) in [king-11/Web_Design](https://github.com/king-11/Web_Design)
-2. 🗣 Commented on [#15](https://github.com/king-11/Web_Design/issues/15) in [king-11/Web_Design](https://github.com/king-11/Web_Design)
-3. 🗣 Commented on [#16](https://github.com/king-11/Web_Design/issues/16) in [king-11/Web_Design](https://github.com/king-11/Web_Design)
+1. 🗣 Commented on [#447](https://github.com/DXHeroes/dx-scanner/issues/447) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+2. ❗️ Closed issue [#15](https://github.com/king-11/Web_Design/issues/15) in [king-11/Web_Design](https://github.com/king-11/Web_Design)
+3. 🗣 Commented on [#15](https://github.com/king-11/Web_Design/issues/15) in [king-11/Web_Design](https://github.com/king-11/Web_Design)
 4. 🗣 Commented on [#16](https://github.com/king-11/Web_Design/issues/16) in [king-11/Web_Design](https://github.com/king-11/Web_Design)
-5. 🎉 Merged PR [#16](https://github.com/king-11/Web_Design/pull/16) in [king-11/Web_Design](https://github.com/king-11/Web_Design)
+5. 🗣 Commented on [#16](https://github.com/king-11/Web_Design/issues/16) in [king-11/Web_Design](https://github.com/king-11/Web_Design)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
