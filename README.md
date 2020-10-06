@@ -42,10 +42,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#447](https://github.com/DXHeroes/dx-scanner/issues/447) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-2. 🗣 Commented on [#447](https://github.com/DXHeroes/dx-scanner/issues/447) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-3. 🗣 Commented on [#447](https://github.com/DXHeroes/dx-scanner/issues/447) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-4. 🗣 Commented on [#447](https://github.com/DXHeroes/dx-scanner/issues/447) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+1. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+2. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+3. ❗️ Closed issue [#439](https://github.com/DXHeroes/dx-scanner/issues/439) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+4. 🗣 Commented on [#439](https://github.com/DXHeroes/dx-scanner/issues/439) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
 5. 🗣 Commented on [#447](https://github.com/DXHeroes/dx-scanner/issues/447) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
 <!--END_SECTION:activity-->
 
