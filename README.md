@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-2. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-3. ❗️ Closed issue [#439](https://github.com/DXHeroes/dx-scanner/issues/439) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-4. 🗣 Commented on [#439](https://github.com/DXHeroes/dx-scanner/issues/439) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-5. 🗣 Commented on [#447](https://github.com/DXHeroes/dx-scanner/issues/447) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+1. ❗️ Opened issue [#4](https://github.com/COPS-IITBHU/cops-site/issues/4) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+2. ❗️ Opened issue [#3](https://github.com/COPS-IITBHU/cops-site/issues/3) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+3. ❗️ Opened issue [#2](https://github.com/COPS-IITBHU/cops-site/issues/2) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+4. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+5. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
