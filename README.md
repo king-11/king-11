@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#431](https://github.com/datenanfragen/website/issues/431) in [datenanfragen/website](https://github.com/datenanfragen/website)
-2. 🗣 Commented on [#6](https://github.com/COPS-IITBHU/cops-site/issues/6) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. 🗣 Commented on [#7](https://github.com/COPS-IITBHU/cops-site/issues/7) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-4. 🗣 Commented on [#2](https://github.com/COPS-IITBHU/cops-site/issues/2) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-5. 🗣 Commented on [#2](https://github.com/COPS-IITBHU/cops-site/issues/2) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+1. 🗣 Commented on [#50](https://github.com/synacor/preact-i18n/issues/50) in [synacor/preact-i18n](https://github.com/synacor/preact-i18n)
+2. ❗️ Opened issue [#50](https://github.com/synacor/preact-i18n/issues/50) in [synacor/preact-i18n](https://github.com/synacor/preact-i18n)
+3. ❗️ Opened issue [#431](https://github.com/datenanfragen/website/issues/431) in [datenanfragen/website](https://github.com/datenanfragen/website)
+4. 🗣 Commented on [#6](https://github.com/COPS-IITBHU/cops-site/issues/6) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+5. 🗣 Commented on [#7](https://github.com/COPS-IITBHU/cops-site/issues/7) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
