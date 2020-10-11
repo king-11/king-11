@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#422](https://github.com/datenanfragen/website/issues/422) in [datenanfragen/website](https://github.com/datenanfragen/website)
-2. ❗️ Closed issue [#431](https://github.com/datenanfragen/website/issues/431) in [datenanfragen/website](https://github.com/datenanfragen/website)
+1. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+2. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
 3. 🗣 Commented on [#431](https://github.com/datenanfragen/website/issues/431) in [datenanfragen/website](https://github.com/datenanfragen/website)
-4. 🗣 Commented on [#50](https://github.com/synacor/preact-i18n/issues/50) in [synacor/preact-i18n](https://github.com/synacor/preact-i18n)
-5. ❗️ Opened issue [#50](https://github.com/synacor/preact-i18n/issues/50) in [synacor/preact-i18n](https://github.com/synacor/preact-i18n)
+4. ❗️ Reopened issue [#431](https://github.com/datenanfragen/website/issues/431) in [datenanfragen/website](https://github.com/datenanfragen/website)
+5. 🗣 Commented on [#422](https://github.com/datenanfragen/website/issues/422) in [datenanfragen/website](https://github.com/datenanfragen/website)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
