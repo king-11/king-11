@@ -42,10 +42,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
+1. 💪 Opened PR [#14](https://github.com/COPS-IITBHU/telegram-bots/pull/14) in [COPS-IITBHU/telegram-bots](https://github.com/COPS-IITBHU/telegram-bots)
 2. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
-3. 💪 Opened PR [#442](https://github.com/datenanfragen/website/pull/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
-4. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+3. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
+4. 💪 Opened PR [#442](https://github.com/datenanfragen/website/pull/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
 5. 🗣 Commented on [#409](https://github.com/DXHeroes/dx-scanner/issues/409) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
 <!--END_SECTION:activity-->
 
