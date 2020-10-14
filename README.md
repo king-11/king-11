@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#457](https://github.com/DXHeroes/dx-scanner/issues/457) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-2. 💪 Opened PR [#457](https://github.com/DXHeroes/dx-scanner/pull/457) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-3. 🗣 Commented on [#431](https://github.com/datenanfragen/website/issues/431) in [datenanfragen/website](https://github.com/datenanfragen/website)
-4. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
-5. 💪 Opened PR [#14](https://github.com/COPS-IITBHU/telegram-bots/pull/14) in [COPS-IITBHU/telegram-bots](https://github.com/COPS-IITBHU/telegram-bots)
+1. 🗣 Commented on [#12](https://github.com/COPS-IITBHU/telegram-bots/issues/12) in [COPS-IITBHU/telegram-bots](https://github.com/COPS-IITBHU/telegram-bots)
+2. 🗣 Commented on [#457](https://github.com/DXHeroes/dx-scanner/issues/457) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+3. 💪 Opened PR [#457](https://github.com/DXHeroes/dx-scanner/pull/457) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+4. 🗣 Commented on [#431](https://github.com/datenanfragen/website/issues/431) in [datenanfragen/website](https://github.com/datenanfragen/website)
+5. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
