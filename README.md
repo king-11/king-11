@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
-2. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
+1. 🎉 Merged PR [#1](https://github.com/king-11/telegram-bots/pull/1) in [king-11/telegram-bots](https://github.com/king-11/telegram-bots)
+2. 💪 Opened PR [#1](https://github.com/king-11/telegram-bots/pull/1) in [king-11/telegram-bots](https://github.com/king-11/telegram-bots)
 3. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
-4. 🗣 Commented on [#9](https://github.com/meedan/check/issues/9) in [meedan/check](https://github.com/meedan/check)
-5. 🗣 Commented on [#377](https://github.com/OperationCode/resources_api/issues/377) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+4. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
+5. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
