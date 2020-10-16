@@ -42,9 +42,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/king-11/telegram-bots/pull/1) in [king-11/telegram-bots](https://github.com/king-11/telegram-bots)
-2. 💪 Opened PR [#1](https://github.com/king-11/telegram-bots/pull/1) in [king-11/telegram-bots](https://github.com/king-11/telegram-bots)
-3. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
+1. 💪 Opened PR [#2](https://github.com/king-11/telegram-bots/pull/2) in [king-11/telegram-bots](https://github.com/king-11/telegram-bots)
+2. 🎉 Merged PR [#1](https://github.com/king-11/telegram-bots/pull/1) in [king-11/telegram-bots](https://github.com/king-11/telegram-bots)
+3. 💪 Opened PR [#1](https://github.com/king-11/telegram-bots/pull/1) in [king-11/telegram-bots](https://github.com/king-11/telegram-bots)
 4. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
 5. 🗣 Commented on [#442](https://github.com/datenanfragen/website/issues/442) in [datenanfragen/website](https://github.com/datenanfragen/website)
 <!--END_SECTION:activity-->
