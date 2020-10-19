@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/mukul81996/guide-bucket/pull/2) in [mukul81996/guide-bucket](https://github.com/mukul81996/guide-bucket)
-2. 💪 Opened PR [#15](https://github.com/COPS-IITBHU/cops-site/pull/15) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. 🗣 Commented on [#344](https://github.com/OperationCode/resources_api/issues/344) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
-4. 🗣 Commented on [#396](https://github.com/DXHeroes/dx-scanner/issues/396) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-5. ❌ Closed PR [#2](https://github.com/king-11/telegram-bots/pull/2) in [king-11/telegram-bots](https://github.com/king-11/telegram-bots)
+1. 🗣 Commented on [#408](https://github.com/DXHeroes/dx-scanner/issues/408) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+2. ❌ Closed PR [#2](https://github.com/mukul81996/guide-bucket/pull/2) in [mukul81996/guide-bucket](https://github.com/mukul81996/guide-bucket)
+3. 💪 Opened PR [#15](https://github.com/COPS-IITBHU/cops-site/pull/15) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+4. 🗣 Commented on [#344](https://github.com/OperationCode/resources_api/issues/344) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+5. 🗣 Commented on [#396](https://github.com/DXHeroes/dx-scanner/issues/396) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
