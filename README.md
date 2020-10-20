@@ -42,10 +42,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#399](https://github.com/OperationCode/resources_api/issues/399) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
-2. 🗣 Commented on [#398](https://github.com/OperationCode/resources_api/issues/398) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
-3. 🗣 Commented on [#396](https://github.com/DXHeroes/dx-scanner/issues/396) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-4. 🗣 Commented on [#465](https://github.com/DXHeroes/dx-scanner/issues/465) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+1. 🗣 Commented on [#344](https://github.com/OperationCode/resources_api/issues/344) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+2. 💪 Opened PR [#404](https://github.com/OperationCode/resources_api/pull/404) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+3. 🗣 Commented on [#399](https://github.com/OperationCode/resources_api/issues/399) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+4. 🗣 Commented on [#398](https://github.com/OperationCode/resources_api/issues/398) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
 5. 🗣 Commented on [#396](https://github.com/DXHeroes/dx-scanner/issues/396) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
 <!--END_SECTION:activity-->
 
