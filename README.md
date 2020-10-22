@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#396](https://github.com/DXHeroes/dx-scanner/issues/396) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-2. 🗣 Commented on [#396](https://github.com/DXHeroes/dx-scanner/issues/396) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-3. 🎉 Merged PR [#13](https://github.com/king-11/P2P/pull/13) in [king-11/P2P](https://github.com/king-11/P2P)
-4. ❗️ Closed issue [#431](https://github.com/datenanfragen/website/issues/431) in [datenanfragen/website](https://github.com/datenanfragen/website)
-5. 🗣 Commented on [#400](https://github.com/OperationCode/resources_api/issues/400) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+1. 🗣 Commented on [#82](https://github.com/OperationCode/resources_api/issues/82) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+2. 🗣 Commented on [#400](https://github.com/OperationCode/resources_api/issues/400) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+3. 🗣 Commented on [#420](https://github.com/DXHeroes/dx-scanner/issues/420) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+4. 💪 Opened PR [#471](https://github.com/DXHeroes/dx-scanner/pull/471) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+5. 🗣 Commented on [#396](https://github.com/DXHeroes/dx-scanner/issues/396) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
