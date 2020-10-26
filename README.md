@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#472](https://github.com/DXHeroes/dx-scanner/pull/472) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-2. 🗣 Commented on [#471](https://github.com/DXHeroes/dx-scanner/issues/471) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
-3. 🗣 Commented on [#82](https://github.com/OperationCode/resources_api/issues/82) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
-4. ❗️ Opened issue [#871](https://github.com/denysdovhan/spaceship-prompt/issues/871) in [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
-5. 🗣 Commented on [#82](https://github.com/OperationCode/resources_api/issues/82) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+1. 💪 Opened PR [#872](https://github.com/denysdovhan/spaceship-prompt/pull/872) in [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
+2. 💪 Opened PR [#472](https://github.com/DXHeroes/dx-scanner/pull/472) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+3. 🗣 Commented on [#471](https://github.com/DXHeroes/dx-scanner/issues/471) in [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner)
+4. 🗣 Commented on [#82](https://github.com/OperationCode/resources_api/issues/82) in [OperationCode/resources_api](https://github.com/OperationCode/resources_api)
+5. ❗️ Opened issue [#871](https://github.com/denysdovhan/spaceship-prompt/issues/871) in [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
