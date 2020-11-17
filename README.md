@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9225](https://github.com/facebook/create-react-app/issues/9225) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-2. 💪 Opened PR [#20](https://github.com/COPS-IITBHU/cops-site/pull/20) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. 🗣 Commented on [#15](https://github.com/COPS-IITBHU/telegram-bots/issues/15) in [COPS-IITBHU/telegram-bots](https://github.com/COPS-IITBHU/telegram-bots)
-4. 💪 Opened PR [#15](https://github.com/COPS-IITBHU/telegram-bots/pull/15) in [COPS-IITBHU/telegram-bots](https://github.com/COPS-IITBHU/telegram-bots)
-5. 🗣 Commented on [#9](https://github.com/meedan/check/issues/9) in [meedan/check](https://github.com/meedan/check)
+1. 🎉 Merged PR [#14](https://github.com/king-11/P2P/pull/14) in [king-11/P2P](https://github.com/king-11/P2P)
+2. 🗣 Commented on [#9225](https://github.com/facebook/create-react-app/issues/9225) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+3. 💪 Opened PR [#20](https://github.com/COPS-IITBHU/cops-site/pull/20) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+4. 🗣 Commented on [#15](https://github.com/COPS-IITBHU/telegram-bots/issues/15) in [COPS-IITBHU/telegram-bots](https://github.com/COPS-IITBHU/telegram-bots)
+5. 💪 Opened PR [#15](https://github.com/COPS-IITBHU/telegram-bots/pull/15) in [COPS-IITBHU/telegram-bots](https://github.com/COPS-IITBHU/telegram-bots)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
