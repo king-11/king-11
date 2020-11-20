@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/king-11/P2P/pull/14) in [king-11/P2P](https://github.com/king-11/P2P)
-2. 🗣 Commented on [#9225](https://github.com/facebook/create-react-app/issues/9225) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-3. 💪 Opened PR [#20](https://github.com/COPS-IITBHU/cops-site/pull/20) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-4. 🗣 Commented on [#15](https://github.com/COPS-IITBHU/telegram-bots/issues/15) in [COPS-IITBHU/telegram-bots](https://github.com/COPS-IITBHU/telegram-bots)
-5. 💪 Opened PR [#15](https://github.com/COPS-IITBHU/telegram-bots/pull/15) in [COPS-IITBHU/telegram-bots](https://github.com/COPS-IITBHU/telegram-bots)
+1. 🗣 Commented on [#11](https://github.com/COPS-IITBHU/cops-site/issues/11) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+2. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/cops-site/issues/5) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+3. 🎉 Merged PR [#14](https://github.com/king-11/P2P/pull/14) in [king-11/P2P](https://github.com/king-11/P2P)
+4. 🗣 Commented on [#9225](https://github.com/facebook/create-react-app/issues/9225) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+5. 💪 Opened PR [#20](https://github.com/COPS-IITBHU/cops-site/pull/20) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
