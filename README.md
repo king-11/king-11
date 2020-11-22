@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/COPS-IITBHU/cops-website/pull/105) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-2. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/cops-site/issues/5) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. 💪 Opened PR [#23](https://github.com/COPS-IITBHU/cops-site/pull/23) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-4. 🗣 Commented on [#11](https://github.com/COPS-IITBHU/cops-site/issues/11) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-5. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/cops-site/issues/5) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+1. ❌ Closed PR [#70](https://github.com/google/it-cert-automation-practice/pull/70) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
+2. ❌ Closed PR [#327](https://github.com/COPS-IITBHU/hello-cops/pull/327) in [COPS-IITBHU/hello-cops](https://github.com/COPS-IITBHU/hello-cops)
+3. ❌ Reopened PR [#327](https://github.com/COPS-IITBHU/hello-cops/pull/327) in [COPS-IITBHU/hello-cops](https://github.com/COPS-IITBHU/hello-cops)
+4. ❌ Closed PR [#1144](https://github.com/wajahatkarim3/Hacktoberfest2019/pull/1144) in [wajahatkarim3/Hacktoberfest2019](https://github.com/wajahatkarim3/Hacktoberfest2019)
+5. ❌ Closed PR [#327](https://github.com/COPS-IITBHU/hello-cops/pull/327) in [COPS-IITBHU/hello-cops](https://github.com/COPS-IITBHU/hello-cops)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
