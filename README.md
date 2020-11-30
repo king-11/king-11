@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/COPS-IITBHU/cops-website/pull/106) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-2. 🗣 Commented on [#502](https://github.com/datenanfragen/website/issues/502) in [datenanfragen/website](https://github.com/datenanfragen/website)
-3. ❌ Closed PR [#70](https://github.com/google/it-cert-automation-practice/pull/70) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
-4. ❌ Closed PR [#327](https://github.com/COPS-IITBHU/hello-cops/pull/327) in [COPS-IITBHU/hello-cops](https://github.com/COPS-IITBHU/hello-cops)
-5. ❌ Reopened PR [#327](https://github.com/COPS-IITBHU/hello-cops/pull/327) in [COPS-IITBHU/hello-cops](https://github.com/COPS-IITBHU/hello-cops)
+1. ❗️ Opened issue [#16](https://github.com/COPS-IITBHU/DevTalks/issues/16) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
+2. 💪 Opened PR [#106](https://github.com/COPS-IITBHU/cops-website/pull/106) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+3. 🗣 Commented on [#502](https://github.com/datenanfragen/website/issues/502) in [datenanfragen/website](https://github.com/datenanfragen/website)
+4. ❌ Closed PR [#70](https://github.com/google/it-cert-automation-practice/pull/70) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
+5. ❌ Closed PR [#327](https://github.com/COPS-IITBHU/hello-cops/pull/327) in [COPS-IITBHU/hello-cops](https://github.com/COPS-IITBHU/hello-cops)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
