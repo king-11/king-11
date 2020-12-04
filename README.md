@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/king-11/Images_backend/pull/3) in [king-11/Images_backend](https://github.com/king-11/Images_backend)
-2. 🗣 Commented on [#493](https://github.com/datenanfragen/website/issues/493) in [datenanfragen/website](https://github.com/datenanfragen/website)
-3. 🗣 Commented on [#502](https://github.com/datenanfragen/website/issues/502) in [datenanfragen/website](https://github.com/datenanfragen/website)
-4. 💪 Opened PR [#24](https://github.com/COPS-IITBHU/cops-site/pull/24) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-5. ❌ Closed PR [#5](https://github.com/king-11/Nuxt_Images/pull/5) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+1. 🎉 Merged PR [#15](https://github.com/king-11/Nuxt_Images/pull/15) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+2. 💪 Opened PR [#15](https://github.com/king-11/Nuxt_Images/pull/15) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+3. 🗣 Commented on [#6](https://github.com/king-11/Nuxt_Images/issues/6) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+4. 🗣 Commented on [#7](https://github.com/king-11/Nuxt_Images/issues/7) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+5. 🎉 Merged PR [#10](https://github.com/king-11/Nuxt_Images/pull/10) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
