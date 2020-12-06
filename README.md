@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/COPS-IITBHU/cops-site/issues/28) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-2. ❗️ Closed issue [#22](https://github.com/COPS-IITBHU/cops-site/issues/22) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. 🗣 Commented on [#22](https://github.com/COPS-IITBHU/cops-site/issues/22) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-4. 🗣 Commented on [#14](https://github.com/king-11/Nuxt_Images/issues/14) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-5. 🎉 Merged PR [#12](https://github.com/king-11/Nuxt_Images/pull/12) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+1. ❗️ Closed issue [#3](https://github.com/COPS-IITBHU/cops-site/issues/3) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+2. 🗣 Commented on [#3](https://github.com/COPS-IITBHU/cops-site/issues/3) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+3. 🗣 Commented on [#27](https://github.com/COPS-IITBHU/cops-site/issues/27) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+4. 🗣 Commented on [#28](https://github.com/COPS-IITBHU/cops-site/issues/28) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+5. ❗️ Closed issue [#22](https://github.com/COPS-IITBHU/cops-site/issues/22) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
