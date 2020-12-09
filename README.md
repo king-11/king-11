@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#530](https://github.com/HTTP-APIs/hydrus/issues/530) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
-2. 🗣 Commented on [#14](https://github.com/king-11/Nuxt_Images/issues/14) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-3. 🗣 Commented on [#14](https://github.com/king-11/Nuxt_Images/issues/14) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-4. ❌ Closed PR [#16](https://github.com/king-11/Nuxt_Images/pull/16) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-5. 🗣 Commented on [#16](https://github.com/king-11/Nuxt_Images/issues/16) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+1. 🗣 Commented on [#530](https://github.com/HTTP-APIs/hydrus/issues/530) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+2. 💪 Opened PR [#80](https://github.com/IIT-BHU-InstiApp/workshops-app-backend/pull/80) in [IIT-BHU-InstiApp/workshops-app-backend](https://github.com/IIT-BHU-InstiApp/workshops-app-backend)
+3. ❗️ Opened issue [#530](https://github.com/HTTP-APIs/hydrus/issues/530) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+4. 🗣 Commented on [#14](https://github.com/king-11/Nuxt_Images/issues/14) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+5. 🗣 Commented on [#14](https://github.com/king-11/Nuxt_Images/issues/14) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
