@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/IIT-BHU-InstiApp/workshops-app-backend/issues/81) in [IIT-BHU-InstiApp/workshops-app-backend](https://github.com/IIT-BHU-InstiApp/workshops-app-backend)
-2. 💪 Opened PR [#9](https://github.com/aishwary023/orientation_bot/pull/9) in [aishwary023/orientation_bot](https://github.com/aishwary023/orientation_bot)
-3. ❗️ Opened issue [#4](https://github.com/simeydotme/sparticles/issues/4) in [simeydotme/sparticles](https://github.com/simeydotme/sparticles)
-4. 🗣 Commented on [#80](https://github.com/IIT-BHU-InstiApp/workshops-app-backend/issues/80) in [IIT-BHU-InstiApp/workshops-app-backend](https://github.com/IIT-BHU-InstiApp/workshops-app-backend)
-5. ❗️ Closed issue [#530](https://github.com/HTTP-APIs/hydrus/issues/530) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+1. 🗣 Commented on [#45](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/45) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
+2. 🗣 Commented on [#81](https://github.com/IIT-BHU-InstiApp/workshops-app-backend/issues/81) in [IIT-BHU-InstiApp/workshops-app-backend](https://github.com/IIT-BHU-InstiApp/workshops-app-backend)
+3. 💪 Opened PR [#9](https://github.com/aishwary023/orientation_bot/pull/9) in [aishwary023/orientation_bot](https://github.com/aishwary023/orientation_bot)
+4. ❗️ Opened issue [#4](https://github.com/simeydotme/sparticles/issues/4) in [simeydotme/sparticles](https://github.com/simeydotme/sparticles)
+5. 🗣 Commented on [#80](https://github.com/IIT-BHU-InstiApp/workshops-app-backend/issues/80) in [IIT-BHU-InstiApp/workshops-app-backend](https://github.com/IIT-BHU-InstiApp/workshops-app-backend)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
