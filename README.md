@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/king-11/Nuxt_Images/pull/23) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-2. 🎉 Merged PR [#24](https://github.com/king-11/Nuxt_Images/pull/24) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-3. 🗣 Commented on [#24](https://github.com/king-11/Nuxt_Images/issues/24) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-4. 🗣 Commented on [#28](https://github.com/king-11/Nuxt_Images/issues/28) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-5. 🎉 Merged PR [#25](https://github.com/king-11/Nuxt_Images/pull/25) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+1. 🗣 Commented on [#532](https://github.com/HTTP-APIs/hydrus/issues/532) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+2. 🎉 Merged PR [#23](https://github.com/king-11/Nuxt_Images/pull/23) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+3. 🎉 Merged PR [#24](https://github.com/king-11/Nuxt_Images/pull/24) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+4. 🗣 Commented on [#24](https://github.com/king-11/Nuxt_Images/issues/24) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+5. 🗣 Commented on [#28](https://github.com/king-11/Nuxt_Images/issues/28) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
