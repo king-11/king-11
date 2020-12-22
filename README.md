@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/king-11/Nuxt_Images/pull/34) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-2. 🎉 Merged PR [#33](https://github.com/king-11/Nuxt_Images/pull/33) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-3. 🎉 Merged PR [#32](https://github.com/king-11/Nuxt_Images/pull/32) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-4. 🎉 Merged PR [#31](https://github.com/king-11/Nuxt_Images/pull/31) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-5. 🗣 Commented on [#35](https://github.com/king-11/Nuxt_Images/issues/35) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+1. 🎉 Merged PR [#35](https://github.com/king-11/Nuxt_Images/pull/35) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+2. 🎉 Merged PR [#34](https://github.com/king-11/Nuxt_Images/pull/34) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+3. 🎉 Merged PR [#33](https://github.com/king-11/Nuxt_Images/pull/33) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+4. 🎉 Merged PR [#32](https://github.com/king-11/Nuxt_Images/pull/32) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+5. 🎉 Merged PR [#31](https://github.com/king-11/Nuxt_Images/pull/31) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
