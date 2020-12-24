@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/COPS-IITBHU/cops-site/issues/32) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-2. 💪 Opened PR [#32](https://github.com/COPS-IITBHU/cops-site/pull/32) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. 🗣 Commented on [#45](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/45) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
-4. 🎉 Merged PR [#35](https://github.com/king-11/Nuxt_Images/pull/35) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
-5. 🎉 Merged PR [#34](https://github.com/king-11/Nuxt_Images/pull/34) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+1. 🎉 Merged PR [#32](https://github.com/COPS-IITBHU/cops-site/pull/32) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+2. ❗️ Closed issue [#31](https://github.com/COPS-IITBHU/cops-site/issues/31) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+3. 🗣 Commented on [#32](https://github.com/COPS-IITBHU/cops-site/issues/32) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+4. 💪 Opened PR [#32](https://github.com/COPS-IITBHU/cops-site/pull/32) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+5. 🗣 Commented on [#45](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/45) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
