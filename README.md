@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/HTTP-APIs/hydrus/issues/379) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
-2. 🗣 Commented on [#379](https://github.com/HTTP-APIs/hydrus/issues/379) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
-3. 💪 Opened PR [#539](https://github.com/HTTP-APIs/hydrus/pull/539) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
-4. 💪 Opened PR [#537](https://github.com/HTTP-APIs/hydrus/pull/537) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
-5. ❗️ Opened issue [#535](https://github.com/HTTP-APIs/hydrus/issues/535) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+1. ❗️ Closed issue [#532](https://github.com/HTTP-APIs/hydrus/issues/532) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+2. 🗣 Commented on [#532](https://github.com/HTTP-APIs/hydrus/issues/532) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+3. ❗️ Closed issue [#535](https://github.com/HTTP-APIs/hydrus/issues/535) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+4. 🗣 Commented on [#535](https://github.com/HTTP-APIs/hydrus/issues/535) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+5. 🗣 Commented on [#379](https://github.com/HTTP-APIs/hydrus/issues/379) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
