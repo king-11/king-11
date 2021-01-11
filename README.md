@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/king-11/hydrus/pull/1) in [king-11/hydrus](https://github.com/king-11/hydrus)
-2. ❗️ Closed issue [#532](https://github.com/HTTP-APIs/hydrus/issues/532) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
-3. 🗣 Commented on [#532](https://github.com/HTTP-APIs/hydrus/issues/532) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
-4. ❗️ Closed issue [#535](https://github.com/HTTP-APIs/hydrus/issues/535) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
-5. 🗣 Commented on [#535](https://github.com/HTTP-APIs/hydrus/issues/535) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+1. ❗️ Closed issue [#16](https://github.com/COPS-IITBHU/DevTalks/issues/16) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
+2. ❌ Closed PR [#1](https://github.com/king-11/hydrus/pull/1) in [king-11/hydrus](https://github.com/king-11/hydrus)
+3. ❗️ Closed issue [#532](https://github.com/HTTP-APIs/hydrus/issues/532) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+4. 🗣 Commented on [#532](https://github.com/HTTP-APIs/hydrus/issues/532) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+5. ❗️ Closed issue [#535](https://github.com/HTTP-APIs/hydrus/issues/535) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
