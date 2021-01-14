@@ -46,9 +46,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#546](https://github.com/HTTP-APIs/hydrus/issues/546) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
 2. 🗣 Commented on [#546](https://github.com/HTTP-APIs/hydrus/issues/546) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
-3. 💪 Opened PR [#68](https://github.com/HTTP-APIs/hydra-python-core/pull/68) in [HTTP-APIs/hydra-python-core](https://github.com/HTTP-APIs/hydra-python-core)
-4. ❗️ Opened issue [#67](https://github.com/HTTP-APIs/hydra-python-core/issues/67) in [HTTP-APIs/hydra-python-core](https://github.com/HTTP-APIs/hydra-python-core)
-5. 🗣 Commented on [#522](https://github.com/HTTP-APIs/hydrus/issues/522) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+3. 🗣 Commented on [#546](https://github.com/HTTP-APIs/hydrus/issues/546) in [HTTP-APIs/hydrus](https://github.com/HTTP-APIs/hydrus)
+4. 💪 Opened PR [#68](https://github.com/HTTP-APIs/hydra-python-core/pull/68) in [HTTP-APIs/hydra-python-core](https://github.com/HTTP-APIs/hydra-python-core)
+5. ❗️ Opened issue [#67](https://github.com/HTTP-APIs/hydra-python-core/issues/67) in [HTTP-APIs/hydra-python-core](https://github.com/HTTP-APIs/hydra-python-core)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
