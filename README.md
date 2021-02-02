@@ -27,11 +27,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/COPS-IITBHU/hackalog-frontend/pull/34) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
-2. 💪 Opened PR [#32](https://github.com/COPS-IITBHU/hackalog-frontend/pull/32) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
-3. 💪 Opened PR [#27](https://github.com/COPS-IITBHU/hackalog-frontend/pull/27) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
-4. 🗣 Commented on [#3](https://github.com/HTTP-APIs/docs/issues/3) in [HTTP-APIs/docs](https://github.com/HTTP-APIs/docs)
-5. 🗣 Commented on [#68](https://github.com/HTTP-APIs/hydra-python-core/issues/68) in [HTTP-APIs/hydra-python-core](https://github.com/HTTP-APIs/hydra-python-core)
+1. 💪 Opened PR [#36](https://github.com/COPS-IITBHU/hackalog-frontend/pull/36) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+2. 💪 Opened PR [#34](https://github.com/COPS-IITBHU/hackalog-frontend/pull/34) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+3. 💪 Opened PR [#32](https://github.com/COPS-IITBHU/hackalog-frontend/pull/32) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+4. 💪 Opened PR [#27](https://github.com/COPS-IITBHU/hackalog-frontend/pull/27) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+5. 🗣 Commented on [#3](https://github.com/HTTP-APIs/docs/issues/3) in [HTTP-APIs/docs](https://github.com/HTTP-APIs/docs)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
