@@ -27,11 +27,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17134](https://github.com/chapel-lang/chapel/issues/17134) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. ❗️ Opened issue [#67](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/67) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
 2. 🗣 Commented on [#17134](https://github.com/chapel-lang/chapel/issues/17134) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#40](https://github.com/COPS-IITBHU/hackalog-frontend/issues/40) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+3. 🗣 Commented on [#17134](https://github.com/chapel-lang/chapel/issues/17134) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🗣 Commented on [#40](https://github.com/COPS-IITBHU/hackalog-frontend/issues/40) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
-5. 💪 Opened PR [#40](https://github.com/COPS-IITBHU/hackalog-frontend/pull/40) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+5. 🗣 Commented on [#40](https://github.com/COPS-IITBHU/hackalog-frontend/issues/40) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
