@@ -27,11 +27,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#67](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/67) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
-2. 🗣 Commented on [#17134](https://github.com/chapel-lang/chapel/issues/17134) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#17134](https://github.com/chapel-lang/chapel/issues/17134) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#40](https://github.com/COPS-IITBHU/hackalog-frontend/issues/40) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
-5. 🗣 Commented on [#40](https://github.com/COPS-IITBHU/hackalog-frontend/issues/40) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+1. 💪 Opened PR [#69](https://github.com/HTTP-APIs/hydra-python-agent-gui/pull/69) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
+2. 🗣 Commented on [#45](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/45) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
+3. ❗️ Opened issue [#68](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/68) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
+4. ❗️ Opened issue [#67](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/67) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
+5. 🗣 Commented on [#17134](https://github.com/chapel-lang/chapel/issues/17134) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
