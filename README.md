@@ -27,11 +27,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#68](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/68) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
-2. 🗣 Commented on [#17178](https://github.com/chapel-lang/chapel/issues/17178) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. ❗️ Opened issue [#17178](https://github.com/chapel-lang/chapel/issues/17178) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 💪 Opened PR [#69](https://github.com/HTTP-APIs/hydra-python-agent-gui/pull/69) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
-5. 🗣 Commented on [#45](https://github.com/HTTP-APIs/hydra-python-agent-gui/issues/45) in [HTTP-APIs/hydra-python-agent-gui](https://github.com/HTTP-APIs/hydra-python-agent-gui)
+1. 🎉 Merged PR [#41](https://github.com/king-11/Nuxt_Images/pull/41) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+2. 🗣 Commented on [#44](https://github.com/king-11/Nuxt_Images/issues/44) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+3. 🎉 Merged PR [#48](https://github.com/king-11/Nuxt_Images/pull/48) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+4. 🗣 Commented on [#50](https://github.com/king-11/Nuxt_Images/issues/50) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+5. 🎉 Merged PR [#53](https://github.com/king-11/Nuxt_Images/pull/53) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
