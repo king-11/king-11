@@ -33,10 +33,10 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17293](https://github.com/chapel-lang/chapel/pull/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#17178](https://github.com/chapel-lang/chapel/issues/17178) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 💪 Opened PR [#4](https://github.com/king-11/king-11/pull/4) in [king-11/king-11](https://github.com/king-11/king-11)
-4. 🗣 Commented on [#17178](https://github.com/chapel-lang/chapel/issues/17178) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#17293](https://github.com/chapel-lang/chapel/issues/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 💪 Opened PR [#17293](https://github.com/chapel-lang/chapel/pull/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 🗣 Commented on [#17178](https://github.com/chapel-lang/chapel/issues/17178) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. 💪 Opened PR [#4](https://github.com/king-11/king-11/pull/4) in [king-11/king-11](https://github.com/king-11/king-11)
 5. 🗣 Commented on [#17178](https://github.com/chapel-lang/chapel/issues/17178) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
