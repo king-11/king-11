@@ -33,11 +33,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17293](https://github.com/chapel-lang/chapel/issues/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. ❗️ Opened issue [#2360](https://github.com/vitejs/vite/issues/2360) in [vitejs/vite](https://github.com/vitejs/vite)
 2. 🗣 Commented on [#17293](https://github.com/chapel-lang/chapel/issues/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 3. 🗣 Commented on [#17293](https://github.com/chapel-lang/chapel/issues/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 💪 Opened PR [#17293](https://github.com/chapel-lang/chapel/pull/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 🗣 Commented on [#17178](https://github.com/chapel-lang/chapel/issues/17178) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. 🗣 Commented on [#17293](https://github.com/chapel-lang/chapel/issues/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+5. 💪 Opened PR [#17293](https://github.com/chapel-lang/chapel/pull/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
