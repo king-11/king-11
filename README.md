@@ -37,7 +37,7 @@ Courtesy https://metrics.lecoq.io/
 2. 🗣 Commented on [#16767](https://github.com/chapel-lang/chapel/issues/16767) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 3. 🗣 Commented on [#16767](https://github.com/chapel-lang/chapel/issues/16767) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🗣 Commented on [#16767](https://github.com/chapel-lang/chapel/issues/16767) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. ❌ Closed PR [#70](https://github.com/king-11/Nuxt_Images/pull/70) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+5. 🗣 Commented on [#16767](https://github.com/chapel-lang/chapel/issues/16767) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
