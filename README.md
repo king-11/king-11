@@ -33,9 +33,9 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16767](https://github.com/chapel-lang/chapel/issues/16767) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#16922](https://github.com/chapel-lang/chapel/issues/16922) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#16552](https://github.com/chapel-lang/chapel/issues/16552) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#16733](https://github.com/chapel-lang/chapel/issues/16733) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#16767](https://github.com/chapel-lang/chapel/issues/16767) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 🗣 Commented on [#16922](https://github.com/chapel-lang/chapel/issues/16922) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🗣 Commented on [#16552](https://github.com/chapel-lang/chapel/issues/16552) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 5. 🗣 Commented on [#16552](https://github.com/chapel-lang/chapel/issues/16552) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
