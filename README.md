@@ -33,11 +33,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/facebookresearch/fastText/issues/161) in [facebookresearch/fastText](https://github.com/facebookresearch/fastText)
-2. 🗣 Commented on [#17453](https://github.com/chapel-lang/chapel/issues/17453) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#17388](https://github.com/chapel-lang/chapel/issues/17388) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#17388](https://github.com/chapel-lang/chapel/issues/17388) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#161](https://github.com/facebookresearch/fastText/issues/161) in [facebookresearch/fastText](https://github.com/facebookresearch/fastText)
+3. 🗣 Commented on [#17453](https://github.com/chapel-lang/chapel/issues/17453) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🗣 Commented on [#17388](https://github.com/chapel-lang/chapel/issues/17388) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 🗣 Commented on [#17453](https://github.com/chapel-lang/chapel/issues/17453) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+5. 🗣 Commented on [#17388](https://github.com/chapel-lang/chapel/issues/17388) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
