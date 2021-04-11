@@ -33,11 +33,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8758](https://github.com/chapel-lang/chapel/issues/8758) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#16755](https://github.com/chapel-lang/chapel/issues/16755) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#16394](https://github.com/chapel-lang/chapel/issues/16394) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#17293](https://github.com/chapel-lang/chapel/issues/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 🗣 Commented on [#17453](https://github.com/chapel-lang/chapel/issues/17453) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 💪 Opened PR [#17559](https://github.com/chapel-lang/chapel/pull/17559) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#8758](https://github.com/chapel-lang/chapel/issues/8758) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 🗣 Commented on [#8758](https://github.com/chapel-lang/chapel/issues/8758) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. 🗣 Commented on [#16755](https://github.com/chapel-lang/chapel/issues/16755) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+5. 🗣 Commented on [#16394](https://github.com/chapel-lang/chapel/issues/16394) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
