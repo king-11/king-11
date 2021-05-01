@@ -33,8 +33,8 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/windicss/docs/pull/55) in [windicss/docs](https://github.com/windicss/docs)
-2. 🗣 Commented on [#17559](https://github.com/chapel-lang/chapel/issues/17559) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#17293](https://github.com/chapel-lang/chapel/issues/17293) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 💪 Opened PR [#55](https://github.com/windicss/docs/pull/55) in [windicss/docs](https://github.com/windicss/docs)
 3. 🗣 Commented on [#17559](https://github.com/chapel-lang/chapel/issues/17559) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🗣 Commented on [#17559](https://github.com/chapel-lang/chapel/issues/17559) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 5. 🗣 Commented on [#17559](https://github.com/chapel-lang/chapel/issues/17559) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
