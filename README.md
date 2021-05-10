@@ -33,11 +33,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/COPS-IITBHU/cops-site/issues/36) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-2. ❗️ Opened issue [#35](https://github.com/COPS-IITBHU/cops-site/issues/35) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. ❗️ Opened issue [#34](https://github.com/COPS-IITBHU/cops-site/issues/34) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-4. ❌ Closed PR [#30](https://github.com/COPS-IITBHU/cops-site/pull/30) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-5. 💪 Opened PR [#33](https://github.com/COPS-IITBHU/cops-site/pull/33) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+1. 🗣 Commented on [#18](https://github.com/vueuse/motion/issues/18) in [vueuse/motion](https://github.com/vueuse/motion)
+2. ❗️ Opened issue [#36](https://github.com/COPS-IITBHU/cops-site/issues/36) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+3. ❗️ Opened issue [#35](https://github.com/COPS-IITBHU/cops-site/issues/35) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+4. ❗️ Opened issue [#34](https://github.com/COPS-IITBHU/cops-site/issues/34) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+5. ❌ Closed PR [#30](https://github.com/COPS-IITBHU/cops-site/pull/30) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
