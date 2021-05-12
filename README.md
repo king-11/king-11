@@ -33,11 +33,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/COPS-IITBHU/cops-site/pull/37) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-2. ❌ Closed PR [#33](https://github.com/COPS-IITBHU/cops-site/pull/33) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. 🗣 Commented on [#33](https://github.com/COPS-IITBHU/cops-site/issues/33) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-4. 🗣 Commented on [#18](https://github.com/vueuse/motion/issues/18) in [vueuse/motion](https://github.com/vueuse/motion)
-5. ❗️ Opened issue [#36](https://github.com/COPS-IITBHU/cops-site/issues/36) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+1. 🗣 Commented on [#71](https://github.com/king-11/Nuxt_Images/issues/71) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+2. 🗣 Commented on [#72](https://github.com/king-11/Nuxt_Images/issues/72) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+3. 🗣 Commented on [#74](https://github.com/king-11/Nuxt_Images/issues/74) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+4. 💪 Opened PR [#37](https://github.com/COPS-IITBHU/cops-site/pull/37) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+5. ❌ Closed PR [#33](https://github.com/COPS-IITBHU/cops-site/pull/33) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
