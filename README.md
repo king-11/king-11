@@ -33,11 +33,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/vueuse/motion/issues/18) in [vueuse/motion](https://github.com/vueuse/motion)
-2. ❗️ Opened issue [#38](https://github.com/COPS-IITBHU/cops-site/issues/38) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. 🎉 Merged PR [#37](https://github.com/COPS-IITBHU/cops-site/pull/37) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-4. 🗣 Commented on [#17559](https://github.com/chapel-lang/chapel/issues/17559) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 🗣 Commented on [#71](https://github.com/king-11/Nuxt_Images/issues/71) in [king-11/Nuxt_Images](https://github.com/king-11/Nuxt_Images)
+1. ❗️ Opened issue [#40](https://github.com/COPS-IITBHU/cops-site/issues/40) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+2. 🗣 Commented on [#36](https://github.com/COPS-IITBHU/cops-site/issues/36) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+3. ❗️ Opened issue [#39](https://github.com/COPS-IITBHU/cops-site/issues/39) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+4. ❗️ Opened issue [#39](https://github.com/COPS-IITBHU/hackalog-backend/issues/39) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
+5. ❗️ Opened issue [#38](https://github.com/COPS-IITBHU/hackalog-backend/issues/38) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
 <!--END_SECTION:activity-->
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" /></h3><br>
