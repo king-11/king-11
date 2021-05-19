@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/COPS-IITBHU/hackalog-frontend/issues/78) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
-2. 🗣 Commented on [#1073](https://github.com/dateutil/dateutil/issues/1073) in [dateutil/dateutil](https://github.com/dateutil/dateutil)
-3. 🗣 Commented on [#34](https://github.com/COPS-IITBHU/cops-site/issues/34) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-4. 🗣 Commented on [#73](https://github.com/COPS-IITBHU/hackalog-frontend/issues/73) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
-5. ❗️ Opened issue [#98](https://github.com/IIT-BHU-InstiApp/lite-hai-backend/issues/98) in [IIT-BHU-InstiApp/lite-hai-backend](https://github.com/IIT-BHU-InstiApp/lite-hai-backend)
+1. 💪 Opened PR [#41](https://github.com/COPS-IITBHU/cops-site/pull/41) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+2. 🗣 Commented on [#78](https://github.com/COPS-IITBHU/hackalog-frontend/issues/78) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+3. 🗣 Commented on [#1073](https://github.com/dateutil/dateutil/issues/1073) in [dateutil/dateutil](https://github.com/dateutil/dateutil)
+4. 🗣 Commented on [#34](https://github.com/COPS-IITBHU/cops-site/issues/34) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+5. 🗣 Commented on [#73](https://github.com/COPS-IITBHU/hackalog-frontend/issues/73) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
