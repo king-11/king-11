@@ -18,7 +18,7 @@ I am a Full Stack Web Developer who is very enthusiastic about learning new tech
 
 - 📫 How to reach me **lakshay.sing1108@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mpDh24UiGlVaIctNEP1eJCMBKhnGmL8t/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PeYTmwqPhtzgPAdKjQJQRdvEbmmKRXrO/view?usp=sharing)
 
 - ⚡ Fun fact **I love reading books and making memes**
 <br>
