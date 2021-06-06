@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#44](https://github.com/COPS-IITBHU/cops-site/pull/44) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-2. 🗣 Commented on [#44](https://github.com/COPS-IITBHU/cops-site/issues/44) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-3. 🎉 Merged PR [#17](https://github.com/COPS-IITBHU/csoc-2021-algorithms/pull/17) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
-4. 🎉 Merged PR [#12](https://github.com/COPS-IITBHU/csoc-2021-algorithms/pull/12) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
-5. 🎉 Merged PR [#2](https://github.com/COPS-IITBHU/csoc-2021-algorithms/pull/2) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
+1. ❗️ Closed issue [#17178](https://github.com/chapel-lang/chapel/issues/17178) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. ❌ Closed PR [#44](https://github.com/COPS-IITBHU/cops-site/pull/44) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+3. 🗣 Commented on [#44](https://github.com/COPS-IITBHU/cops-site/issues/44) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+4. 🎉 Merged PR [#17](https://github.com/COPS-IITBHU/csoc-2021-algorithms/pull/17) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
+5. 🎉 Merged PR [#12](https://github.com/COPS-IITBHU/csoc-2021-algorithms/pull/12) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
