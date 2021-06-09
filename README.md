@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/COPS-IITBHU/csoc-2021-algorithms/issues/15) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
-2. 🗣 Commented on [#131](https://github.com/COPS-IITBHU/csoc-2021-namecards/issues/131) in [COPS-IITBHU/csoc-2021-namecards](https://github.com/COPS-IITBHU/csoc-2021-namecards)
-3. 🎉 Merged PR [#18](https://github.com/COPS-IITBHU/csoc-2021-algorithms/pull/18) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
-4. ❌ Closed PR [#3](https://github.com/COPS-IITBHU/csoc-2021-algorithms/pull/3) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
-5. 🗣 Commented on [#3](https://github.com/COPS-IITBHU/csoc-2021-algorithms/issues/3) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
+1. 🗣 Commented on [#172](https://github.com/COPS-IITBHU/csoc-2021-namecards/issues/172) in [COPS-IITBHU/csoc-2021-namecards](https://github.com/COPS-IITBHU/csoc-2021-namecards)
+2. 🗣 Commented on [#15](https://github.com/COPS-IITBHU/csoc-2021-algorithms/issues/15) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
+3. 🗣 Commented on [#131](https://github.com/COPS-IITBHU/csoc-2021-namecards/issues/131) in [COPS-IITBHU/csoc-2021-namecards](https://github.com/COPS-IITBHU/csoc-2021-namecards)
+4. 🎉 Merged PR [#18](https://github.com/COPS-IITBHU/csoc-2021-algorithms/pull/18) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
+5. ❌ Closed PR [#3](https://github.com/COPS-IITBHU/csoc-2021-algorithms/pull/3) in [COPS-IITBHU/csoc-2021-algorithms](https://github.com/COPS-IITBHU/csoc-2021-algorithms)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
