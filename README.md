@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17932](https://github.com/chapel-lang/chapel/pull/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/8) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
+1. 💪 Opened PR [#19](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/19) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+2. 💪 Opened PR [#17932](https://github.com/chapel-lang/chapel/pull/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 3. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/8) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
-4. 🗣 Commented on [#3](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/3) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
-5. 💪 Opened PR [#17899](https://github.com/chapel-lang/chapel/pull/17899) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/8) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
+5. 🗣 Commented on [#3](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/3) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
