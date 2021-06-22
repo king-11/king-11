@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 💪 Opened PR [#17960](https://github.com/chapel-lang/chapel/pull/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🎉 Merged PR [#1](https://github.com/king-11/Information-Technology-Workshop/pull/1) in [king-11/Information-Technology-Workshop](https://github.com/king-11/Information-Technology-Workshop)
-4. 🗣 Commented on [#1](https://github.com/king-11/Information-Technology-Workshop/issues/1) in [king-11/Information-Technology-Workshop](https://github.com/king-11/Information-Technology-Workshop)
-5. 🎉 Merged PR [#19](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/19) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+1. 🗣 Commented on [#91](https://github.com/nuxt/vite/issues/91) in [nuxt/vite](https://github.com/nuxt/vite)
+2. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 💪 Opened PR [#17960](https://github.com/chapel-lang/chapel/pull/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. 🎉 Merged PR [#1](https://github.com/king-11/Information-Technology-Workshop/pull/1) in [king-11/Information-Technology-Workshop](https://github.com/king-11/Information-Technology-Workshop)
+5. 🗣 Commented on [#1](https://github.com/king-11/Information-Technology-Workshop/issues/1) in [king-11/Information-Technology-Workshop](https://github.com/king-11/Information-Technology-Workshop)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
