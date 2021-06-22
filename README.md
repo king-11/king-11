@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/king-11/Information-Technology-Workshop/pull/1) in [king-11/Information-Technology-Workshop](https://github.com/king-11/Information-Technology-Workshop)
-2. 🗣 Commented on [#1](https://github.com/king-11/Information-Technology-Workshop/issues/1) in [king-11/Information-Technology-Workshop](https://github.com/king-11/Information-Technology-Workshop)
-3. 🎉 Merged PR [#19](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/19) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-4. 💪 Opened PR [#17953](https://github.com/chapel-lang/chapel/pull/17953) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 💪 Opened PR [#19](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/19) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+1. 💪 Opened PR [#17960](https://github.com/chapel-lang/chapel/pull/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🎉 Merged PR [#1](https://github.com/king-11/Information-Technology-Workshop/pull/1) in [king-11/Information-Technology-Workshop](https://github.com/king-11/Information-Technology-Workshop)
+3. 🗣 Commented on [#1](https://github.com/king-11/Information-Technology-Workshop/issues/1) in [king-11/Information-Technology-Workshop](https://github.com/king-11/Information-Technology-Workshop)
+4. 🎉 Merged PR [#19](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/19) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+5. 💪 Opened PR [#17953](https://github.com/chapel-lang/chapel/pull/17953) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
