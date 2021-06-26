@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. ❌ Closed PR [#2](https://github.com/king-11/chapel/pull/2) in [king-11/chapel](https://github.com/king-11/chapel)
-3. 🎉 Merged PR [#2](https://github.com/COPS-IITBHU/csoc-2021-task-3-reactjs/pull/2) in [COPS-IITBHU/csoc-2021-task-3-reactjs](https://github.com/COPS-IITBHU/csoc-2021-task-3-reactjs)
-4. 🎉 Merged PR [#13](https://github.com/COPS-IITBHU/csoc-2021-task-1/pull/13) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
-5. 🗣 Commented on [#13](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/13) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
+1. 💪 Opened PR [#17988](https://github.com/chapel-lang/chapel/pull/17988) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. ❌ Closed PR [#2](https://github.com/king-11/chapel/pull/2) in [king-11/chapel](https://github.com/king-11/chapel)
+4. 🎉 Merged PR [#2](https://github.com/COPS-IITBHU/csoc-2021-task-3-reactjs/pull/2) in [COPS-IITBHU/csoc-2021-task-3-reactjs](https://github.com/COPS-IITBHU/csoc-2021-task-3-reactjs)
+5. 🎉 Merged PR [#13](https://github.com/COPS-IITBHU/csoc-2021-task-1/pull/13) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
