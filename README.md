@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/COPS-IITBHU/csoc-2021-task-1/pull/13) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
-2. 🗣 Commented on [#13](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/13) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
-3. 🎉 Merged PR [#9](https://github.com/COPS-IITBHU/csoc-2021-task-1/pull/9) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
-4. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/9) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
-5. 🗣 Commented on [#91](https://github.com/nuxt/vite/issues/91) in [nuxt/vite](https://github.com/nuxt/vite)
+1. 🎉 Merged PR [#2](https://github.com/COPS-IITBHU/csoc-2021-task-3-reactjs/pull/2) in [COPS-IITBHU/csoc-2021-task-3-reactjs](https://github.com/COPS-IITBHU/csoc-2021-task-3-reactjs)
+2. 🎉 Merged PR [#13](https://github.com/COPS-IITBHU/csoc-2021-task-1/pull/13) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
+3. 🗣 Commented on [#13](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/13) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
+4. 🎉 Merged PR [#9](https://github.com/COPS-IITBHU/csoc-2021-task-1/pull/9) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
+5. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/9) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
