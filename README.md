@@ -33,10 +33,10 @@ Courtesy https://metrics.lecoq.io/
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/8) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
+2. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 3. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/8) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
-4. 🗣 Commented on [#39](https://github.com/cncf/tag-observability/issues/39) in [cncf/tag-observability](https://github.com/cncf/tag-observability)
-5. 💪 Opened PR [#17988](https://github.com/chapel-lang/chapel/pull/17988) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/8) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
+5. 🗣 Commented on [#39](https://github.com/cncf/tag-observability/issues/39) in [cncf/tag-observability](https://github.com/cncf/tag-observability)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
