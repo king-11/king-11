@@ -32,10 +32,10 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 💪 Opened PR [#18019](https://github.com/chapel-lang/chapel/pull/18019) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 💪 Opened PR [#1499](https://github.com/vuejs/devtools/pull/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
-4. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#1499](https://github.com/vuejs/devtools/issues/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
+2. ❗️ Opened issue [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 💪 Opened PR [#18019](https://github.com/chapel-lang/chapel/pull/18019) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. 💪 Opened PR [#1499](https://github.com/vuejs/devtools/pull/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
 5. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
