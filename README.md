@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1499](https://github.com/vuejs/devtools/pull/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
-2. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/8) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
-5. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/csoc-2021-task-1/issues/8) in [COPS-IITBHU/csoc-2021-task-1](https://github.com/COPS-IITBHU/csoc-2021-task-1)
+1. ❗️ Opened issue [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 💪 Opened PR [#18019](https://github.com/chapel-lang/chapel/pull/18019) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 💪 Opened PR [#1499](https://github.com/vuejs/devtools/pull/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
+4. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+5. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
