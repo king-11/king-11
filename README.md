@@ -33,10 +33,10 @@ Courtesy https://metrics.lecoq.io/
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1499](https://github.com/vuejs/devtools/issues/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
-2. ❗️ Opened issue [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 💪 Opened PR [#18019](https://github.com/chapel-lang/chapel/pull/18019) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 💪 Opened PR [#1499](https://github.com/vuejs/devtools/pull/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
-5. 🗣 Commented on [#17932](https://github.com/chapel-lang/chapel/issues/17932) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 🗣 Commented on [#1499](https://github.com/vuejs/devtools/issues/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
+4. ❗️ Opened issue [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+5. 💪 Opened PR [#18019](https://github.com/chapel-lang/chapel/pull/18019) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
