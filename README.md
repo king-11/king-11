@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#975](https://github.com/PKief/vscode-material-icon-theme/issues/975) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-2. 🗣 Commented on [#1499](https://github.com/vuejs/devtools/issues/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
-3. 🗣 Commented on [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#1499](https://github.com/vuejs/devtools/issues/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
-5. ❗️ Opened issue [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#4](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/4) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
+2. 🗣 Commented on [#2](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/2) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
+3. 🗣 Commented on [#3](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/3) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
+4. 🗣 Commented on [#975](https://github.com/PKief/vscode-material-icon-theme/issues/975) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+5. 🗣 Commented on [#1499](https://github.com/vuejs/devtools/issues/1499) in [vuejs/devtools](https://github.com/vuejs/devtools)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
