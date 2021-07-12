@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/5) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
-2. 🗣 Commented on [#6](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/6) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
-3. 🗣 Commented on [#4](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/4) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
-4. 🗣 Commented on [#4](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/4) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
-5. 🗣 Commented on [#4](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/4) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
+1. 💪 Opened PR [#1978](https://github.com/pgRouting/pgrouting/pull/1978) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
+2. 🗣 Commented on [#1944](https://github.com/pgRouting/pgrouting/issues/1944) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
+3. 💪 Opened PR [#1977](https://github.com/pgRouting/pgrouting/pull/1977) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
+4. 🗣 Commented on [#1956](https://github.com/pgRouting/pgrouting/issues/1956) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
+5. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/5) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
