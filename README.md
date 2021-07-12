@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/4) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
-2. 🗣 Commented on [#4](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/4) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
+1. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/5) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
+2. 🗣 Commented on [#6](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/6) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
 3. 🗣 Commented on [#4](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/4) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
-4. 🗣 Commented on [#2](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/2) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
-5. 🗣 Commented on [#3](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/3) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
+4. 🗣 Commented on [#4](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/4) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
+5. 🗣 Commented on [#4](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/4) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
