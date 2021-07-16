@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1912](https://github.com/pgRouting/pgrouting/issues/1912) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
-2. 🗣 Commented on [#1922](https://github.com/pgRouting/pgrouting/issues/1922) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
-3. 🗣 Commented on [#1996](https://github.com/pgRouting/pgrouting/issues/1996) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
-4. 💪 Opened PR [#1996](https://github.com/pgRouting/pgrouting/pull/1996) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
-5. ❌ Closed PR [#1995](https://github.com/pgRouting/pgrouting/pull/1995) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
+1. 💪 Opened PR [#2010](https://github.com/pgRouting/pgrouting/pull/2010) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
+2. 🗣 Commented on [#1913](https://github.com/pgRouting/pgrouting/issues/1913) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
+3. 🗣 Commented on [#1913](https://github.com/pgRouting/pgrouting/issues/1913) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
+4. 💪 Opened PR [#2009](https://github.com/pgRouting/pgrouting/pull/2009) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
+5. 🗣 Commented on [#1912](https://github.com/pgRouting/pgrouting/issues/1912) in [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
