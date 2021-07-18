@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18072](https://github.com/chapel-lang/chapel/issues/18072) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#3](https://github.com/supabase/vue-supabase/issues/3) in [supabase/vue-supabase](https://github.com/supabase/vue-supabase)
+2. 🗣 Commented on [#18072](https://github.com/chapel-lang/chapel/issues/18072) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 3. 🗣 Commented on [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🗣 Commented on [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 💪 Opened PR [#18072](https://github.com/chapel-lang/chapel/pull/18072) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+5. 🗣 Commented on [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
