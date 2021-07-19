@@ -32,10 +32,10 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#162](https://github.com/nuxt/vite/issues/162) in [nuxt/vite](https://github.com/nuxt/vite)
-2. 🗣 Commented on [#3](https://github.com/supabase/vue-supabase/issues/3) in [supabase/vue-supabase](https://github.com/supabase/vue-supabase)
-3. 🗣 Commented on [#18072](https://github.com/chapel-lang/chapel/issues/18072) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#88](https://github.com/Qthreads/qthreads/issues/88) in [Qthreads/qthreads](https://github.com/Qthreads/qthreads)
+2. 🗣 Commented on [#162](https://github.com/nuxt/vite/issues/162) in [nuxt/vite](https://github.com/nuxt/vite)
+3. 🗣 Commented on [#3](https://github.com/supabase/vue-supabase/issues/3) in [supabase/vue-supabase](https://github.com/supabase/vue-supabase)
+4. 🗣 Commented on [#18072](https://github.com/chapel-lang/chapel/issues/18072) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 5. 🗣 Commented on [#18020](https://github.com/chapel-lang/chapel/issues/18020) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
