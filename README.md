@@ -33,10 +33,10 @@ Courtesy https://metrics.lecoq.io/
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18165](https://github.com/chapel-lang/chapel/issues/18165) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#18011](https://github.com/chapel-lang/chapel/issues/18011) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. ❗️ Closed issue [#88](https://github.com/Qthreads/qthreads/issues/88) in [Qthreads/qthreads](https://github.com/Qthreads/qthreads)
-4. 🗣 Commented on [#88](https://github.com/Qthreads/qthreads/issues/88) in [Qthreads/qthreads](https://github.com/Qthreads/qthreads)
-5. 🗣 Commented on [#3](https://github.com/supabase/vue-supabase/issues/3) in [supabase/vue-supabase](https://github.com/supabase/vue-supabase)
+2. 🗣 Commented on [#18165](https://github.com/chapel-lang/chapel/issues/18165) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 🗣 Commented on [#18011](https://github.com/chapel-lang/chapel/issues/18011) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. ❗️ Closed issue [#88](https://github.com/Qthreads/qthreads/issues/88) in [Qthreads/qthreads](https://github.com/Qthreads/qthreads)
+5. 🗣 Commented on [#88](https://github.com/Qthreads/qthreads/issues/88) in [Qthreads/qthreads](https://github.com/Qthreads/qthreads)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
