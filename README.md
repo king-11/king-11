@@ -32,10 +32,10 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1813](https://github.com/SergioBenitez/Rocket/issues/1813) in [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
-2. 💪 Opened PR [#978](https://github.com/dabutvin/Imgbot/pull/978) in [dabutvin/Imgbot](https://github.com/dabutvin/Imgbot)
-3. 💪 Opened PR [#1813](https://github.com/SergioBenitez/Rocket/pull/1813) in [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
-4. 🗣 Commented on [#18165](https://github.com/chapel-lang/chapel/issues/18165) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#978](https://github.com/dabutvin/Imgbot/issues/978) in [dabutvin/Imgbot](https://github.com/dabutvin/Imgbot)
+2. 🗣 Commented on [#1813](https://github.com/SergioBenitez/Rocket/issues/1813) in [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
+3. 💪 Opened PR [#978](https://github.com/dabutvin/Imgbot/pull/978) in [dabutvin/Imgbot](https://github.com/dabutvin/Imgbot)
+4. 💪 Opened PR [#1813](https://github.com/SergioBenitez/Rocket/pull/1813) in [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
 5. 🗣 Commented on [#18165](https://github.com/chapel-lang/chapel/issues/18165) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
