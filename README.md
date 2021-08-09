@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#978](https://github.com/dabutvin/Imgbot/issues/978) in [dabutvin/Imgbot](https://github.com/dabutvin/Imgbot)
-2. 🗣 Commented on [#1813](https://github.com/SergioBenitez/Rocket/issues/1813) in [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
-3. 💪 Opened PR [#978](https://github.com/dabutvin/Imgbot/pull/978) in [dabutvin/Imgbot](https://github.com/dabutvin/Imgbot)
-4. 💪 Opened PR [#1813](https://github.com/SergioBenitez/Rocket/pull/1813) in [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
-5. 🗣 Commented on [#18165](https://github.com/chapel-lang/chapel/issues/18165) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 💪 Opened PR [#2](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22/pull/2) in [loud-mouth/IIT-BHU-Intern-2021-22](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22)
+2. 🎉 Merged PR [#1](https://github.com/king-11/IIT-BHU-Intern-2021-22/pull/1) in [king-11/IIT-BHU-Intern-2021-22](https://github.com/king-11/IIT-BHU-Intern-2021-22)
+3. 💪 Opened PR [#1](https://github.com/king-11/IIT-BHU-Intern-2021-22/pull/1) in [king-11/IIT-BHU-Intern-2021-22](https://github.com/king-11/IIT-BHU-Intern-2021-22)
+4. 🗣 Commented on [#978](https://github.com/dabutvin/Imgbot/issues/978) in [dabutvin/Imgbot](https://github.com/dabutvin/Imgbot)
+5. 🗣 Commented on [#1813](https://github.com/SergioBenitez/Rocket/issues/1813) in [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
