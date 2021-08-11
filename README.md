@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22/pull/2) in [loud-mouth/IIT-BHU-Intern-2021-22](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22)
-2. 🗣 Commented on [#2](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22/issues/2) in [loud-mouth/IIT-BHU-Intern-2021-22](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22)
-3. 💪 Opened PR [#2](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22/pull/2) in [loud-mouth/IIT-BHU-Intern-2021-22](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22)
-4. 🎉 Merged PR [#1](https://github.com/king-11/IIT-BHU-Intern-2021-22/pull/1) in [king-11/IIT-BHU-Intern-2021-22](https://github.com/king-11/IIT-BHU-Intern-2021-22)
-5. 💪 Opened PR [#1](https://github.com/king-11/IIT-BHU-Intern-2021-22/pull/1) in [king-11/IIT-BHU-Intern-2021-22](https://github.com/king-11/IIT-BHU-Intern-2021-22)
+1. 🗣 Commented on [#8606](https://github.com/vitessio/vitess/issues/8606) in [vitessio/vitess](https://github.com/vitessio/vitess)
+2. ❌ Closed PR [#2](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22/pull/2) in [loud-mouth/IIT-BHU-Intern-2021-22](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22)
+3. 🗣 Commented on [#2](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22/issues/2) in [loud-mouth/IIT-BHU-Intern-2021-22](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22)
+4. 💪 Opened PR [#2](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22/pull/2) in [loud-mouth/IIT-BHU-Intern-2021-22](https://github.com/loud-mouth/IIT-BHU-Intern-2021-22)
+5. 🎉 Merged PR [#1](https://github.com/king-11/IIT-BHU-Intern-2021-22/pull/1) in [king-11/IIT-BHU-Intern-2021-22](https://github.com/king-11/IIT-BHU-Intern-2021-22)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
