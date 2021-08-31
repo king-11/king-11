@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/COPS-IITBHU/cops-site/issues/34) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
-2. 🗣 Commented on [#116](https://github.com/COPS-IITBHU/cops-website/issues/116) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-3. 🗣 Commented on [#8606](https://github.com/vitessio/vitess/issues/8606) in [vitessio/vitess](https://github.com/vitessio/vitess)
-4. 🗣 Commented on [#10](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/10) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
-5. 🗣 Commented on [#978](https://github.com/imgbot/Imgbot/issues/978) in [imgbot/Imgbot](https://github.com/imgbot/Imgbot)
+1. 🗣 Commented on [#1404](https://github.com/rust-lang/crates.io/issues/1404) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+2. 🗣 Commented on [#34](https://github.com/COPS-IITBHU/cops-site/issues/34) in [COPS-IITBHU/cops-site](https://github.com/COPS-IITBHU/cops-site)
+3. 🗣 Commented on [#116](https://github.com/COPS-IITBHU/cops-website/issues/116) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+4. 🗣 Commented on [#8606](https://github.com/vitessio/vitess/issues/8606) in [vitessio/vitess](https://github.com/vitessio/vitess)
+5. 🗣 Commented on [#10](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue/issues/10) in [COPS-IITBHU/csoc-2021-task-3-vue](https://github.com/COPS-IITBHU/csoc-2021-task-3-vue)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
