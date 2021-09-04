@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17453](https://github.com/chapel-lang/chapel/issues/17453) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. ❗️ Opened issue [#4](https://github.com/king-11/genx/issues/4) in [king-11/genx](https://github.com/king-11/genx)
-3. 🗣 Commented on [#1](https://github.com/king-11/genx/issues/1) in [king-11/genx](https://github.com/king-11/genx)
-4. ❗️ Closed issue [#1](https://github.com/king-11/genx/issues/1) in [king-11/genx](https://github.com/king-11/genx)
-5. 🗣 Commented on [#2](https://github.com/king-11/genx/issues/2) in [king-11/genx](https://github.com/king-11/genx)
+1. 🗣 Commented on [#18345](https://github.com/chapel-lang/chapel/issues/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 💪 Opened PR [#18345](https://github.com/chapel-lang/chapel/pull/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 🗣 Commented on [#17453](https://github.com/chapel-lang/chapel/issues/17453) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. ❗️ Opened issue [#4](https://github.com/king-11/genx/issues/4) in [king-11/genx](https://github.com/king-11/genx)
+5. 🗣 Commented on [#1](https://github.com/king-11/genx/issues/1) in [king-11/genx](https://github.com/king-11/genx)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
