@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/king-11/genx/pull/8) in [king-11/genx](https://github.com/king-11/genx)
-2. 🎉 Merged PR [#7](https://github.com/king-11/genx/pull/7) in [king-11/genx](https://github.com/king-11/genx)
-3. 💪 Opened PR [#8](https://github.com/king-11/genx/pull/8) in [king-11/genx](https://github.com/king-11/genx)
-4. 💪 Opened PR [#7](https://github.com/king-11/genx/pull/7) in [king-11/genx](https://github.com/king-11/genx)
-5. ❗️ Opened issue [#6](https://github.com/king-11/genx/issues/6) in [king-11/genx](https://github.com/king-11/genx)
+1. 🗣 Commented on [#8606](https://github.com/vitessio/vitess/issues/8606) in [vitessio/vitess](https://github.com/vitessio/vitess)
+2. 🎉 Merged PR [#8](https://github.com/king-11/genx/pull/8) in [king-11/genx](https://github.com/king-11/genx)
+3. 🎉 Merged PR [#7](https://github.com/king-11/genx/pull/7) in [king-11/genx](https://github.com/king-11/genx)
+4. 💪 Opened PR [#8](https://github.com/king-11/genx/pull/8) in [king-11/genx](https://github.com/king-11/genx)
+5. 💪 Opened PR [#7](https://github.com/king-11/genx/pull/7) in [king-11/genx](https://github.com/king-11/genx)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
