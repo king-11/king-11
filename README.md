@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18345](https://github.com/chapel-lang/chapel/issues/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#17953](https://github.com/chapel-lang/chapel/issues/17953) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 2. 🗣 Commented on [#18345](https://github.com/chapel-lang/chapel/issues/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#8606](https://github.com/vitessio/vitess/issues/8606) in [vitessio/vitess](https://github.com/vitessio/vitess)
-4. 🎉 Merged PR [#8](https://github.com/king-11/genx/pull/8) in [king-11/genx](https://github.com/king-11/genx)
-5. 🎉 Merged PR [#7](https://github.com/king-11/genx/pull/7) in [king-11/genx](https://github.com/king-11/genx)
+3. 🗣 Commented on [#18345](https://github.com/chapel-lang/chapel/issues/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. 🗣 Commented on [#8606](https://github.com/vitessio/vitess/issues/8606) in [vitessio/vitess](https://github.com/vitessio/vitess)
+5. 🎉 Merged PR [#8](https://github.com/king-11/genx/pull/8) in [king-11/genx](https://github.com/king-11/genx)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
