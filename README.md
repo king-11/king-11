@@ -33,9 +33,9 @@ Courtesy https://metrics.lecoq.io/
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/COPS-IITBHU/hackalog-backend/issues/47) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
-2. 🗣 Commented on [#536](https://github.com/nuxt-community/composition-api/issues/536) in [nuxt-community/composition-api](https://github.com/nuxt-community/composition-api)
-3. 🗣 Commented on [#17953](https://github.com/chapel-lang/chapel/issues/17953) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#18345](https://github.com/chapel-lang/chapel/issues/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#47](https://github.com/COPS-IITBHU/hackalog-backend/issues/47) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
+3. 🗣 Commented on [#536](https://github.com/nuxt-community/composition-api/issues/536) in [nuxt-community/composition-api](https://github.com/nuxt-community/composition-api)
+4. 🗣 Commented on [#17953](https://github.com/chapel-lang/chapel/issues/17953) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 5. 🗣 Commented on [#18345](https://github.com/chapel-lang/chapel/issues/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
