@@ -8,17 +8,17 @@ I am a Full Stack Web Developer who is very enthusiastic about learning new tech
 <img src='https://github-profile-trophy.vercel.app/?username=king-11&margin-w=38&theme=dracula' />
 
 
-- 🔭 I’m currently working on [Chapel](https://github.com/chapel-lang/chapel)
+- 🔭 I’m currently working on [Vitess](https://github.com/vitessio)
 
 - 🌱 I’m currently learning **Go Lang**
 
-- 👯 I’m looking to collaborate on [COPS Site](https://github.com/COPS-IITBHU/cops-site)
+- 👯 I’m looking to collaborate on [genx](https://crates.io/crates/genx)
 
 - 💬 Ask me about **Vue, Django, Postgres, Nodejs, React**
 
 - 📫 How to reach me **lakshay.sing1108@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/171bSjj3EQFHmXF9aTRBwE9gOyD1c1QqO/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/171bSjj3EQFHmXF9aTRBwE9gOyD1c1QqO/view?usp=sharing)
 
 - ⚡ Fun fact **I love reading books and making memes**
 <br>
