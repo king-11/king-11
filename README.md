@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#536](https://github.com/nuxt-community/composition-api/issues/536) in [nuxt-community/composition-api](https://github.com/nuxt-community/composition-api)
-2. 🗣 Commented on [#17953](https://github.com/chapel-lang/chapel/issues/17953) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#18345](https://github.com/chapel-lang/chapel/issues/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#47](https://github.com/COPS-IITBHU/hackalog-backend/issues/47) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
+2. 🗣 Commented on [#536](https://github.com/nuxt-community/composition-api/issues/536) in [nuxt-community/composition-api](https://github.com/nuxt-community/composition-api)
+3. 🗣 Commented on [#17953](https://github.com/chapel-lang/chapel/issues/17953) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🗣 Commented on [#18345](https://github.com/chapel-lang/chapel/issues/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 🗣 Commented on [#8606](https://github.com/vitessio/vitess/issues/8606) in [vitessio/vitess](https://github.com/vitessio/vitess)
+5. 🗣 Commented on [#18345](https://github.com/chapel-lang/chapel/issues/18345) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
