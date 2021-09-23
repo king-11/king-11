@@ -32,10 +32,10 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17899](https://github.com/chapel-lang/chapel/issues/17899) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🎉 Merged PR [#2](https://github.com/COPS-IITBHU/sdg-site/pull/2) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🎉 Merged PR [#1](https://github.com/COPS-IITBHU/sdg-site/pull/1) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#1](https://github.com/COPS-IITBHU/sdg-site/issues/1) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 💪 Opened PR [#12546](https://github.com/JetBrains/swot/pull/12546) in [JetBrains/swot](https://github.com/JetBrains/swot)
+2. 🗣 Commented on [#17899](https://github.com/chapel-lang/chapel/issues/17899) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 🎉 Merged PR [#2](https://github.com/COPS-IITBHU/sdg-site/pull/2) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🎉 Merged PR [#1](https://github.com/COPS-IITBHU/sdg-site/pull/1) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 5. 🗣 Commented on [#1](https://github.com/COPS-IITBHU/sdg-site/issues/1) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
