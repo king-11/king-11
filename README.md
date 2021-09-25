@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/COPS-IITBHU/React-Gallery/pull/6) in [COPS-IITBHU/React-Gallery](https://github.com/COPS-IITBHU/React-Gallery)
-2. 🗣 Commented on [#7](https://github.com/COPS-IITBHU/React-Masonry/issues/7) in [COPS-IITBHU/React-Masonry](https://github.com/COPS-IITBHU/React-Masonry)
-3. 💪 Opened PR [#7](https://github.com/COPS-IITBHU/React-Masonry/pull/7) in [COPS-IITBHU/React-Masonry](https://github.com/COPS-IITBHU/React-Masonry)
-4. 💪 Opened PR [#12546](https://github.com/JetBrains/swot/pull/12546) in [JetBrains/swot](https://github.com/JetBrains/swot)
-5. 🗣 Commented on [#17899](https://github.com/chapel-lang/chapel/issues/17899) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#47](https://github.com/COPS-IITBHU/hackalog-backend/issues/47) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
+2. 💪 Opened PR [#6](https://github.com/COPS-IITBHU/React-Gallery/pull/6) in [COPS-IITBHU/React-Gallery](https://github.com/COPS-IITBHU/React-Gallery)
+3. 🗣 Commented on [#7](https://github.com/COPS-IITBHU/React-Masonry/issues/7) in [COPS-IITBHU/React-Masonry](https://github.com/COPS-IITBHU/React-Masonry)
+4. 💪 Opened PR [#7](https://github.com/COPS-IITBHU/React-Masonry/pull/7) in [COPS-IITBHU/React-Masonry](https://github.com/COPS-IITBHU/React-Masonry)
+5. 💪 Opened PR [#12546](https://github.com/JetBrains/swot/pull/12546) in [JetBrains/swot](https://github.com/JetBrains/swot)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
