@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/COPS-IITBHU/hackalog-backend/issues/42) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
-2. 🎉 Merged PR [#47](https://github.com/COPS-IITBHU/hackalog-backend/pull/47) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
-3. ❗️ Closed issue [#39](https://github.com/COPS-IITBHU/hackalog-backend/issues/39) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
-4. 🗣 Commented on [#47](https://github.com/COPS-IITBHU/hackalog-backend/issues/47) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
-5. 🗣 Commented on [#36](https://github.com/COPS-IITBHU/cops-site-practice/issues/36) in [COPS-IITBHU/cops-site-practice](https://github.com/COPS-IITBHU/cops-site-practice)
+1. ❗️ Opened issue [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
+2. 🗣 Commented on [#42](https://github.com/COPS-IITBHU/hackalog-backend/issues/42) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
+3. 🎉 Merged PR [#47](https://github.com/COPS-IITBHU/hackalog-backend/pull/47) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
+4. ❗️ Closed issue [#39](https://github.com/COPS-IITBHU/hackalog-backend/issues/39) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
+5. 🗣 Commented on [#47](https://github.com/COPS-IITBHU/hackalog-backend/issues/47) in [COPS-IITBHU/hackalog-backend](https://github.com/COPS-IITBHU/hackalog-backend)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
