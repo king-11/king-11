@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
-2. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
+1. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
+2. ❗️ Reopened issue [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
 3. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
-4. ❗️ Closed issue [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
-5. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
+4. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
+5. ❗️ Closed issue [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
