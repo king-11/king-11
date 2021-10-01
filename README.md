@@ -32,10 +32,10 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/COPS-IITBHU/sdg-site/issues/3) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
-3. ❗️ Reopened issue [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
-4. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
+1. 🎉 Merged PR [#4](https://github.com/COPS-IITBHU/sdg-site/pull/4) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#3](https://github.com/COPS-IITBHU/sdg-site/issues/3) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
+4. ❗️ Reopened issue [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
 5. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
 <!--END_SECTION:activity-->
 
