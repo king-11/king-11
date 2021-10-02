@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/king-11/genx/pull/10) in [king-11/genx](https://github.com/king-11/genx)
-2. 💪 Opened PR [#9](https://github.com/king-11/genx/pull/9) in [king-11/genx](https://github.com/king-11/genx)
-3. 🎉 Merged PR [#4](https://github.com/COPS-IITBHU/sdg-site/pull/4) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#3](https://github.com/COPS-IITBHU/sdg-site/issues/3) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
+1. 💪 Opened PR [#12](https://github.com/king-11/genx/pull/12) in [king-11/genx](https://github.com/king-11/genx)
+2. 🎉 Merged PR [#11](https://github.com/king-11/genx/pull/11) in [king-11/genx](https://github.com/king-11/genx)
+3. 💪 Opened PR [#11](https://github.com/king-11/genx/pull/11) in [king-11/genx](https://github.com/king-11/genx)
+4. 🎉 Merged PR [#9](https://github.com/king-11/genx/pull/9) in [king-11/genx](https://github.com/king-11/genx)
+5. 🎉 Merged PR [#10](https://github.com/king-11/genx/pull/10) in [king-11/genx](https://github.com/king-11/genx)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
