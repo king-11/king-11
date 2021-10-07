@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2204](https://github.com/webtorrent/webtorrent/pull/2204) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
-2. 🎉 Merged PR [#12](https://github.com/king-11/genx/pull/12) in [king-11/genx](https://github.com/king-11/genx)
-3. ❗️ Opened issue [#2203](https://github.com/webtorrent/webtorrent/issues/2203) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
-4. 🗣 Commented on [#2202](https://github.com/webtorrent/webtorrent/issues/2202) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
-5. ❗️ Opened issue [#2202](https://github.com/webtorrent/webtorrent/issues/2202) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
+1. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
+2. 💪 Opened PR [#2204](https://github.com/webtorrent/webtorrent/pull/2204) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
+3. 🎉 Merged PR [#12](https://github.com/king-11/genx/pull/12) in [king-11/genx](https://github.com/king-11/genx)
+4. ❗️ Opened issue [#2203](https://github.com/webtorrent/webtorrent/issues/2203) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
+5. 🗣 Commented on [#2202](https://github.com/webtorrent/webtorrent/issues/2202) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
