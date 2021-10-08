@@ -32,10 +32,10 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#116](https://github.com/layer5io/meshkit/pull/116) in [layer5io/meshkit](https://github.com/layer5io/meshkit)
-2. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
-3. 🗣 Commented on [#2202](https://github.com/webtorrent/webtorrent/issues/2202) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
-4. ❗️ Opened issue [#13](https://github.com/king-11/genx/issues/13) in [king-11/genx](https://github.com/king-11/genx)
+1. 🗣 Commented on [#116](https://github.com/layer5io/meshkit/issues/116) in [layer5io/meshkit](https://github.com/layer5io/meshkit)
+2. 🗣 Commented on [#134](https://github.com/COPS-IITBHU/hackalog-frontend/issues/134) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+3. 💪 Opened PR [#116](https://github.com/layer5io/meshkit/pull/116) in [layer5io/meshkit](https://github.com/layer5io/meshkit)
+4. 🗣 Commented on [#40](https://github.com/notion-enhancer/notion-repackaged/issues/40) in [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged)
 5. 🗣 Commented on [#2202](https://github.com/webtorrent/webtorrent/issues/2202) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
 <!--END_SECTION:activity-->
 
