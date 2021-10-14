@@ -32,10 +32,10 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/COPS-IITBHU/sdg-site/pull/6) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. 🎉 Merged PR [#5](https://github.com/COPS-IITBHU/sdg-site/pull/5) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/sdg-site/issues/5) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#253](https://github.com/service-mesh-performance/service-mesh-performance/issues/253) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
+1. 🎉 Merged PR [#3](https://github.com/COPS-IITBHU/sdg-site/pull/3) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🎉 Merged PR [#6](https://github.com/COPS-IITBHU/sdg-site/pull/6) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. 🎉 Merged PR [#5](https://github.com/COPS-IITBHU/sdg-site/pull/5) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/sdg-site/issues/5) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 5. 🗣 Commented on [#253](https://github.com/service-mesh-performance/service-mesh-performance/issues/253) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
 <!--END_SECTION:activity-->
 
