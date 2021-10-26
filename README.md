@@ -33,10 +33,10 @@ Courtesy https://metrics.lecoq.io/
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/sdg-site/issues/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. 💪 Opened PR [#9018](https://github.com/vitessio/vitess/pull/9018) in [vitessio/vitess](https://github.com/vitessio/vitess)
-3. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#815](https://github.com/nuxt/framework/issues/815) in [nuxt/framework](https://github.com/nuxt/framework)
-5. 🗣 Commented on [#815](https://github.com/nuxt/framework/issues/815) in [nuxt/framework](https://github.com/nuxt/framework)
+2. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/sdg-site/issues/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/sdg-site/issues/8) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/sdg-site/issues/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. 💪 Opened PR [#9018](https://github.com/vitessio/vitess/pull/9018) in [vitessio/vitess](https://github.com/vitessio/vitess)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
