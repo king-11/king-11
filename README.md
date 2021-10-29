@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/COPS-IITBHU/cops-bot/issues/2) in [COPS-IITBHU/cops-bot](https://github.com/COPS-IITBHU/cops-bot)
-2. 🗣 Commented on [#2](https://github.com/COPS-IITBHU/cops-bot/issues/2) in [COPS-IITBHU/cops-bot](https://github.com/COPS-IITBHU/cops-bot)
-3. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/sdg-site/issues/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/sdg-site/issues/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 🗣 Commented on [#8](https://github.com/COPS-IITBHU/sdg-site/issues/8) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🎉 Merged PR [#15](https://github.com/king-11/genx/pull/15) in [king-11/genx](https://github.com/king-11/genx)
+2. 💪 Opened PR [#15](https://github.com/king-11/genx/pull/15) in [king-11/genx](https://github.com/king-11/genx)
+3. 🗣 Commented on [#2](https://github.com/COPS-IITBHU/cops-bot/issues/2) in [COPS-IITBHU/cops-bot](https://github.com/COPS-IITBHU/cops-bot)
+4. 🗣 Commented on [#2](https://github.com/COPS-IITBHU/cops-bot/issues/2) in [COPS-IITBHU/cops-bot](https://github.com/COPS-IITBHU/cops-bot)
+5. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/sdg-site/issues/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
