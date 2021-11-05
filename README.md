@@ -32,11 +32,11 @@ Courtesy https://metrics.lecoq.io/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9018](https://github.com/vitessio/vitess/issues/9018) in [vitessio/vitess](https://github.com/vitessio/vitess)
-2. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/sdg-site/issues/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🎉 Merged PR [#9](https://github.com/COPS-IITBHU/sdg-site/pull/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#9018](https://github.com/vitessio/vitess/issues/9018) in [vitessio/vitess](https://github.com/vitessio/vitess)
-5. 🎉 Merged PR [#8](https://github.com/COPS-IITBHU/sdg-site/pull/8) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🎉 Merged PR [#123](https://github.com/COPS-IITBHU/cops-website/pull/123) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+2. 🗣 Commented on [#123](https://github.com/COPS-IITBHU/cops-website/issues/123) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+3. 🗣 Commented on [#9018](https://github.com/vitessio/vitess/issues/9018) in [vitessio/vitess](https://github.com/vitessio/vitess)
+4. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/sdg-site/issues/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. 🎉 Merged PR [#9](https://github.com/COPS-IITBHU/sdg-site/pull/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
