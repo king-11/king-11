@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/king-11/king-11/pull/5) in [king-11/king-11](https://github.com/king-11/king-11)
-2. 💪 Opened PR [#5](https://github.com/king-11/king-11/pull/5) in [king-11/king-11](https://github.com/king-11/king-11)
-3. 💪 Opened PR [#9155](https://github.com/vitessio/vitess/pull/9155) in [vitessio/vitess](https://github.com/vitessio/vitess)
-4. 🎉 Merged PR [#123](https://github.com/COPS-IITBHU/cops-website/pull/123) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-5. 🗣 Commented on [#123](https://github.com/COPS-IITBHU/cops-website/issues/123) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+1. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#6](https://github.com/COPS-IITBHU/sdg-site/issues/6) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. 🎉 Merged PR [#14](https://github.com/COPS-IITBHU/sdg-site/pull/14) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/sdg-site/issues/5) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. ❌ Closed PR [#13](https://github.com/COPS-IITBHU/sdg-site/pull/13) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
