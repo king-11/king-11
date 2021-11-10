@@ -41,6 +41,10 @@
 5. 🗣 Commented on [#9](https://github.com/COPS-IITBHU/sdg-site/issues/9) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 ## Gtihub Statistics
 
 <div>
