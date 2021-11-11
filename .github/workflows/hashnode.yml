@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'king-11' # Hashnode Username
           COUNT: 4 # MAX Visisble
-          STYLE: 'blog-grid'
+          STYLE: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
