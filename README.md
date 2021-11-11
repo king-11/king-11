@@ -35,10 +35,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#6](https://github.com/COPS-IITBHU/sdg-site/issues/6) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🎉 Merged PR [#14](https://github.com/COPS-IITBHU/sdg-site/pull/14) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/sdg-site/issues/5) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. ❌ Closed PR [#13](https://github.com/COPS-IITBHU/sdg-site/pull/13) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 🗣 Commented on [#6](https://github.com/COPS-IITBHU/sdg-site/issues/6) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🎉 Merged PR [#14](https://github.com/COPS-IITBHU/sdg-site/pull/14) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. 🗣 Commented on [#5](https://github.com/COPS-IITBHU/sdg-site/issues/5) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
