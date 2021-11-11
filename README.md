@@ -43,6 +43,24 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<table><tr><td><a href="https://king-11.hashnode.dev/gsoc-2021-final-report-ckssk0wtv06uecas1c9d90zon" title="Google Summer of Code 2021  : Final Report"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629516544215/xMJbznBI-5.jpeg" alt="Google Summer of Code 2021  : Final Report"   /></a>
+<a href="https://king-11.hashnode.dev/gsoc-2021-final-report-ckssk0wtv06uecas1c9d90zon" title="Google Summer of Code 2021  : Final Report"><strong>Google Summer of Code 2021  : Final Report</strong></a>
+<div><strong>26 Aug 2021</strong> | <strong>Updated: 31 Aug 2021</strong></div>
+<br/> Abstract
+Chapel is a programming language designed for productive parallel computing at scale.  It simplifies parallel programming through elegant parallel programming constructs. As Chapel can utilize a system to its fullest potential, it seems like...</td><td><a href="https://king-11.hashnode.dev/interviewing-experience-microsoft-cks5s87l706lhfcs1e474f292" title="OnCampus Interviewing Experience: Microsoft SWE"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628580576027/HFTxAaIwC.jpeg" alt="OnCampus Interviewing Experience: Microsoft SWE"   /></a>
+<a href="https://king-11.hashnode.dev/interviewing-experience-microsoft-cks5s87l706lhfcs1e474f292" title="OnCampus Interviewing Experience: Microsoft SWE"><strong>OnCampus Interviewing Experience: Microsoft SWE</strong></a>
+<div><strong>10 Aug 2021</strong> | <strong>Updated: 10 Aug 2021</strong></div>
+<br/> Microsoft is like a dream company for many people me included :P. 
+Why won't it be its the company which develops typescript making web app development so much easier, VSCode favourite IDE of all developers 😌, Azure Cloud Services, Windows the first...</td></tr><tr><td><a href="https://king-11.hashnode.dev/guide-google-summer-of-code-ckqq0vgle0ymrt6s1byak2ptc" title="My Journey: Getting Selected in Google Summer of Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625127392378/7hAddDbRV.png" alt="My Journey: Getting Selected in Google Summer of Code"   /></a>
+<a href="https://king-11.hashnode.dev/guide-google-summer-of-code-ckqq0vgle0ymrt6s1byak2ptc" title="My Journey: Getting Selected in Google Summer of Code"><strong>My Journey: Getting Selected in Google Summer of Code</strong></a>
+<div><strong>5 July 2021</strong> | <strong>Updated: 21 July 2021</strong></div>
+<br/> What is GSoC?
+
+Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open-source organization on a 10-week programming project during their break from school...</td><td><a href="https://king-11.hashnode.dev/dynamic-classes-and-styles-ckq94tfds052nuhs1cihh9cdk" title="Dynamic Classes and Styles"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624382602738/Ar0FuDoiN.png" alt="Dynamic Classes and Styles"   /></a>
+<a href="https://king-11.hashnode.dev/dynamic-classes-and-styles-ckq94tfds052nuhs1cihh9cdk" title="Dynamic Classes and Styles"><strong>Dynamic Classes and Styles</strong></a>
+<div><strong>23 June 2021</strong> | <strong>Updated: 23 June 2021</strong></div>
+<br/> In this article, I aim to provide a not so new but also not so known way of adding dynamic features into your application, ensuring that you can achieve what you wish to simply without writing boilerplate code and meddling with string concatenation.
+...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ## Gtihub Statistics
