@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9155](https://github.com/vitessio/vitess/issues/9155) in [vitessio/vitess](https://github.com/vitessio/vitess)
-2. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 💪 Opened PR [#9205](https://github.com/vitessio/vitess/pull/9205) in [vitessio/vitess](https://github.com/vitessio/vitess)
+2. 🗣 Commented on [#9155](https://github.com/vitessio/vitess/issues/9155) in [vitessio/vitess](https://github.com/vitessio/vitess)
 3. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#6](https://github.com/COPS-IITBHU/sdg-site/issues/6) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 🎉 Merged PR [#14](https://github.com/COPS-IITBHU/sdg-site/pull/14) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+5. 🗣 Commented on [#6](https://github.com/COPS-IITBHU/sdg-site/issues/6) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
