@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/COPS-IITBHU/DevTalks/issues/11) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
-2. 🗣 Commented on [#9205](https://github.com/vitessio/vitess/issues/9205) in [vitessio/vitess](https://github.com/vitessio/vitess)
-3. 💪 Opened PR [#9205](https://github.com/vitessio/vitess/pull/9205) in [vitessio/vitess](https://github.com/vitessio/vitess)
-4. 🗣 Commented on [#9155](https://github.com/vitessio/vitess/issues/9155) in [vitessio/vitess](https://github.com/vitessio/vitess)
-5. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#11](https://github.com/COPS-IITBHU/DevTalks/issues/11) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
+3. 🗣 Commented on [#9205](https://github.com/vitessio/vitess/issues/9205) in [vitessio/vitess](https://github.com/vitessio/vitess)
+4. 💪 Opened PR [#9205](https://github.com/vitessio/vitess/pull/9205) in [vitessio/vitess](https://github.com/vitessio/vitess)
+5. 🗣 Commented on [#9155](https://github.com/vitessio/vitess/issues/9155) in [vitessio/vitess](https://github.com/vitessio/vitess)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
