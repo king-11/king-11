@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/service-mesh-performance/service-mesh-performance/issues/236) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
-2. 🗣 Commented on [#277](https://github.com/service-mesh-performance/service-mesh-performance/issues/277) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
-3. 💪 Opened PR [#283](https://github.com/service-mesh-performance/service-mesh-performance/pull/283) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
-4. ❗️ Opened issue [#282](https://github.com/service-mesh-performance/service-mesh-performance/issues/282) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
-5. ❗️ Opened issue [#281](https://github.com/service-mesh-performance/service-mesh-performance/issues/281) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
+1. 🗣 Commented on [#8012](https://github.com/rust-lang/rust-clippy/issues/8012) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+2. 🗣 Commented on [#8012](https://github.com/rust-lang/rust-clippy/issues/8012) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+3. 🗣 Commented on [#8012](https://github.com/rust-lang/rust-clippy/issues/8012) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+4. ❗️ Opened issue [#8012](https://github.com/rust-lang/rust-clippy/issues/8012) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+5. 🗣 Commented on [#7763](https://github.com/rust-lang/rust-clippy/issues/7763) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
