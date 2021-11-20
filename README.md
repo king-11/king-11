@@ -20,9 +20,9 @@
 <a href="https://hashnode.com/@king-11" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/hashnode.svg" alt="hashnode blog page king11" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/lakshyasingh11" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/linkedin.svg" alt="linkedin profile lakshyasingh11" height="40" width="40" /></a>
 <a href="https://twitter.com/1108king" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/twitter.svg" alt="twitter profile 1108king" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/13854616/lakshya-singh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/stackoverflow.svg" alt="stackoverflow profile lakshya-singh" height="40" width="40" /></a>
 <a href="https://instagram.com/cryptic_sniper" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/instagram.svg" alt="instagram profile cryptic_sniper" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/target_x" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/codechef.svg" alt="codechef target_x" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/target_x" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/codeforces.svg" alt="codeforces profile target_x" height="40" width="40" /></a>
 </p>
 
 <!-- <p align="center" style="padding:20px;">
