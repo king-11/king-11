@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#254](https://github.com/service-mesh-performance/service-mesh-performance/issues/254) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
-2. 🗣 Commented on [#9205](https://github.com/vitessio/vitess/issues/9205) in [vitessio/vitess](https://github.com/vitessio/vitess)
-3. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#17960](https://github.com/chapel-lang/chapel/issues/17960) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 🗣 Commented on [#11](https://github.com/COPS-IITBHU/DevTalks/issues/11) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
+1. 🗣 Commented on [#10](https://github.com/COPS-IITBHU/sdg-site/issues/10) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#278](https://github.com/service-mesh-performance/service-mesh-performance/issues/278) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
+3. 💪 Opened PR [#278](https://github.com/service-mesh-performance/service-mesh-performance/pull/278) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
+4. 🗣 Commented on [#254](https://github.com/service-mesh-performance/service-mesh-performance/issues/254) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
+5. 🗣 Commented on [#9205](https://github.com/vitessio/vitess/issues/9205) in [vitessio/vitess](https://github.com/vitessio/vitess)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
