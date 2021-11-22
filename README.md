@@ -34,9 +34,9 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7763](https://github.com/rust-lang/rust-clippy/issues/7763) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
-2. ❗️ Opened issue [#21](https://github.com/king-11/genx/issues/21) in [king-11/genx](https://github.com/king-11/genx)
-3. 🗣 Commented on [#8012](https://github.com/rust-lang/rust-clippy/issues/8012) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+1. 🗣 Commented on [#9205](https://github.com/vitessio/vitess/issues/9205) in [vitessio/vitess](https://github.com/vitessio/vitess)
+2. 🗣 Commented on [#7763](https://github.com/rust-lang/rust-clippy/issues/7763) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+3. ❗️ Opened issue [#21](https://github.com/king-11/genx/issues/21) in [king-11/genx](https://github.com/king-11/genx)
 4. 🗣 Commented on [#8012](https://github.com/rust-lang/rust-clippy/issues/8012) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 5. 🗣 Commented on [#8012](https://github.com/rust-lang/rust-clippy/issues/8012) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 <!--END_SECTION:activity-->
