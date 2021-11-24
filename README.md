@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/king-11/genx/pull/22) in [king-11/genx](https://github.com/king-11/genx)
-2. 🗣 Commented on [#22](https://github.com/king-11/genx/issues/22) in [king-11/genx](https://github.com/king-11/genx)
-3. 💪 Opened PR [#23](https://github.com/king-11/genx/pull/23) in [king-11/genx](https://github.com/king-11/genx)
-4. 🗣 Commented on [#22](https://github.com/king-11/genx/issues/22) in [king-11/genx](https://github.com/king-11/genx)
-5. 🎉 Merged PR [#20](https://github.com/king-11/genx/pull/20) in [king-11/genx](https://github.com/king-11/genx)
+1. 🎉 Merged PR [#10](https://github.com/COPS-IITBHU/sdg-site/pull/10) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🎉 Merged PR [#22](https://github.com/king-11/genx/pull/22) in [king-11/genx](https://github.com/king-11/genx)
+3. 🗣 Commented on [#22](https://github.com/king-11/genx/issues/22) in [king-11/genx](https://github.com/king-11/genx)
+4. 💪 Opened PR [#23](https://github.com/king-11/genx/pull/23) in [king-11/genx](https://github.com/king-11/genx)
+5. 🗣 Commented on [#22](https://github.com/king-11/genx/issues/22) in [king-11/genx](https://github.com/king-11/genx)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
