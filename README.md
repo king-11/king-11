@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/COPS-IITBHU/cops-website/pull/127) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-2. 🎉 Merged PR [#7](https://github.com/COPS-IITBHU/sdg-site/pull/7) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🎉 Merged PR [#10](https://github.com/COPS-IITBHU/sdg-site/pull/10) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🎉 Merged PR [#22](https://github.com/king-11/genx/pull/22) in [king-11/genx](https://github.com/king-11/genx)
-5. 🗣 Commented on [#22](https://github.com/king-11/genx/issues/22) in [king-11/genx](https://github.com/king-11/genx)
+1. 🗣 Commented on [#114391](https://github.com/microsoft/vscode/issues/114391) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🎉 Merged PR [#127](https://github.com/COPS-IITBHU/cops-website/pull/127) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+3. 🎉 Merged PR [#7](https://github.com/COPS-IITBHU/sdg-site/pull/7) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🎉 Merged PR [#10](https://github.com/COPS-IITBHU/sdg-site/pull/10) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. 🎉 Merged PR [#22](https://github.com/king-11/genx/pull/22) in [king-11/genx](https://github.com/king-11/genx)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
