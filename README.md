@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2202](https://github.com/webtorrent/webtorrent/issues/2202) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
-2. 🗣 Commented on [#278](https://github.com/service-mesh-performance/service-mesh-performance/issues/278) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
-3. 🗣 Commented on [#114391](https://github.com/microsoft/vscode/issues/114391) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🎉 Merged PR [#127](https://github.com/COPS-IITBHU/cops-website/pull/127) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-5. 🎉 Merged PR [#7](https://github.com/COPS-IITBHU/sdg-site/pull/7) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 💪 Opened PR [#24](https://github.com/king-11/genx/pull/24) in [king-11/genx](https://github.com/king-11/genx)
+2. ❗️ Closed issue [#2202](https://github.com/webtorrent/webtorrent/issues/2202) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
+3. 🗣 Commented on [#278](https://github.com/service-mesh-performance/service-mesh-performance/issues/278) in [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance)
+4. 🗣 Commented on [#114391](https://github.com/microsoft/vscode/issues/114391) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🎉 Merged PR [#127](https://github.com/COPS-IITBHU/cops-website/pull/127) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
