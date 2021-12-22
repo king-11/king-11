@@ -43,10 +43,10 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Vitess LFX Mentorship Fall 2021](https://king-11.hashnode.dev/lfx-mentorship-fall-2021-ckxgabwk300iy79s1af0qg9t0)
 - [Google Summer of Code 2021  : Final Report](https://king-11.hashnode.dev/gsoc-2021-final-report-ckssk0wtv06uecas1c9d90zon)
 - [OnCampus Interviewing Experience: Microsoft SWE](https://king-11.hashnode.dev/interviewing-experience-microsoft-cks5s87l706lhfcs1e474f292)
 - [My Journey: Getting Selected in Google Summer of Code](https://king-11.hashnode.dev/guide-google-summer-of-code-ckqq0vgle0ymrt6s1byak2ptc)
-- [Dynamic Classes and Styles](https://king-11.hashnode.dev/dynamic-classes-and-styles-ckq94tfds052nuhs1cihh9cdk)
 <!-- HASHNODE_BLOG:END -->
 
 ## Gtihub Statistics
