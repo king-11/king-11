@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/COPS-IITBHU/sdg-site/pull/30) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. 🗣 Commented on [#7](https://github.com/COPS-IITBHU/sdg-site/issues/7) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🎉 Merged PR [#29](https://github.com/COPS-IITBHU/sdg-site/pull/29) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🗣 Commented on [#31](https://github.com/COPS-IITBHU/sdg-site/issues/31) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#31](https://github.com/COPS-IITBHU/sdg-site/issues/31) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. 🎉 Merged PR [#30](https://github.com/COPS-IITBHU/sdg-site/pull/30) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 4. 🗣 Commented on [#7](https://github.com/COPS-IITBHU/sdg-site/issues/7) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 🎉 Merged PR [#28](https://github.com/COPS-IITBHU/sdg-site/pull/28) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. 🎉 Merged PR [#29](https://github.com/COPS-IITBHU/sdg-site/pull/29) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
