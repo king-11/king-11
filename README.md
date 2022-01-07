@@ -34,10 +34,10 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/COPS-IITBHU/sdg-site/issues/39) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. 🎉 Merged PR [#1](https://github.com/king-11/CSO-221N-Algorithms/pull/1) in [king-11/CSO-221N-Algorithms](https://github.com/king-11/CSO-221N-Algorithms)
-3. 🎉 Merged PR [#38](https://github.com/COPS-IITBHU/sdg-site/pull/38) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#38](https://github.com/COPS-IITBHU/sdg-site/issues/38) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🎉 Merged PR [#40](https://github.com/COPS-IITBHU/sdg-site/pull/40) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#39](https://github.com/COPS-IITBHU/sdg-site/issues/39) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. 🎉 Merged PR [#1](https://github.com/king-11/CSO-221N-Algorithms/pull/1) in [king-11/CSO-221N-Algorithms](https://github.com/king-11/CSO-221N-Algorithms)
+4. 🎉 Merged PR [#38](https://github.com/COPS-IITBHU/sdg-site/pull/38) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 5. 🗣 Commented on [#38](https://github.com/COPS-IITBHU/sdg-site/issues/38) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
