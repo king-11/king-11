@@ -35,10 +35,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com/yusukebe/revealgo/issues/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
-2. 🗣 Commented on [#26](https://github.com/yusukebe/revealgo/issues/26) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
-3. 🗣 Commented on [#27](https://github.com/yusukebe/revealgo/issues/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
-4. 💪 Opened PR [#27](https://github.com/yusukebe/revealgo/pull/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
-5. 🗣 Commented on [#21](https://github.com/COPS-IITBHU/DevTalks/issues/21) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
+2. 🗣 Commented on [#27](https://github.com/yusukebe/revealgo/issues/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
+3. 🗣 Commented on [#26](https://github.com/yusukebe/revealgo/issues/26) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
+4. 🗣 Commented on [#27](https://github.com/yusukebe/revealgo/issues/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
+5. 💪 Opened PR [#27](https://github.com/yusukebe/revealgo/pull/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
