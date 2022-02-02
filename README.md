@@ -34,10 +34,10 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/king-11/intro-go-presentation/pull/1) in [king-11/intro-go-presentation](https://github.com/king-11/intro-go-presentation)
-2. 🗣 Commented on [#27](https://github.com/yusukebe/revealgo/issues/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
-3. 🗣 Commented on [#27](https://github.com/yusukebe/revealgo/issues/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
-4. 🗣 Commented on [#26](https://github.com/yusukebe/revealgo/issues/26) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
+1. 🗣 Commented on [#39](https://github.com/COPS-IITBHU/sdg-site/issues/39) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#41](https://github.com/COPS-IITBHU/sdg-site/issues/41) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. 🎉 Merged PR [#1](https://github.com/king-11/intro-go-presentation/pull/1) in [king-11/intro-go-presentation](https://github.com/king-11/intro-go-presentation)
+4. 🗣 Commented on [#27](https://github.com/yusukebe/revealgo/issues/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
 5. 🗣 Commented on [#27](https://github.com/yusukebe/revealgo/issues/27) in [yusukebe/revealgo](https://github.com/yusukebe/revealgo)
 <!--END_SECTION:activity-->
 
