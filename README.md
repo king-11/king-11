@@ -34,8 +34,8 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/COPS-IITBHU/sdg-site/issues/50) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. 🗣 Commented on [#50](https://github.com/COPS-IITBHU/sdg-site/issues/50) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🗣 Commented on [#52](https://github.com/COPS-IITBHU/sdg-site/issues/52) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#51](https://github.com/COPS-IITBHU/sdg-site/issues/51) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 3. 🗣 Commented on [#50](https://github.com/COPS-IITBHU/sdg-site/issues/50) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 4. 🗣 Commented on [#50](https://github.com/COPS-IITBHU/sdg-site/issues/50) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 5. 🗣 Commented on [#50](https://github.com/COPS-IITBHU/sdg-site/issues/50) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
