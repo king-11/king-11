@@ -38,7 +38,7 @@
 2. 🗣 Commented on [#50](https://github.com/COPS-IITBHU/sdg-site/issues/50) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 3. 🗣 Commented on [#50](https://github.com/COPS-IITBHU/sdg-site/issues/50) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 4. 🗣 Commented on [#50](https://github.com/COPS-IITBHU/sdg-site/issues/50) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. ❗️ Reopened issue [#45](https://github.com/COPS-IITBHU/sdg-site/issues/45) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. 🗣 Commented on [#50](https://github.com/COPS-IITBHU/sdg-site/issues/50) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
