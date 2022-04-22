@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/webtorrent/bittorrent-protocol/issues/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
-2. 💪 Opened PR [#90](https://github.com/webtorrent/bittorrent-protocol/pull/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
-3. 🗣 Commented on [#90](https://github.com/fb55/bitfield/issues/90) in [fb55/bitfield](https://github.com/fb55/bitfield)
-4. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
-5. 🗣 Commented on [#90](https://github.com/fb55/bitfield/issues/90) in [fb55/bitfield](https://github.com/fb55/bitfield)
+1. 💪 Opened PR [#248](https://github.com/webtorrent/bittorrent-dht/pull/248) in [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht)
+2. 🗣 Commented on [#90](https://github.com/webtorrent/bittorrent-protocol/issues/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
+3. 💪 Opened PR [#90](https://github.com/webtorrent/bittorrent-protocol/pull/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
+4. 🗣 Commented on [#90](https://github.com/fb55/bitfield/issues/90) in [fb55/bitfield](https://github.com/fb55/bitfield)
+5. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
