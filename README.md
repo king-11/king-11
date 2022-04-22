@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/fb55/bitfield/issues/90) in [fb55/bitfield](https://github.com/fb55/bitfield)
-2. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
-3. 🗣 Commented on [#90](https://github.com/fb55/bitfield/issues/90) in [fb55/bitfield](https://github.com/fb55/bitfield)
-4. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
-5. 🎉 Merged PR [#64](https://github.com/COPS-IITBHU/sdg-site/pull/64) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 💪 Opened PR [#90](https://github.com/webtorrent/bittorrent-protocol/pull/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
+2. 🗣 Commented on [#90](https://github.com/fb55/bitfield/issues/90) in [fb55/bitfield](https://github.com/fb55/bitfield)
+3. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
+4. 🗣 Commented on [#90](https://github.com/fb55/bitfield/issues/90) in [fb55/bitfield](https://github.com/fb55/bitfield)
+5. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
