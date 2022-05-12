@@ -35,10 +35,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#248](https://github.com/webtorrent/bittorrent-dht/issues/248) in [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht)
-2. 🗣 Commented on [#90](https://github.com/webtorrent/bittorrent-protocol/issues/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
-3. 💪 Opened PR [#248](https://github.com/webtorrent/bittorrent-dht/pull/248) in [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht)
-4. 🗣 Commented on [#90](https://github.com/webtorrent/bittorrent-protocol/issues/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
-5. 💪 Opened PR [#90](https://github.com/webtorrent/bittorrent-protocol/pull/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
+2. 🗣 Commented on [#248](https://github.com/webtorrent/bittorrent-dht/issues/248) in [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht)
+3. 🗣 Commented on [#90](https://github.com/webtorrent/bittorrent-protocol/issues/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
+4. 💪 Opened PR [#248](https://github.com/webtorrent/bittorrent-dht/pull/248) in [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht)
+5. 🗣 Commented on [#90](https://github.com/webtorrent/bittorrent-protocol/issues/90) in [webtorrent/bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
