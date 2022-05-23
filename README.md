@@ -34,10 +34,10 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/COPS-IITBHU/sdg-site/issues/65) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. ❌ Closed PR [#65](https://github.com/COPS-IITBHU/sdg-site/pull/65) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🗣 Commented on [#131](https://github.com/COPS-IITBHU/cops-website/issues/131) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-4. 🗣 Commented on [#248](https://github.com/webtorrent/bittorrent-dht/issues/248) in [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht)
+1. 🎉 Merged PR [#63](https://github.com/COPS-IITBHU/sdg-site/pull/63) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#65](https://github.com/COPS-IITBHU/sdg-site/issues/65) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. ❌ Closed PR [#65](https://github.com/COPS-IITBHU/sdg-site/pull/65) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🗣 Commented on [#131](https://github.com/COPS-IITBHU/cops-website/issues/131) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
 5. 🗣 Commented on [#248](https://github.com/webtorrent/bittorrent-dht/issues/248) in [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht)
 <!--END_SECTION:activity-->
 
