@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1162](https://github.com/nuxt/content/pull/1162) in [nuxt/content](https://github.com/nuxt/content)
-2. 🎉 Merged PR [#63](https://github.com/COPS-IITBHU/sdg-site/pull/63) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🗣 Commented on [#65](https://github.com/COPS-IITBHU/sdg-site/issues/65) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. ❌ Closed PR [#65](https://github.com/COPS-IITBHU/sdg-site/pull/65) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 🗣 Commented on [#131](https://github.com/COPS-IITBHU/cops-website/issues/131) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+1. ❗️ Opened issue [#176](https://github.com/windicss/nuxt-windicss/issues/176) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
+2. 💪 Opened PR [#1162](https://github.com/nuxt/content/pull/1162) in [nuxt/content](https://github.com/nuxt/content)
+3. 🎉 Merged PR [#63](https://github.com/COPS-IITBHU/sdg-site/pull/63) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🗣 Commented on [#65](https://github.com/COPS-IITBHU/sdg-site/issues/65) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. ❌ Closed PR [#65](https://github.com/COPS-IITBHU/sdg-site/pull/65) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
