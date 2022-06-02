@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#787](https://github.com/windicss/windicss/issues/787) in [windicss/windicss](https://github.com/windicss/windicss)
-2. 🗣 Commented on [#787](https://github.com/windicss/windicss/issues/787) in [windicss/windicss](https://github.com/windicss/windicss)
-3. ❗️ Opened issue [#787](https://github.com/windicss/windicss/issues/787) in [windicss/windicss](https://github.com/windicss/windicss)
-4. ❗️ Opened issue [#176](https://github.com/windicss/nuxt-windicss/issues/176) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
-5. 💪 Opened PR [#1162](https://github.com/nuxt/content/pull/1162) in [nuxt/content](https://github.com/nuxt/content)
+1. 🗣 Commented on [#176](https://github.com/windicss/nuxt-windicss/issues/176) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
+2. ❗️ Closed issue [#176](https://github.com/windicss/nuxt-windicss/issues/176) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
+3. ❗️ Closed issue [#787](https://github.com/windicss/windicss/issues/787) in [windicss/windicss](https://github.com/windicss/windicss)
+4. 🗣 Commented on [#787](https://github.com/windicss/windicss/issues/787) in [windicss/windicss](https://github.com/windicss/windicss)
+5. ❗️ Opened issue [#787](https://github.com/windicss/windicss/issues/787) in [windicss/windicss](https://github.com/windicss/windicss)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
