@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-2. ❗️ Opened issue [#2](https://github.com/king-11/dotrc/issues/2) in [king-11/dotrc](https://github.com/king-11/dotrc)
-3. 🗣 Commented on [#176](https://github.com/windicss/nuxt-windicss/issues/176) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
-4. ❗️ Closed issue [#176](https://github.com/windicss/nuxt-windicss/issues/176) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
-5. ❗️ Closed issue [#787](https://github.com/windicss/windicss/issues/787) in [windicss/windicss](https://github.com/windicss/windicss)
+1. 🗣 Commented on [#1222](https://github.com/nuxt/content/issues/1222) in [nuxt/content](https://github.com/nuxt/content)
+2. 🎉 Merged PR [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+3. ❗️ Opened issue [#2](https://github.com/king-11/dotrc/issues/2) in [king-11/dotrc](https://github.com/king-11/dotrc)
+4. 🗣 Commented on [#176](https://github.com/windicss/nuxt-windicss/issues/176) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
+5. ❗️ Closed issue [#176](https://github.com/windicss/nuxt-windicss/issues/176) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
