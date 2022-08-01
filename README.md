@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
-2. 💪 Opened PR [#6106](https://github.com/nuxt/framework/pull/6106) in [nuxt/framework](https://github.com/nuxt/framework)
-3. 🗣 Commented on [#1222](https://github.com/nuxt/content/issues/1222) in [nuxt/content](https://github.com/nuxt/content)
-4. 🎉 Merged PR [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-5. ❗️ Opened issue [#2](https://github.com/king-11/dotrc/issues/2) in [king-11/dotrc](https://github.com/king-11/dotrc)
+1. 🗣 Commented on [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
+2. ❗️ Opened issue [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
+3. 💪 Opened PR [#6106](https://github.com/nuxt/framework/pull/6106) in [nuxt/framework](https://github.com/nuxt/framework)
+4. 🗣 Commented on [#1222](https://github.com/nuxt/content/issues/1222) in [nuxt/content](https://github.com/nuxt/content)
+5. 🎉 Merged PR [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
