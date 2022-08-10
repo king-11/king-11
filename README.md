@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
-2. 🎉 Merged PR [#40](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/40) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-3. 🗣 Commented on [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
-4. ❗️ Opened issue [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
-5. 💪 Opened PR [#6106](https://github.com/nuxt/framework/pull/6106) in [nuxt/framework](https://github.com/nuxt/framework)
+1. 💪 Opened PR [#6](https://github.com/harlan-zw/harlanzw.com/pull/6) in [harlan-zw/harlanzw.com](https://github.com/harlan-zw/harlanzw.com)
+2. 🗣 Commented on [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
+3. 🎉 Merged PR [#40](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/40) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+4. 🗣 Commented on [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
+5. ❗️ Opened issue [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
