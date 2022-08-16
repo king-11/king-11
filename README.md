@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/harlan-zw/harlanzw.com/pull/6) in [harlan-zw/harlanzw.com](https://github.com/harlan-zw/harlanzw.com)
-2. 🗣 Commented on [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
-3. 🎉 Merged PR [#40](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/40) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+1. 🗣 Commented on [#161](https://github.com/windicss/nuxt-windicss/issues/161) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
+2. 🗣 Commented on [#142](https://github.com/windicss/nuxt-windicss/issues/142) in [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss)
+3. 💪 Opened PR [#6](https://github.com/harlan-zw/harlanzw.com/pull/6) in [harlan-zw/harlanzw.com](https://github.com/harlan-zw/harlanzw.com)
 4. 🗣 Commented on [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
-5. ❗️ Opened issue [#1632](https://github.com/johnsoncodehk/volar/issues/1632) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
+5. 🎉 Merged PR [#40](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/40) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
