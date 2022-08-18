@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/COPS-IITBHU/sdg-site/issues/68) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. ❗️ Opened issue [#35](https://github.com/ivodolenc/nuxt-gsap-module/issues/35) in [ivodolenc/nuxt-gsap-module](https://github.com/ivodolenc/nuxt-gsap-module)
-3. 🗣 Commented on [#68](https://github.com/COPS-IITBHU/sdg-site/issues/68) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#66](https://github.com/COPS-IITBHU/sdg-site/issues/66) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 💪 Opened PR [#68](https://github.com/COPS-IITBHU/sdg-site/pull/68) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🗣 Commented on [#66](https://github.com/COPS-IITBHU/sdg-site/issues/66) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#68](https://github.com/COPS-IITBHU/sdg-site/issues/68) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. ❗️ Opened issue [#35](https://github.com/ivodolenc/nuxt-gsap-module/issues/35) in [ivodolenc/nuxt-gsap-module](https://github.com/ivodolenc/nuxt-gsap-module)
+4. 🗣 Commented on [#68](https://github.com/COPS-IITBHU/sdg-site/issues/68) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. 🗣 Commented on [#66](https://github.com/COPS-IITBHU/sdg-site/issues/66) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
