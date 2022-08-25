@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#74](https://github.com/COPS-IITBHU/sdg-site/issues/74) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. ❗️ Closed issue [#60](https://github.com/COPS-IITBHU/sdg-site/issues/60) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. ❗️ Reopened issue [#60](https://github.com/COPS-IITBHU/sdg-site/issues/60) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. ❗️ Closed issue [#60](https://github.com/COPS-IITBHU/sdg-site/issues/60) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 🗣 Commented on [#60](https://github.com/COPS-IITBHU/sdg-site/issues/60) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 💪 Opened PR [#21](https://github.com/webtorrent/addr-to-ip-port/pull/21) in [webtorrent/addr-to-ip-port](https://github.com/webtorrent/addr-to-ip-port)
+2. ❗️ Opened issue [#74](https://github.com/COPS-IITBHU/sdg-site/issues/74) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. ❗️ Closed issue [#60](https://github.com/COPS-IITBHU/sdg-site/issues/60) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. ❗️ Reopened issue [#60](https://github.com/COPS-IITBHU/sdg-site/issues/60) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. ❗️ Closed issue [#60](https://github.com/COPS-IITBHU/sdg-site/issues/60) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
