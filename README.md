@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/webtorrent/bep53-range/pull/17) in [webtorrent/bep53-range](https://github.com/webtorrent/bep53-range)
-2. 💪 Opened PR [#21](https://github.com/webtorrent/addr-to-ip-port/pull/21) in [webtorrent/addr-to-ip-port](https://github.com/webtorrent/addr-to-ip-port)
-3. ❗️ Opened issue [#74](https://github.com/COPS-IITBHU/sdg-site/issues/74) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. ❗️ Closed issue [#60](https://github.com/COPS-IITBHU/sdg-site/issues/60) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. ❗️ Reopened issue [#60](https://github.com/COPS-IITBHU/sdg-site/issues/60) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
+2. 💪 Opened PR [#39](https://github.com/webtorrent/bittorrent-peerid/pull/39) in [webtorrent/bittorrent-peerid](https://github.com/webtorrent/bittorrent-peerid)
+3. 💪 Opened PR [#17](https://github.com/webtorrent/bep53-range/pull/17) in [webtorrent/bep53-range](https://github.com/webtorrent/bep53-range)
+4. 💪 Opened PR [#21](https://github.com/webtorrent/addr-to-ip-port/pull/21) in [webtorrent/addr-to-ip-port](https://github.com/webtorrent/addr-to-ip-port)
+5. ❗️ Opened issue [#74](https://github.com/COPS-IITBHU/sdg-site/issues/74) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
