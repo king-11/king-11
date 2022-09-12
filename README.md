@@ -34,11 +34,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7763](https://github.com/rust-lang/rust-clippy/issues/7763) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
-2. ❗️ Opened issue [#1](https://github.com/DerYeger/astro-vue-import-reproduction/issues/1) in [DerYeger/astro-vue-import-reproduction](https://github.com/DerYeger/astro-vue-import-reproduction)
-3. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
-4. 💪 Opened PR [#39](https://github.com/webtorrent/bittorrent-peerid/pull/39) in [webtorrent/bittorrent-peerid](https://github.com/webtorrent/bittorrent-peerid)
-5. 💪 Opened PR [#17](https://github.com/webtorrent/bep53-range/pull/17) in [webtorrent/bep53-range](https://github.com/webtorrent/bep53-range)
+1. 🗣 Commented on [#20599](https://github.com/chapel-lang/chapel/issues/20599) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#7763](https://github.com/rust-lang/rust-clippy/issues/7763) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+3. ❗️ Opened issue [#1](https://github.com/DerYeger/astro-vue-import-reproduction/issues/1) in [DerYeger/astro-vue-import-reproduction](https://github.com/DerYeger/astro-vue-import-reproduction)
+4. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
+5. 💪 Opened PR [#39](https://github.com/webtorrent/bittorrent-peerid/pull/39) in [webtorrent/bittorrent-peerid](https://github.com/webtorrent/bittorrent-peerid)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
