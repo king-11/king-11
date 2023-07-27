@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7763](https://github.com/rust-lang/rust-clippy/issues/7763) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
-2. 🗣 Commented on [#20599](https://github.com/chapel-lang/chapel/issues/20599) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#7763](https://github.com/rust-lang/rust-clippy/issues/7763) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
-4. ❗️ Opened issue [#1](https://github.com/DerYeger/astro-vue-import-reproduction/issues/1) in [DerYeger/astro-vue-import-reproduction](https://github.com/DerYeger/astro-vue-import-reproduction)
-5. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
+1. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1653344551) in [king-11/dotrc](https://github.com/king-11/dotrc)
+2. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1653296974) in [king-11/dotrc](https://github.com/king-11/dotrc)
+3. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1653274171) in [king-11/dotrc](https://github.com/king-11/dotrc)
+4. ❗ Opened issue [#3](https://github.com/king-11/dotrc/issues/3) in [king-11/dotrc](https://github.com/king-11/dotrc)
+5. 🗣 Commented on [#782](https://github.com/rust-rocksdb/rust-rocksdb/issues/782#issuecomment-1651340397) in [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
