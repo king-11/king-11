@@ -1,17 +1,18 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-# 𝐇i👋 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am [Lakshya Singh](https://www.manlakshya.tech)
+# 𝐇i👋 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am [Lakshya Singh](https://king-11.vercel.app)
 
 ## 🙋🏽‍♂️About Me
 
-- I am a Computer Science and Engineering undergraduate student at the Indian Institute of Technology ( BHU ) pursuing a Bachelor of Technology in my Third Year.
-- I have keen interest in Open Source, Application Development, Network Security and Natural Language Processing.
-- 🔭 I’m currently working on [Vitess](https://github.com/vitessio)
-- 🌱 I’m currently learning **Go Lang**
+- 👨‍💼 I am currently a Software Engineer at @Microsoft in the Azure Core Compute Organization
+- 🏫 I did a Bachelors in Computer Science and Engineering from the Indian Institute of Technology (BHU), Varanasi
+- 🍀 I have a keen interest in Open Source, Application Development, Network Security and Natural Language Processing.
+- 🔭 I’m an Open Source Contributor at [Validating Lightning Signer](https://vls.tech/posts/vls-beta/)
+- 🌱 I’m currently learning **Rust** 🦀 and **Azure Kubernetes Service** ☁️
 - 👯 I’m looking to collaborate on [genx](https://crates.io/crates/genx)
 - 💬 Ask me about **Vue, Django, Postgres, Nodejs, React, Go, Rust**
 - 📫 How to reach me **lakshay.sing1108@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/171bSjj3EQFHmXF9aTRBwE9gOyD1c1QqO/view?usp=sharing)
-- ⚡ Fun fact **I love reading books and making memes**
+- ⚡ Fun fact **I love watching SuperHero Movies (Marvel, DC, etc.) and I enjoy trekking in the Himalayas**
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
 
@@ -40,14 +41,6 @@
 4. ❗️ Opened issue [#1](https://github.com/DerYeger/astro-vue-import-reproduction/issues/1) in [DerYeger/astro-vue-import-reproduction](https://github.com/DerYeger/astro-vue-import-reproduction)
 5. 🗣 Commented on [#2177](https://github.com/webtorrent/webtorrent/issues/2177) in [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
 <!--END_SECTION:activity-->
-
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-- [Vitess LFX Mentorship Fall 2021](https://king-11.hashnode.dev/lfx-mentorship-fall-2021-ckxgabwk300iy79s1af0qg9t0)
-- [Google Summer of Code 2021  : Final Report](https://king-11.hashnode.dev/gsoc-2021-final-report-ckssk0wtv06uecas1c9d90zon)
-- [OnCampus Interviewing Experience: Microsoft SWE](https://king-11.hashnode.dev/interviewing-experience-microsoft-cks5s87l706lhfcs1e474f292)
-- [My Journey: Getting Selected in Google Summer of Code](https://king-11.hashnode.dev/guide-google-summer-of-code-ckqq0vgle0ymrt6s1byak2ptc)
-<!-- HASHNODE_BLOG:END -->
 
 ## Gtihub Statistics
 
