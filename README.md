@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1653344551) in [king-11/dotrc](https://github.com/king-11/dotrc)
-2. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1653296974) in [king-11/dotrc](https://github.com/king-11/dotrc)
-3. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1653274171) in [king-11/dotrc](https://github.com/king-11/dotrc)
-4. ❗ Opened issue [#3](https://github.com/king-11/dotrc/issues/3) in [king-11/dotrc](https://github.com/king-11/dotrc)
-5. 🗣 Commented on [#782](https://github.com/rust-rocksdb/rust-rocksdb/issues/782#issuecomment-1651340397) in [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
+1. ❗ Opened issue [#3](https://github.com/teaxyz/homebrew-pkgs/issues/3) in [teaxyz/homebrew-pkgs](https://github.com/teaxyz/homebrew-pkgs)
+2. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1653344551) in [king-11/dotrc](https://github.com/king-11/dotrc)
+3. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1653296974) in [king-11/dotrc](https://github.com/king-11/dotrc)
+4. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1653274171) in [king-11/dotrc](https://github.com/king-11/dotrc)
+5. ❗ Opened issue [#3](https://github.com/king-11/dotrc/issues/3) in [king-11/dotrc](https://github.com/king-11/dotrc)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
