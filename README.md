@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/king-11/dotrc/issues/3) in [king-11/dotrc](https://github.com/king-11/dotrc)
-2. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1658129745) in [king-11/dotrc](https://github.com/king-11/dotrc)
-3. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1658129034) in [king-11/dotrc](https://github.com/king-11/dotrc)
-4. 🔒 Closed issue [#666](https://github.com/dorssel/usbipd-win/issues/666) in [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win)
-5. 🗣 Commented on [#666](https://github.com/dorssel/usbipd-win/issues/666#issuecomment-1658118055) in [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win)
+1. 🗣 Commented on [#631](https://github.com/teaxyz/cli/issues/631#issuecomment-1660067811) in [teaxyz/cli](https://github.com/teaxyz/cli)
+2. 🔒 Closed issue [#3](https://github.com/king-11/dotrc/issues/3) in [king-11/dotrc](https://github.com/king-11/dotrc)
+3. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1658129745) in [king-11/dotrc](https://github.com/king-11/dotrc)
+4. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1658129034) in [king-11/dotrc](https://github.com/king-11/dotrc)
+5. 🔒 Closed issue [#666](https://github.com/dorssel/usbipd-win/issues/666) in [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
