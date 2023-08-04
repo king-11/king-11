@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#782](https://github.com/rust-rocksdb/rust-rocksdb/issues/782#issuecomment-1662047250) in [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
-2. 🗣 Commented on [#3](https://github.com/teaxyz/homebrew-pkgs/issues/3#issuecomment-1660399966) in [teaxyz/homebrew-pkgs](https://github.com/teaxyz/homebrew-pkgs)
-3. 🔒 Closed issue [#3](https://github.com/teaxyz/homebrew-pkgs/issues/3) in [teaxyz/homebrew-pkgs](https://github.com/teaxyz/homebrew-pkgs)
-4. 🗣 Commented on [#631](https://github.com/teaxyz/cli/issues/631#issuecomment-1660067811) in [teaxyz/cli](https://github.com/teaxyz/cli)
-5. 🔒 Closed issue [#3](https://github.com/king-11/dotrc/issues/3) in [king-11/dotrc](https://github.com/king-11/dotrc)
+1. 🗣 Commented on [#101](https://github.com/foresterre/cargo-msrv/issues/101#issuecomment-1665634503) in [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)
+2. 🗣 Commented on [#782](https://github.com/rust-rocksdb/rust-rocksdb/issues/782#issuecomment-1662047250) in [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
+3. 🗣 Commented on [#3](https://github.com/teaxyz/homebrew-pkgs/issues/3#issuecomment-1660399966) in [teaxyz/homebrew-pkgs](https://github.com/teaxyz/homebrew-pkgs)
+4. 🔒 Closed issue [#3](https://github.com/teaxyz/homebrew-pkgs/issues/3) in [teaxyz/homebrew-pkgs](https://github.com/teaxyz/homebrew-pkgs)
+5. 🗣 Commented on [#631](https://github.com/teaxyz/cli/issues/631#issuecomment-1660067811) in [teaxyz/cli](https://github.com/teaxyz/cli)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
