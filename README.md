@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#326](https://github.com/teaxyz/pantry/issues/326#issuecomment-1666392283) in [teaxyz/pantry](https://github.com/teaxyz/pantry)
-2. 🗣 Commented on [#326](https://github.com/teaxyz/pantry/issues/326#issuecomment-1666391295) in [teaxyz/pantry](https://github.com/teaxyz/pantry)
-3. 🗣 Commented on [#101](https://github.com/foresterre/cargo-msrv/issues/101#issuecomment-1665634503) in [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)
-4. 🗣 Commented on [#782](https://github.com/rust-rocksdb/rust-rocksdb/issues/782#issuecomment-1662047250) in [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
-5. 🗣 Commented on [#3](https://github.com/teaxyz/homebrew-pkgs/issues/3#issuecomment-1660399966) in [teaxyz/homebrew-pkgs](https://github.com/teaxyz/homebrew-pkgs)
+1. 🗣 Commented on [#259](https://github.com/bheisler/criterion.rs/issues/259#issuecomment-1667397751) in [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs)
+2. 🗣 Commented on [#326](https://github.com/teaxyz/pantry/issues/326#issuecomment-1666392283) in [teaxyz/pantry](https://github.com/teaxyz/pantry)
+3. 🗣 Commented on [#326](https://github.com/teaxyz/pantry/issues/326#issuecomment-1666391295) in [teaxyz/pantry](https://github.com/teaxyz/pantry)
+4. 🗣 Commented on [#101](https://github.com/foresterre/cargo-msrv/issues/101#issuecomment-1665634503) in [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv)
+5. 🗣 Commented on [#782](https://github.com/rust-rocksdb/rust-rocksdb/issues/782#issuecomment-1662047250) in [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
