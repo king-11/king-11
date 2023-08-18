@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1681889766) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
-2. 🔒 Closed issue [#31](https://github.com/COPS-IITBHU/DevTalks/issues/31) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
-3. 💪 Opened PR [#2929](https://github.com/teaxyz/pantry/pull/2929) in [teaxyz/pantry](https://github.com/teaxyz/pantry)
-4. 🗣 Commented on [#326](https://github.com/teaxyz/pantry/issues/326#issuecomment-1679995859) in [teaxyz/pantry](https://github.com/teaxyz/pantry)
-5. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1676811071) in [king-11/dotrc](https://github.com/king-11/dotrc)
+1. ❌ Closed PR [#1](https://github.com/ksedgwic/clboss/pull/1) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
+2. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1683802117) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
+3. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1681889766) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
+4. 🔒 Closed issue [#31](https://github.com/COPS-IITBHU/DevTalks/issues/31) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
+5. 💪 Opened PR [#2929](https://github.com/teaxyz/pantry/pull/2929) in [teaxyz/pantry](https://github.com/teaxyz/pantry)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
