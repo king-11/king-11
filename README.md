@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/ksedgwic/clboss/pull/1) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
-2. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1683802117) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
-3. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1681889766) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
-4. 🔒 Closed issue [#31](https://github.com/COPS-IITBHU/DevTalks/issues/31) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
-5. 💪 Opened PR [#2929](https://github.com/teaxyz/pantry/pull/2929) in [teaxyz/pantry](https://github.com/teaxyz/pantry)
+1. ❗ Opened issue [#2720](https://github.com/zellij-org/zellij/issues/2720) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+2. ❌ Closed PR [#1](https://github.com/ksedgwic/clboss/pull/1) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
+3. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1683802117) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
+4. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1681889766) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
+5. 🔒 Closed issue [#31](https://github.com/COPS-IITBHU/DevTalks/issues/31) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
