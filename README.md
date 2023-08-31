@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#142](https://github.com/ruimarinho/docker-bitcoin-core/issues/142) in [ruimarinho/docker-bitcoin-core](https://github.com/ruimarinho/docker-bitcoin-core)
-2. ❗ Opened issue [#2720](https://github.com/zellij-org/zellij/issues/2720) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-3. ❌ Closed PR [#1](https://github.com/ksedgwic/clboss/pull/1) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
-4. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1683802117) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
-5. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1681889766) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
+1. 🗣 Commented on [#17439](https://github.com/chapel-lang/chapel/issues/17439#issuecomment-1701568447) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. ❗ Opened issue [#142](https://github.com/ruimarinho/docker-bitcoin-core/issues/142) in [ruimarinho/docker-bitcoin-core](https://github.com/ruimarinho/docker-bitcoin-core)
+3. ❗ Opened issue [#2720](https://github.com/zellij-org/zellij/issues/2720) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+4. ❌ Closed PR [#1](https://github.com/ksedgwic/clboss/pull/1) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
+5. 🗣 Commented on [#1](https://github.com/ksedgwic/clboss/pull/1#issuecomment-1683802117) in [ksedgwic/clboss](https://github.com/ksedgwic/clboss)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
