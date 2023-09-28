@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/ZmnSCPxj/clboss/pull/179#issuecomment-1727826237) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-2. 🎉 Merged PR [#1](https://github.com/king-11/vls-containers/pull/1) in [king-11/vls-containers](https://github.com/king-11/vls-containers)
-3. 🗣 Commented on [#15603](https://github.com/rust-lang/rust-analyzer/issues/15603#issuecomment-1721205345) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
-4. 🗣 Commented on [#97](https://github.com/parcel-bundler/watcher/issues/97#issuecomment-1721199276) in [parcel-bundler/watcher](https://github.com/parcel-bundler/watcher)
-5. 🗣 Commented on [#180](https://github.com/ZmnSCPxj/clboss/pull/180#issuecomment-1719940707) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
+1. ❌ Closed PR [#2](https://github.com/king-11/blog/pull/2) in [king-11/blog](https://github.com/king-11/blog)
+2. 🔒 Closed issue [#2720](https://github.com/zellij-org/zellij/issues/2720) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+3. 🔒 Closed issue [#178](https://github.com/ZmnSCPxj/clboss/issues/178) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
+4. 🗣 Commented on [#179](https://github.com/ZmnSCPxj/clboss/pull/179#issuecomment-1727826237) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
+5. 🎉 Merged PR [#1](https://github.com/king-11/vls-containers/pull/1) in [king-11/vls-containers](https://github.com/king-11/vls-containers)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
