@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1742956757) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
-2. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1742682014) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
-3. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1742652839) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
-4. 💪 Opened PR [#40](https://github.com/novuhq/go-novu/pull/40) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
-5. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1742607269) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+1. 🗣 Commented on [#40](https://github.com/novuhq/go-novu/pull/40#issuecomment-1743046311) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+2. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1742956757) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+3. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1742682014) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+4. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1742652839) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+5. 💪 Opened PR [#40](https://github.com/novuhq/go-novu/pull/40) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
