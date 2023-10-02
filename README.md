@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#814](https://github.com/mynodebtc/mynode/issues/814) in [mynodebtc/mynode](https://github.com/mynodebtc/mynode)
-2. ❌ Closed PR [#2](https://github.com/king-11/blog/pull/2) in [king-11/blog](https://github.com/king-11/blog)
-3. 🔒 Closed issue [#2720](https://github.com/zellij-org/zellij/issues/2720) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-4. 🔒 Closed issue [#178](https://github.com/ZmnSCPxj/clboss/issues/178) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-5. 🗣 Commented on [#179](https://github.com/ZmnSCPxj/clboss/pull/179#issuecomment-1727826237) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
+1. ❗ Opened issue [#39](https://github.com/novuhq/go-novu/issues/39) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+2. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1742443773) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+3. ❗ Opened issue [#814](https://github.com/mynodebtc/mynode/issues/814) in [mynodebtc/mynode](https://github.com/mynodebtc/mynode)
+4. ❌ Closed PR [#2](https://github.com/king-11/blog/pull/2) in [king-11/blog](https://github.com/king-11/blog)
+5. 🔒 Closed issue [#2720](https://github.com/zellij-org/zellij/issues/2720) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
