@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/novuhq/go-novu/pull/40#issuecomment-1744710370) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
-2. 🎉 Merged PR [#4](https://github.com/king-11/blog/pull/4) in [king-11/blog](https://github.com/king-11/blog)
-3. 🎉 Merged PR [#3](https://github.com/king-11/blog/pull/3) in [king-11/blog](https://github.com/king-11/blog)
-4. 💪 Opened PR [#148](https://github.com/novuhq/docs/pull/148) in [novuhq/docs](https://github.com/novuhq/docs)
-5. 🗣 Commented on [#39](https://github.com/novuhq/go-novu/issues/39#issuecomment-1743169059) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+1. 🗣 Commented on [#8](https://github.com/novuhq/novu-rust/issues/8#issuecomment-1744876178) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+2. 🗣 Commented on [#9](https://github.com/novuhq/go-novu/issues/9#issuecomment-1744863734) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+3. 🗣 Commented on [#39](https://github.com/novuhq/go-novu/issues/39#issuecomment-1744854633) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+4. 🗣 Commented on [#40](https://github.com/novuhq/go-novu/pull/40#issuecomment-1744710370) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+5. 🎉 Merged PR [#4](https://github.com/king-11/blog/pull/4) in [king-11/blog](https://github.com/king-11/blog)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
