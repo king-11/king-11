@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/novuhq/novu-rust/issues/9#issuecomment-1746049626) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-2. 🗣 Commented on [#11](https://github.com/novuhq/novu-rust/issues/11#issuecomment-1746049234) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-3. 💪 Opened PR [#20](https://github.com/novuhq/novu-rust/pull/20) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-4. 🗣 Commented on [#8](https://github.com/novuhq/novu-rust/issues/8#issuecomment-1746038817) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-5. 🗣 Commented on [#8](https://github.com/novuhq/novu-rust/issues/8#issuecomment-1744876178) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+1. 🗣 Commented on [#8](https://github.com/novuhq/novu-rust/issues/8#issuecomment-1746085369) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+2. ❌ Closed PR [#20](https://github.com/novuhq/novu-rust/pull/20) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+3. 🗣 Commented on [#20](https://github.com/novuhq/novu-rust/pull/20#issuecomment-1746083130) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+4. 💪 Opened PR [#22](https://github.com/novuhq/novu-rust/pull/22) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+5. ❗ Opened issue [#21](https://github.com/novuhq/novu-rust/issues/21) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
