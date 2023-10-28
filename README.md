@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1751981755) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-2. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1749872963) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-3. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1747774419) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-4. 🗣 Commented on [#21](https://github.com/novuhq/novu-rust/issues/21#issuecomment-1747135110) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-5. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1746897846) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+1. 🗣 Commented on [#4327](https://github.com/moby/buildkit/issues/4327#issuecomment-1783865107) in [moby/buildkit](https://github.com/moby/buildkit)
+2. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1751981755) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+3. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1749872963) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+4. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1747774419) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+5. 🗣 Commented on [#21](https://github.com/novuhq/novu-rust/issues/21#issuecomment-1747135110) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
