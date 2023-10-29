@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/novuhq/novu-rust/pull/39) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-2. 🗣 Commented on [#4327](https://github.com/moby/buildkit/issues/4327#issuecomment-1783865107) in [moby/buildkit](https://github.com/moby/buildkit)
-3. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1751981755) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-4. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1749872963) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-5. 🗣 Commented on [#22](https://github.com/novuhq/novu-rust/pull/22#issuecomment-1747774419) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+1. 🗣 Commented on [#297](https://github.com/novuhq/docs/issues/297#issuecomment-1784195692) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 💪 Opened PR [#4697](https://github.com/novuhq/novu/pull/4697) in [novuhq/novu](https://github.com/novuhq/novu)
+3. ❌ Closed PR [#1](https://github.com/king-11/novu/pull/1) in [king-11/novu](https://github.com/king-11/novu)
+4. 💪 Opened PR [#1](https://github.com/king-11/novu/pull/1) in [king-11/novu](https://github.com/king-11/novu)
+5. ❗ Opened issue [#4696](https://github.com/novuhq/novu/issues/4696) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
