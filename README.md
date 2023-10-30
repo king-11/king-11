@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#297](https://github.com/novuhq/docs/issues/297#issuecomment-1784195692) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 💪 Opened PR [#4697](https://github.com/novuhq/novu/pull/4697) in [novuhq/novu](https://github.com/novuhq/novu)
-3. ❌ Closed PR [#1](https://github.com/king-11/novu/pull/1) in [king-11/novu](https://github.com/king-11/novu)
-4. 💪 Opened PR [#1](https://github.com/king-11/novu/pull/1) in [king-11/novu](https://github.com/king-11/novu)
-5. ❗ Opened issue [#4696](https://github.com/novuhq/novu/issues/4696) in [novuhq/novu](https://github.com/novuhq/novu)
+1. ❗ Opened issue [#1451](https://github.com/Azure/azure-sdk-for-rust/issues/1451) in [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust)
+2. 🗣 Commented on [#297](https://github.com/novuhq/docs/issues/297#issuecomment-1784195692) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 💪 Opened PR [#4697](https://github.com/novuhq/novu/pull/4697) in [novuhq/novu](https://github.com/novuhq/novu)
+4. ❌ Closed PR [#1](https://github.com/king-11/novu/pull/1) in [king-11/novu](https://github.com/king-11/novu)
+5. 💪 Opened PR [#1](https://github.com/king-11/novu/pull/1) in [king-11/novu](https://github.com/king-11/novu)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
