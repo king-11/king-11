@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1451](https://github.com/Azure/azure-sdk-for-rust/issues/1451) in [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust)
-2. 🗣 Commented on [#1451](https://github.com/Azure/azure-sdk-for-rust/issues/1451#issuecomment-1785812795) in [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust)
-3. 🔒 Closed issue [#1451](https://github.com/Azure/azure-sdk-for-rust/issues/1451) in [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust)
-4. ❗ Opened issue [#1451](https://github.com/Azure/azure-sdk-for-rust/issues/1451) in [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust)
-5. 🗣 Commented on [#297](https://github.com/novuhq/docs/issues/297#issuecomment-1784195692) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 🗣 Commented on [#4697](https://github.com/novuhq/novu/pull/4697#issuecomment-1793760698) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 🔓 Reopened issue [#1451](https://github.com/Azure/azure-sdk-for-rust/issues/1451) in [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust)
+3. 🗣 Commented on [#1451](https://github.com/Azure/azure-sdk-for-rust/issues/1451#issuecomment-1785812795) in [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust)
+4. 🔒 Closed issue [#1451](https://github.com/Azure/azure-sdk-for-rust/issues/1451) in [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust)
+5. ❗ Opened issue [#1451](https://github.com/Azure/azure-sdk-for-rust/issues/1451) in [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
