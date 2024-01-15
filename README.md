@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/textmate/capnproto.tmbundle/issues/4) in [textmate/capnproto.tmbundle](https://github.com/textmate/capnproto.tmbundle)
-2. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1874828454) in [king-11/dotrc](https://github.com/king-11/dotrc)
-3. ❗ Opened issue [#2](https://github.com/king-11/language-battle/issues/2) in [king-11/language-battle](https://github.com/king-11/language-battle)
-4. ❗ Opened issue [#1](https://github.com/king-11/language-battle/issues/1) in [king-11/language-battle](https://github.com/king-11/language-battle)
-5. 🗣 Commented on [#10845](https://github.com/microsoft/azure-pipelines-tasks/issues/10845#issuecomment-1860516448) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+1. 💪 Opened PR [#102](https://github.com/lightning-signer/c-lightning/pull/102) in [lightning-signer/c-lightning](https://github.com/lightning-signer/c-lightning)
+2. ❗ Opened issue [#4](https://github.com/textmate/capnproto.tmbundle/issues/4) in [textmate/capnproto.tmbundle](https://github.com/textmate/capnproto.tmbundle)
+3. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1874828454) in [king-11/dotrc](https://github.com/king-11/dotrc)
+4. ❗ Opened issue [#2](https://github.com/king-11/language-battle/issues/2) in [king-11/language-battle](https://github.com/king-11/language-battle)
+5. ❗ Opened issue [#1](https://github.com/king-11/language-battle/issues/1) in [king-11/language-battle](https://github.com/king-11/language-battle)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
