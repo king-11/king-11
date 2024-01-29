@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33735](https://github.com/brave/brave-browser/issues/33735#issuecomment-1905193460) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. 🗣 Commented on [#102](https://github.com/lightning-signer/c-lightning/pull/102#issuecomment-1902514279) in [lightning-signer/c-lightning](https://github.com/lightning-signer/c-lightning)
-3. 🗣 Commented on [#33735](https://github.com/brave/brave-browser/issues/33735#issuecomment-1902486750) in [brave/brave-browser](https://github.com/brave/brave-browser)
-4. 💪 Opened PR [#102](https://github.com/lightning-signer/c-lightning/pull/102) in [lightning-signer/c-lightning](https://github.com/lightning-signer/c-lightning)
-5. ❗ Opened issue [#4](https://github.com/textmate/capnproto.tmbundle/issues/4) in [textmate/capnproto.tmbundle](https://github.com/textmate/capnproto.tmbundle)
+1. 🎉 Merged PR [#152](https://github.com/COPS-IITBHU/cops-website/pull/152) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+2. 🗣 Commented on [#33735](https://github.com/brave/brave-browser/issues/33735#issuecomment-1905193460) in [brave/brave-browser](https://github.com/brave/brave-browser)
+3. 🗣 Commented on [#102](https://github.com/lightning-signer/c-lightning/pull/102#issuecomment-1902514279) in [lightning-signer/c-lightning](https://github.com/lightning-signer/c-lightning)
+4. 🗣 Commented on [#33735](https://github.com/brave/brave-browser/issues/33735#issuecomment-1902486750) in [brave/brave-browser](https://github.com/brave/brave-browser)
+5. 💪 Opened PR [#102](https://github.com/lightning-signer/c-lightning/pull/102) in [lightning-signer/c-lightning](https://github.com/lightning-signer/c-lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
