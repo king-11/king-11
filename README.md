@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14830](https://github.com/protocolbuffers/protobuf/issues/14830#issuecomment-1916195700) in [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
-2. 🗣 Commented on [#15102](https://github.com/protocolbuffers/protobuf/issues/15102#issuecomment-1916193262) in [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
-3. 🎉 Merged PR [#152](https://github.com/COPS-IITBHU/cops-website/pull/152) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-4. 🗣 Commented on [#33735](https://github.com/brave/brave-browser/issues/33735#issuecomment-1905193460) in [brave/brave-browser](https://github.com/brave/brave-browser)
-5. 🗣 Commented on [#102](https://github.com/lightning-signer/c-lightning/pull/102#issuecomment-1902514279) in [lightning-signer/c-lightning](https://github.com/lightning-signer/c-lightning)
+1. 🗣 Commented on [#10006](https://github.com/microsoft/WSL/issues/10006#issuecomment-1937637929) in [microsoft/WSL](https://github.com/microsoft/WSL)
+2. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1937627139) in [king-11/dotrc](https://github.com/king-11/dotrc)
+3. 🗣 Commented on [#14830](https://github.com/protocolbuffers/protobuf/issues/14830#issuecomment-1916195700) in [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+4. 🗣 Commented on [#15102](https://github.com/protocolbuffers/protobuf/issues/15102#issuecomment-1916193262) in [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+5. 🎉 Merged PR [#152](https://github.com/COPS-IITBHU/cops-website/pull/152) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
