@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1962349034) in [king-11/dotrc](https://github.com/king-11/dotrc)
-2. 🗣 Commented on [#10006](https://github.com/microsoft/WSL/issues/10006#issuecomment-1937637929) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1937627139) in [king-11/dotrc](https://github.com/king-11/dotrc)
-4. 🗣 Commented on [#14830](https://github.com/protocolbuffers/protobuf/issues/14830#issuecomment-1916195700) in [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
-5. 🗣 Commented on [#15102](https://github.com/protocolbuffers/protobuf/issues/15102#issuecomment-1916193262) in [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+1. 🗣 Commented on [#7092](https://github.com/ElementsProject/lightning/issues/7092#issuecomment-1964952527) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1962349034) in [king-11/dotrc](https://github.com/king-11/dotrc)
+3. 🗣 Commented on [#10006](https://github.com/microsoft/WSL/issues/10006#issuecomment-1937637929) in [microsoft/WSL](https://github.com/microsoft/WSL)
+4. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-1937627139) in [king-11/dotrc](https://github.com/king-11/dotrc)
+5. 🗣 Commented on [#14830](https://github.com/protocolbuffers/protobuf/issues/14830#issuecomment-1916195700) in [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
