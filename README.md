@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7153](https://github.com/ElementsProject/lightning/issues/7153#issuecomment-2008643049) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🗣 Commented on [#7152](https://github.com/ElementsProject/lightning/issues/7152#issuecomment-2002751541) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-3. 🗣 Commented on [#7152](https://github.com/ElementsProject/lightning/issues/7152#issuecomment-2002016666) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-4. ❗ Opened issue [#7152](https://github.com/ElementsProject/lightning/issues/7152) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. 🗣 Commented on [#7092](https://github.com/ElementsProject/lightning/issues/7092#issuecomment-1966861488) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🗣 Commented on [#11261](https://github.com/microsoft/WSL/issues/11261#issuecomment-2041016004) in [microsoft/WSL](https://github.com/microsoft/WSL)
+2. 🗣 Commented on [#7153](https://github.com/ElementsProject/lightning/issues/7153#issuecomment-2008643049) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 🗣 Commented on [#7152](https://github.com/ElementsProject/lightning/issues/7152#issuecomment-2002751541) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#7152](https://github.com/ElementsProject/lightning/issues/7152#issuecomment-2002016666) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+5. ❗ Opened issue [#7152](https://github.com/ElementsProject/lightning/issues/7152) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
