@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7197](https://github.com/ElementsProject/lightning/issues/7197#issuecomment-2057415432) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🔒 Closed issue [#196](https://github.com/ZmnSCPxj/clboss/issues/196) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-3. 🗣 Commented on [#196](https://github.com/ZmnSCPxj/clboss/issues/196#issuecomment-2051311377) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-4. ❗ Opened issue [#196](https://github.com/ZmnSCPxj/clboss/issues/196) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-5. 🗣 Commented on [#11261](https://github.com/microsoft/WSL/issues/11261#issuecomment-2041016004) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. ❗ Opened issue [#268](https://github.com/dtolnay/async-trait/issues/268) in [dtolnay/async-trait](https://github.com/dtolnay/async-trait)
+2. 🗣 Commented on [#7197](https://github.com/ElementsProject/lightning/issues/7197#issuecomment-2057415432) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 🔒 Closed issue [#196](https://github.com/ZmnSCPxj/clboss/issues/196) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
+4. 🗣 Commented on [#196](https://github.com/ZmnSCPxj/clboss/issues/196#issuecomment-2051311377) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
+5. ❗ Opened issue [#196](https://github.com/ZmnSCPxj/clboss/issues/196) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
