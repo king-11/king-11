@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3704](https://github.com/moby/buildkit/issues/3704#issuecomment-2119615848) in [moby/buildkit](https://github.com/moby/buildkit)
-2. 🗣 Commented on [#268](https://github.com/dtolnay/async-trait/issues/268#issuecomment-2101959429) in [dtolnay/async-trait](https://github.com/dtolnay/async-trait)
-3. ❗ Opened issue [#268](https://github.com/dtolnay/async-trait/issues/268) in [dtolnay/async-trait](https://github.com/dtolnay/async-trait)
-4. 🗣 Commented on [#7197](https://github.com/ElementsProject/lightning/issues/7197#issuecomment-2057415432) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. 🔒 Closed issue [#196](https://github.com/ZmnSCPxj/clboss/issues/196) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
+1. 🗣 Commented on [#11600](https://github.com/bitcoin/bitcoin/issues/11600#issuecomment-2131241170) in [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+2. 🗣 Commented on [#3704](https://github.com/moby/buildkit/issues/3704#issuecomment-2119615848) in [moby/buildkit](https://github.com/moby/buildkit)
+3. 🗣 Commented on [#268](https://github.com/dtolnay/async-trait/issues/268#issuecomment-2101959429) in [dtolnay/async-trait](https://github.com/dtolnay/async-trait)
+4. ❗ Opened issue [#268](https://github.com/dtolnay/async-trait/issues/268) in [dtolnay/async-trait](https://github.com/dtolnay/async-trait)
+5. 🗣 Commented on [#7197](https://github.com/ElementsProject/lightning/issues/7197#issuecomment-2057415432) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
