@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2203648069) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-2. ❗ Opened issue [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-3. 🗣 Commented on [#214](https://github.com/ZmnSCPxj/clboss/issues/214#issuecomment-2173672146) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-4. ❗ Opened issue [#214](https://github.com/ZmnSCPxj/clboss/issues/214) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-5. 🗣 Commented on [#11600](https://github.com/bitcoin/bitcoin/issues/11600#issuecomment-2131241170) in [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+1. ❗ Opened issue [#4020](https://github.com/open-telemetry/opentelemetry-python/issues/4020) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
+2. ❗ Opened issue [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+3. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2203648069) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+4. ❗ Opened issue [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+5. 🗣 Commented on [#214](https://github.com/ZmnSCPxj/clboss/issues/214#issuecomment-2173672146) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
