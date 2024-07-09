@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2207853096) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-2. ❗ Opened issue [#4020](https://github.com/open-telemetry/opentelemetry-python/issues/4020) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
-3. ❗ Opened issue [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-4. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2203648069) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-5. ❗ Opened issue [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+1. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2213081582) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+2. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2207853096) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+3. ❗ Opened issue [#4020](https://github.com/open-telemetry/opentelemetry-python/issues/4020) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
+4. ❗ Opened issue [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+5. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2203648069) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
