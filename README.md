@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4020](https://github.com/open-telemetry/opentelemetry-python/issues/4020#issuecomment-2223115330) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
-2. 💪 Opened PR [#4046](https://github.com/open-telemetry/opentelemetry-python/pull/4046) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
-3. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2213081582) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-4. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2207853096) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-5. ❗ Opened issue [#4020](https://github.com/open-telemetry/opentelemetry-python/issues/4020) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
+1. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2226806670) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+2. 🗣 Commented on [#4020](https://github.com/open-telemetry/opentelemetry-python/issues/4020#issuecomment-2223115330) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
+3. 💪 Opened PR [#4046](https://github.com/open-telemetry/opentelemetry-python/pull/4046) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
+4. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2213081582) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+5. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2207853096) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
