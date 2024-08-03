@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2238238115) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-2. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2226806670) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-3. 🗣 Commented on [#4020](https://github.com/open-telemetry/opentelemetry-python/issues/4020#issuecomment-2223115330) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
-4. 💪 Opened PR [#4046](https://github.com/open-telemetry/opentelemetry-python/pull/4046) in [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
-5. 🗣 Commented on [#36328](https://github.com/Azure/azure-sdk-for-python/issues/36328#issuecomment-2213081582) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+1. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2266176636) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+2. 🗣 Commented on [#2634](https://github.com/Azure/azure-functions-dotnet-worker/issues/2634#issuecomment-2266069646) in [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker)
+3. 🗣 Commented on [#45320](https://github.com/Azure/azure-sdk-for-net/issues/45320#issuecomment-2266064126) in [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
+4. 🗣 Commented on [#15295](https://github.com/zed-industries/zed/issues/15295#issuecomment-2266038379) in [zed-industries/zed](https://github.com/zed-industries/zed)
+5. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2264963415) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
