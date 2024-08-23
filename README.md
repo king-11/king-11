@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2298286391) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-2. 🗣 Commented on [#45320](https://github.com/Azure/azure-sdk-for-net/issues/45320#issuecomment-2276488082) in [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
-3. 🗣 Commented on [#702](https://github.com/Wilfred/difftastic/issues/702#issuecomment-2275213404) in [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
-4. 🗣 Commented on [#214](https://github.com/ZmnSCPxj/clboss/issues/214#issuecomment-2266472041) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-5. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2266176636) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+1. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2303875511) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+2. 🔒 Closed issue [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+3. 🗣 Commented on [#36318](https://github.com/Azure/azure-sdk-for-python/issues/36318#issuecomment-2298286391) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+4. 🗣 Commented on [#45320](https://github.com/Azure/azure-sdk-for-net/issues/45320#issuecomment-2276488082) in [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
+5. 🗣 Commented on [#702](https://github.com/Wilfred/difftastic/issues/702#issuecomment-2275213404) in [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
