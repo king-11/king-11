@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/camdencheek/tree-sitter-dockerfile/pull/61) in [camdencheek/tree-sitter-dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile)
-2. 🗣 Commented on [#54](https://github.com/camdencheek/tree-sitter-dockerfile/issues/54#issuecomment-2407458556) in [camdencheek/tree-sitter-dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile)
-3. 💪 Opened PR [#85](https://github.com/etcdv3/etcd-client/pull/85) in [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client)
-4. 🗣 Commented on [#39](https://github.com/nvzqz/divan/issues/39#issuecomment-2356476171) in [nvzqz/divan](https://github.com/nvzqz/divan)
-5. 🗣 Commented on [#2634](https://github.com/Azure/azure-functions-dotnet-worker/issues/2634#issuecomment-2339590836) in [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker)
+1. 🗣 Commented on [#7665](https://github.com/ElementsProject/lightning/issues/7665#issuecomment-2408825152) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 💪 Opened PR [#61](https://github.com/camdencheek/tree-sitter-dockerfile/pull/61) in [camdencheek/tree-sitter-dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile)
+3. 🗣 Commented on [#54](https://github.com/camdencheek/tree-sitter-dockerfile/issues/54#issuecomment-2407458556) in [camdencheek/tree-sitter-dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile)
+4. 💪 Opened PR [#85](https://github.com/etcdv3/etcd-client/pull/85) in [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client)
+5. 🗣 Commented on [#39](https://github.com/nvzqz/divan/issues/39#issuecomment-2356476171) in [nvzqz/divan](https://github.com/nvzqz/divan)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
