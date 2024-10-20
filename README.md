@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#661](https://github.com/Avaiga/taipy/issues/661#issuecomment-2420517821) in [Avaiga/taipy](https://github.com/Avaiga/taipy)
-2. 🗣 Commented on [#18076](https://github.com/microsoft/azure-pipelines-tasks/issues/18076#issuecomment-2416808131) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-3. 🗣 Commented on [#18076](https://github.com/microsoft/azure-pipelines-tasks/issues/18076#issuecomment-2416324549) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-4. 🗣 Commented on [#7665](https://github.com/ElementsProject/lightning/issues/7665#issuecomment-2408825152) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. 💪 Opened PR [#61](https://github.com/camdencheek/tree-sitter-dockerfile/pull/61) in [camdencheek/tree-sitter-dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile)
+1. 🗣 Commented on [#245](https://github.com/ZmnSCPxj/clboss/issues/245#issuecomment-2423549112) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
+2. 🗣 Commented on [#245](https://github.com/ZmnSCPxj/clboss/issues/245#issuecomment-2423058470) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
+3. 🗣 Commented on [#661](https://github.com/Avaiga/taipy/issues/661#issuecomment-2420517821) in [Avaiga/taipy](https://github.com/Avaiga/taipy)
+4. 🗣 Commented on [#18076](https://github.com/microsoft/azure-pipelines-tasks/issues/18076#issuecomment-2416808131) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+5. 🗣 Commented on [#18076](https://github.com/microsoft/azure-pipelines-tasks/issues/18076#issuecomment-2416324549) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
