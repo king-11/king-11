@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#245](https://github.com/ZmnSCPxj/clboss/issues/245#issuecomment-2442171564) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-2. 🗣 Commented on [#245](https://github.com/ZmnSCPxj/clboss/issues/245#issuecomment-2436869459) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-3. 🗣 Commented on [#245](https://github.com/ZmnSCPxj/clboss/issues/245#issuecomment-2436860868) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
-4. 🗣 Commented on [#7762](https://github.com/ElementsProject/lightning/pull/7762#issuecomment-2435515769) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. 💪 Opened PR [#7762](https://github.com/ElementsProject/lightning/pull/7762) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🗣 Commented on [#10798](https://github.com/gohugoio/hugo/issues/10798#issuecomment-2447730964) in [gohugoio/hugo](https://github.com/gohugoio/hugo)
+2. 🗣 Commented on [#2751](https://github.com/gohugoio/hugoDocs/issues/2751#issuecomment-2447698961) in [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)
+3. ❗ Opened issue [#2751](https://github.com/gohugoio/hugoDocs/issues/2751) in [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)
+4. ❌ Closed PR [#5](https://github.com/king-11/blog/pull/5) in [king-11/blog](https://github.com/king-11/blog)
+5. 🗣 Commented on [#245](https://github.com/ZmnSCPxj/clboss/issues/245#issuecomment-2442171564) in [ZmnSCPxj/clboss](https://github.com/ZmnSCPxj/clboss)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
