@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/colored-rs/colored/issues/182#issuecomment-2453258660) in [colored-rs/colored](https://github.com/colored-rs/colored)
-2. 🔒 Closed issue [#182](https://github.com/colored-rs/colored/issues/182) in [colored-rs/colored](https://github.com/colored-rs/colored)
-3. 🗣 Commented on [#89](https://github.com/RCasatta/blocks_iterator/issues/89#issuecomment-2453064003) in [RCasatta/blocks_iterator](https://github.com/RCasatta/blocks_iterator)
-4. 💪 Opened PR [#184](https://github.com/colored-rs/colored/pull/184) in [colored-rs/colored](https://github.com/colored-rs/colored)
-5. 🗣 Commented on [#182](https://github.com/colored-rs/colored/issues/182#issuecomment-2453062959) in [colored-rs/colored](https://github.com/colored-rs/colored)
+1. ❗ Opened issue [#29](https://github.com/dirs-dev/dirs-sys-rs/issues/29) in [dirs-dev/dirs-sys-rs](https://github.com/dirs-dev/dirs-sys-rs)
+2. 💪 Opened PR [#90](https://github.com/RCasatta/blocks_iterator/pull/90) in [RCasatta/blocks_iterator](https://github.com/RCasatta/blocks_iterator)
+3. 💪 Opened PR [#304](https://github.com/Stebalien/tempfile/pull/304) in [Stebalien/tempfile](https://github.com/Stebalien/tempfile)
+4. 🗣 Commented on [#89](https://github.com/RCasatta/blocks_iterator/issues/89#issuecomment-2454847513) in [RCasatta/blocks_iterator](https://github.com/RCasatta/blocks_iterator)
+5. 🗣 Commented on [#182](https://github.com/colored-rs/colored/issues/182#issuecomment-2453258660) in [colored-rs/colored](https://github.com/colored-rs/colored)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
