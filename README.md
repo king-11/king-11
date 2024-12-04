@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/RCasatta/blocks_iterator/pull/92#issuecomment-2480381057) in [RCasatta/blocks_iterator](https://github.com/RCasatta/blocks_iterator)
-2. 🗣 Commented on [#22691](https://github.com/chapel-lang/chapel/issues/22691#issuecomment-2477817241) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 💪 Opened PR [#92](https://github.com/RCasatta/blocks_iterator/pull/92) in [RCasatta/blocks_iterator](https://github.com/RCasatta/blocks_iterator)
-4. ❗ Opened issue [#91](https://github.com/RCasatta/blocks_iterator/issues/91) in [RCasatta/blocks_iterator](https://github.com/RCasatta/blocks_iterator)
-5. 🗣 Commented on [#90](https://github.com/RCasatta/blocks_iterator/pull/90#issuecomment-2476956227) in [RCasatta/blocks_iterator](https://github.com/RCasatta/blocks_iterator)
+1. 🗣 Commented on [#185](https://github.com/colored-rs/colored/issues/185#issuecomment-2513422561) in [colored-rs/colored](https://github.com/colored-rs/colored)
+2. 🗣 Commented on [#21436](https://github.com/zed-industries/zed/issues/21436#issuecomment-2513413392) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. ❗ Opened issue [#21436](https://github.com/zed-industries/zed/issues/21436) in [zed-industries/zed](https://github.com/zed-industries/zed)
+4. 🗣 Commented on [#92](https://github.com/RCasatta/blocks_iterator/pull/92#issuecomment-2480381057) in [RCasatta/blocks_iterator](https://github.com/RCasatta/blocks_iterator)
+5. 🗣 Commented on [#22691](https://github.com/chapel-lang/chapel/issues/22691#issuecomment-2477817241) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
