@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/ory/dockertest/issues/191#issuecomment-2517293499) in [ory/dockertest](https://github.com/ory/dockertest)
-2. 🗣 Commented on [#186](https://github.com/colored-rs/colored/pull/186#issuecomment-2516143667) in [colored-rs/colored](https://github.com/colored-rs/colored)
-3. 🗣 Commented on [#185](https://github.com/colored-rs/colored/issues/185#issuecomment-2513422561) in [colored-rs/colored](https://github.com/colored-rs/colored)
-4. 🗣 Commented on [#21436](https://github.com/zed-industries/zed/issues/21436#issuecomment-2513413392) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. ❗ Opened issue [#21436](https://github.com/zed-industries/zed/issues/21436) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 🗣 Commented on [#7939](https://github.com/ElementsProject/lightning/issues/7939#issuecomment-2543994981) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 🗣 Commented on [#186](https://github.com/colored-rs/colored/pull/186#issuecomment-2543933766) in [colored-rs/colored](https://github.com/colored-rs/colored)
+3. 💪 Opened PR [#7940](https://github.com/ElementsProject/lightning/pull/7940) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. ❗ Opened issue [#7939](https://github.com/ElementsProject/lightning/issues/7939) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+5. 🗣 Commented on [#2779](https://github.com/ElementsProject/lightning/issues/2779#issuecomment-2543462822) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
