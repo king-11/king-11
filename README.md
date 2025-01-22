@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/lunacookies/etcetera/issues/26) in [lunacookies/etcetera](https://github.com/lunacookies/etcetera)
-2. 🗣 Commented on [#29](https://github.com/dirs-dev/dirs-sys-rs/issues/29#issuecomment-2585741001) in [dirs-dev/dirs-sys-rs](https://github.com/dirs-dev/dirs-sys-rs)
-3. 🗣 Commented on [#29](https://github.com/dirs-dev/dirs-sys-rs/issues/29#issuecomment-2585234916) in [dirs-dev/dirs-sys-rs](https://github.com/dirs-dev/dirs-sys-rs)
-4. 🗣 Commented on [#3333](https://github.com/ghostty-org/ghostty/issues/3333#issuecomment-2564724777) in [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
-5. 🗣 Commented on [#3333](https://github.com/ghostty-org/ghostty/issues/3333#issuecomment-2563926856) in [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+1. ❗ Opened issue [#1520](https://github.com/paritytech/jsonrpsee/issues/1520) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+2. 💪 Opened PR [#1519](https://github.com/paritytech/jsonrpsee/pull/1519) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+3. ❗ Opened issue [#26](https://github.com/lunacookies/etcetera/issues/26) in [lunacookies/etcetera](https://github.com/lunacookies/etcetera)
+4. 🗣 Commented on [#29](https://github.com/dirs-dev/dirs-sys-rs/issues/29#issuecomment-2585741001) in [dirs-dev/dirs-sys-rs](https://github.com/dirs-dev/dirs-sys-rs)
+5. 🗣 Commented on [#29](https://github.com/dirs-dev/dirs-sys-rs/issues/29#issuecomment-2585234916) in [dirs-dev/dirs-sys-rs](https://github.com/dirs-dev/dirs-sys-rs)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
