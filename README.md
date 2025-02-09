@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1520](https://github.com/paritytech/jsonrpsee/issues/1520#issuecomment-2613239748) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
-2. 🗣 Commented on [#1522](https://github.com/paritytech/jsonrpsee/pull/1522#issuecomment-2612901476) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
-3. 🗣 Commented on [#1520](https://github.com/paritytech/jsonrpsee/issues/1520#issuecomment-2611611523) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
-4. 💪 Opened PR [#1522](https://github.com/paritytech/jsonrpsee/pull/1522) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
-5. 🗣 Commented on [#1520](https://github.com/paritytech/jsonrpsee/issues/1520#issuecomment-2607442578) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+1. 🗣 Commented on [#525](https://github.com/jamaljsr/polar/issues/525#issuecomment-2645911066) in [jamaljsr/polar](https://github.com/jamaljsr/polar)
+2. 🗣 Commented on [#1520](https://github.com/paritytech/jsonrpsee/issues/1520#issuecomment-2613239748) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+3. 🗣 Commented on [#1522](https://github.com/paritytech/jsonrpsee/pull/1522#issuecomment-2612901476) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+4. 🗣 Commented on [#1520](https://github.com/paritytech/jsonrpsee/issues/1520#issuecomment-2611611523) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+5. 💪 Opened PR [#1522](https://github.com/paritytech/jsonrpsee/pull/1522) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
