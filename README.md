@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1527](https://github.com/paritytech/jsonrpsee/issues/1527) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
-2. 🗣 Commented on [#525](https://github.com/jamaljsr/polar/issues/525#issuecomment-2672283386) in [jamaljsr/polar](https://github.com/jamaljsr/polar)
-3. 🗣 Commented on [#525](https://github.com/jamaljsr/polar/issues/525#issuecomment-2669411111) in [jamaljsr/polar](https://github.com/jamaljsr/polar)
-4. 🗣 Commented on [#525](https://github.com/jamaljsr/polar/issues/525#issuecomment-2645911066) in [jamaljsr/polar](https://github.com/jamaljsr/polar)
-5. 🗣 Commented on [#1522](https://github.com/paritytech/jsonrpsee/pull/1522#issuecomment-2612901476) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+1. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-2684019095) in [king-11/dotrc](https://github.com/king-11/dotrc)
+2. 🗣 Commented on [#21436](https://github.com/zed-industries/zed/issues/21436#issuecomment-2683976473) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. 🗣 Commented on [#1522](https://github.com/paritytech/jsonrpsee/pull/1522#issuecomment-2682963055) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+4. 🗣 Commented on [#1527](https://github.com/paritytech/jsonrpsee/issues/1527#issuecomment-2682201174) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+5. 🗣 Commented on [#1907](https://github.com/Kong/insomnia/issues/1907#issuecomment-2682081767) in [Kong/insomnia](https://github.com/Kong/insomnia)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
