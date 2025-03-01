@@ -35,11 +35,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1358](https://github.com/tursodatabase/libsql/issues/1358#issuecomment-2685827911) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-2. 🗣 Commented on [#1358](https://github.com/tursodatabase/libsql/issues/1358#issuecomment-2685827390) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-3. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-2684019095) in [king-11/dotrc](https://github.com/king-11/dotrc)
-4. 🗣 Commented on [#21436](https://github.com/zed-industries/zed/issues/21436#issuecomment-2683976473) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. 🗣 Commented on [#1522](https://github.com/paritytech/jsonrpsee/pull/1522#issuecomment-2682963055) in [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee)
+1. 🗣 Commented on [#26](https://github.com/lunacookies/etcetera/issues/26#issuecomment-2688097276) in [lunacookies/etcetera](https://github.com/lunacookies/etcetera)
+2. 🗣 Commented on [#1358](https://github.com/tursodatabase/libsql/issues/1358#issuecomment-2685827911) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+3. 🗣 Commented on [#1358](https://github.com/tursodatabase/libsql/issues/1358#issuecomment-2685827390) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+4. 🗣 Commented on [#3](https://github.com/king-11/dotrc/issues/3#issuecomment-2684019095) in [king-11/dotrc](https://github.com/king-11/dotrc)
+5. 🗣 Commented on [#21436](https://github.com/zed-industries/zed/issues/21436#issuecomment-2683976473) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
