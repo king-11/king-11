@@ -3,15 +3,15 @@
 
 ## 🙋🏽‍♂️About Me
 
-- 👨‍💼 I am currently a Software Engineer at @Microsoft in the Azure Core Compute Organization
+- 👨‍💼 I am currently a Software Engineer at **@Glean** in the Data Foundations Team.
 - 🏫 I did a Bachelors in Computer Science and Engineering from the Indian Institute of Technology (BHU), Varanasi
 - 🍀 I have a keen interest in Open Source, Application Development, Network Security and Natural Language Processing.
 - 🔭 I’m an Open Source Contributor at [Validating Lightning Signer](https://vls.tech/posts/vls-beta/)
-- 🌱 I’m currently learning **Rust** 🦀 and **Azure Kubernetes Service** ☁️
+- 🌱 I’m currently learning **Distributed Systems** 🦀 and **Databases** ☁️
 - 👯 I’m looking to collaborate on [genx](https://crates.io/crates/genx)
 - 💬 Ask me about **Vue, Django, Postgres, Nodejs, React, Go, Rust**
 - 📫 How to reach me **lakshay.sing1108@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/171bSjj3EQFHmXF9aTRBwE9gOyD1c1QqO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qNwKeoZPkrc1qxScXfZYx-UZ4iXovoWm/view?usp=sharing)
 - ⚡ Fun fact **I love watching SuperHero Movies (Marvel, DC, etc.) and I enjoy trekking in the Himalayas**
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
