@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2511](https://github.com/gitbutlerapp/gitbutler/issues/2511#issuecomment-2776491132) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#5099](https://github.com/gitbutlerapp/gitbutler/issues/5099#issuecomment-2773425182) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#1234](https://github.com/abiosoft/colima/issues/1234#issuecomment-2739424289) in [abiosoft/colima](https://github.com/abiosoft/colima)
-4. 🗣 Commented on [#39](https://github.com/nvzqz/divan/issues/39#issuecomment-2705818523) in [nvzqz/divan](https://github.com/nvzqz/divan)
-5. 🗣 Commented on [#1358](https://github.com/tursodatabase/libsql/issues/1358#issuecomment-2685827911) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+1. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2779446277) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 💪 Opened PR [#8208](https://github.com/ElementsProject/lightning/pull/8208) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 🗣 Commented on [#2511](https://github.com/gitbutlerapp/gitbutler/issues/2511#issuecomment-2777978841) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. ❗ Opened issue [#4](https://github.com/king-11/dotrc/issues/4) in [king-11/dotrc](https://github.com/king-11/dotrc)
+5. 🗣 Commented on [#2511](https://github.com/gitbutlerapp/gitbutler/issues/2511#issuecomment-2777439018) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
