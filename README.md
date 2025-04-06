@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2779446277) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 💪 Opened PR [#8208](https://github.com/ElementsProject/lightning/pull/8208) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-3. 🗣 Commented on [#2511](https://github.com/gitbutlerapp/gitbutler/issues/2511#issuecomment-2777978841) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❗ Opened issue [#4](https://github.com/king-11/dotrc/issues/4) in [king-11/dotrc](https://github.com/king-11/dotrc)
-5. 🗣 Commented on [#2511](https://github.com/gitbutlerapp/gitbutler/issues/2511#issuecomment-2777439018) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2780765373) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2780762054) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2780747223) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2779446277) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+5. 💪 Opened PR [#8208](https://github.com/ElementsProject/lightning/pull/8208) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
