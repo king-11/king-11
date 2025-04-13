@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2782539619) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2780765373) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-3. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2780762054) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-4. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2780747223) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2779446277) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🗣 Commented on [#5](https://github.com/mil-ad/website_comments/issues/5#issuecomment-2798495498) in [mil-ad/website_comments](https://github.com/mil-ad/website_comments)
+2. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2782539619) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2780765373) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2780762054) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+5. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2780747223) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
