@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4889](https://github.com/dagger/dagger/issues/4889#issuecomment-2818537969) in [dagger/dagger](https://github.com/dagger/dagger)
-2. 🗣 Commented on [#7665](https://github.com/ElementsProject/lightning/issues/7665#issuecomment-2800345983) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-3. 🗣 Commented on [#7665](https://github.com/ElementsProject/lightning/issues/7665#issuecomment-2799715389) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-4. 🗣 Commented on [#5](https://github.com/mil-ad/website_comments/issues/5#issuecomment-2798495498) in [mil-ad/website_comments](https://github.com/mil-ad/website_comments)
-5. 🗣 Commented on [#8208](https://github.com/ElementsProject/lightning/pull/8208#issuecomment-2782539619) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2833585729) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2833183995) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 💪 Opened PR [#8249](https://github.com/ElementsProject/lightning/pull/8249) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#4889](https://github.com/dagger/dagger/issues/4889#issuecomment-2818537969) in [dagger/dagger](https://github.com/dagger/dagger)
+5. 🗣 Commented on [#7665](https://github.com/ElementsProject/lightning/issues/7665#issuecomment-2800345983) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
