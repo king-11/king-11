@@ -32,9 +32,9 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2846260294) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. ❌ Closed PR [#103](https://github.com/lightning-signer/c-lightning/pull/103) in [lightning-signer/c-lightning](https://github.com/lightning-signer/c-lightning)
-3. 💪 Opened PR [#8249](https://github.com/ElementsProject/lightning/pull/8249) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2848748675) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2846260294) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. ❌ Closed PR [#103](https://github.com/lightning-signer/c-lightning/pull/103) in [lightning-signer/c-lightning](https://github.com/lightning-signer/c-lightning)
 4. 🗣 Commented on [#4889](https://github.com/dagger/dagger/issues/4889#issuecomment-2818537969) in [dagger/dagger](https://github.com/dagger/dagger)
 5. 🗣 Commented on [#7665](https://github.com/ElementsProject/lightning/issues/7665#issuecomment-2800345983) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
