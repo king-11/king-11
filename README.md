@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2856977045) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🗣 Commented on [#727](https://github.com/anthropics/claude-code/issues/727#issuecomment-2855638662) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-3. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2848748675) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-4. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2846260294) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. ❌ Closed PR [#103](https://github.com/lightning-signer/c-lightning/pull/103) in [lightning-signer/c-lightning](https://github.com/lightning-signer/c-lightning)
+1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2861610208) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2856977045) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 🗣 Commented on [#727](https://github.com/anthropics/claude-code/issues/727#issuecomment-2855638662) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+4. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2848748675) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+5. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2846260294) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
