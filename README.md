@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2861610208) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2856977045) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-3. 🗣 Commented on [#727](https://github.com/anthropics/claude-code/issues/727#issuecomment-2855638662) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-4. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2848748675) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2846260294) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. ❌ Closed PR [#7](https://github.com/king-11/astro-cactus-blog/pull/7) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+2. ❌ Closed PR [#1](https://github.com/king-11/astro-cactus-blog/pull/1) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+3. ❌ Closed PR [#6](https://github.com/king-11/astro-cactus-blog/pull/6) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+4. ❌ Closed PR [#4](https://github.com/king-11/astro-cactus-blog/pull/4) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+5. ❌ Closed PR [#8](https://github.com/king-11/astro-cactus-blog/pull/8) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
