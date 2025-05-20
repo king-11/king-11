@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/king-11/astro-cactus-blog/pull/7) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
-2. ❌ Closed PR [#1](https://github.com/king-11/astro-cactus-blog/pull/1) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
-3. ❌ Closed PR [#6](https://github.com/king-11/astro-cactus-blog/pull/6) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
-4. ❌ Closed PR [#4](https://github.com/king-11/astro-cactus-blog/pull/4) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
-5. ❌ Closed PR [#8](https://github.com/king-11/astro-cactus-blog/pull/8) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+1. 🗣 Commented on [#853](https://github.com/sezanzeb/input-remapper/issues/853#issuecomment-2889545326) in [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
+2. ❌ Closed PR [#7](https://github.com/king-11/astro-cactus-blog/pull/7) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+3. ❌ Closed PR [#1](https://github.com/king-11/astro-cactus-blog/pull/1) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+4. ❌ Closed PR [#6](https://github.com/king-11/astro-cactus-blog/pull/6) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+5. ❌ Closed PR [#4](https://github.com/king-11/astro-cactus-blog/pull/4) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
