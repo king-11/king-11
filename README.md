@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8330](https://github.com/ElementsProject/lightning/pull/8330#issuecomment-2953503867) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 💪 Opened PR [#8330](https://github.com/ElementsProject/lightning/pull/8330) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-3. 🗣 Commented on [#853](https://github.com/sezanzeb/input-remapper/issues/853#issuecomment-2892661715) in [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
-4. 🗣 Commented on [#853](https://github.com/sezanzeb/input-remapper/issues/853#issuecomment-2889545326) in [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
-5. ❌ Closed PR [#7](https://github.com/king-11/astro-cactus-blog/pull/7) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2955885211) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 🗣 Commented on [#8330](https://github.com/ElementsProject/lightning/pull/8330#issuecomment-2953503867) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 💪 Opened PR [#8330](https://github.com/ElementsProject/lightning/pull/8330) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#853](https://github.com/sezanzeb/input-remapper/issues/853#issuecomment-2892661715) in [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
+5. 🗣 Commented on [#853](https://github.com/sezanzeb/input-remapper/issues/853#issuecomment-2889545326) in [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
