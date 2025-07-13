@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-3015610920) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🗣 Commented on [#2](https://github.com/singlestore-labs/demo-docker-benchmarking-battle/issues/2#issuecomment-2987768586) in [singlestore-labs/demo-docker-benchmarking-battle](https://github.com/singlestore-labs/demo-docker-benchmarking-battle)
-3. 🔒 Closed issue [#2](https://github.com/singlestore-labs/demo-docker-benchmarking-battle/issues/2) in [singlestore-labs/demo-docker-benchmarking-battle](https://github.com/singlestore-labs/demo-docker-benchmarking-battle)
-4. ❗ Opened issue [#2](https://github.com/singlestore-labs/demo-docker-benchmarking-battle/issues/2) in [singlestore-labs/demo-docker-benchmarking-battle](https://github.com/singlestore-labs/demo-docker-benchmarking-battle)
-5. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-2986521159) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🎉 Merged PR [#1](https://github.com/king-11/immich/pull/1) in [king-11/immich](https://github.com/king-11/immich)
+2. ❌ Closed PR [#1](https://github.com/lightning-signer/validating-lightning-signer/pull/1) in [lightning-signer/validating-lightning-signer](https://github.com/lightning-signer/validating-lightning-signer)
+3. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-3015610920) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#2](https://github.com/singlestore-labs/demo-docker-benchmarking-battle/issues/2#issuecomment-2987768586) in [singlestore-labs/demo-docker-benchmarking-battle](https://github.com/singlestore-labs/demo-docker-benchmarking-battle)
+5. 🔒 Closed issue [#2](https://github.com/singlestore-labs/demo-docker-benchmarking-battle/issues/2) in [singlestore-labs/demo-docker-benchmarking-battle](https://github.com/singlestore-labs/demo-docker-benchmarking-battle)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
