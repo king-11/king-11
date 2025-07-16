@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/king-11/opencode/pull/1#issuecomment-3070115040) in [king-11/opencode](https://github.com/king-11/opencode)
-2. 🎉 Merged PR [#1](https://github.com/king-11/immich/pull/1) in [king-11/immich](https://github.com/king-11/immich)
-3. ❌ Closed PR [#1](https://github.com/lightning-signer/validating-lightning-signer/pull/1) in [lightning-signer/validating-lightning-signer](https://github.com/lightning-signer/validating-lightning-signer)
-4. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-3015610920) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. 🗣 Commented on [#2](https://github.com/singlestore-labs/demo-docker-benchmarking-battle/issues/2#issuecomment-2987768586) in [singlestore-labs/demo-docker-benchmarking-battle](https://github.com/singlestore-labs/demo-docker-benchmarking-battle)
+1. 🗣 Commented on [#290](https://github.com/opencode-ai/opencode/issues/290#issuecomment-3070627759) in [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
+2. 💪 Opened PR [#317](https://github.com/opencode-ai/opencode/pull/317) in [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
+3. ❌ Closed PR [#1](https://github.com/king-11/opencode/pull/1) in [king-11/opencode](https://github.com/king-11/opencode)
+4. 🗣 Commented on [#1](https://github.com/king-11/opencode/pull/1#issuecomment-3070115040) in [king-11/opencode](https://github.com/king-11/opencode)
+5. 🎉 Merged PR [#1](https://github.com/king-11/immich/pull/1) in [king-11/immich](https://github.com/king-11/immich)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
