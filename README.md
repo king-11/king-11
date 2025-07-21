@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#290](https://github.com/opencode-ai/opencode/issues/290#issuecomment-3070627759) in [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
-2. 💪 Opened PR [#317](https://github.com/opencode-ai/opencode/pull/317) in [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
-3. ❌ Closed PR [#1](https://github.com/king-11/opencode/pull/1) in [king-11/opencode](https://github.com/king-11/opencode)
-4. 🗣 Commented on [#1](https://github.com/king-11/opencode/pull/1#issuecomment-3070115040) in [king-11/opencode](https://github.com/king-11/opencode)
-5. 🎉 Merged PR [#1](https://github.com/king-11/immich/pull/1) in [king-11/immich](https://github.com/king-11/immich)
+1. 🗣 Commented on [#8775](https://github.com/gitbutlerapp/gitbutler/issues/8775#issuecomment-3093192899) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#290](https://github.com/opencode-ai/opencode/issues/290#issuecomment-3070627759) in [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
+3. 💪 Opened PR [#317](https://github.com/opencode-ai/opencode/pull/317) in [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
+4. ❌ Closed PR [#1](https://github.com/king-11/opencode/pull/1) in [king-11/opencode](https://github.com/king-11/opencode)
+5. 🗣 Commented on [#1](https://github.com/king-11/opencode/pull/1#issuecomment-3070115040) in [king-11/opencode](https://github.com/king-11/opencode)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
