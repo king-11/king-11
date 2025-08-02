@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2060](https://github.com/Start9Labs/start-os/issues/2060#issuecomment-3138309570) in [Start9Labs/start-os](https://github.com/Start9Labs/start-os)
-2. 🗣 Commented on [#1737](https://github.com/sharkdp/fd/issues/1737#issuecomment-3124044947) in [sharkdp/fd](https://github.com/sharkdp/fd)
-3. 🗣 Commented on [#2060](https://github.com/Start9Labs/start-os/issues/2060#issuecomment-3121473879) in [Start9Labs/start-os](https://github.com/Start9Labs/start-os)
-4. ❌ Closed PR [#317](https://github.com/opencode-ai/opencode/pull/317) in [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
-5. 🗣 Commented on [#8775](https://github.com/gitbutlerapp/gitbutler/issues/8775#issuecomment-3093192899) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🎉 Merged PR [#22](https://github.com/king-11/astro-cactus-blog/pull/22) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+2. 🎉 Merged PR [#23](https://github.com/king-11/astro-cactus-blog/pull/23) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+3. 🗣 Commented on [#2060](https://github.com/Start9Labs/start-os/issues/2060#issuecomment-3138309570) in [Start9Labs/start-os](https://github.com/Start9Labs/start-os)
+4. 🗣 Commented on [#1737](https://github.com/sharkdp/fd/issues/1737#issuecomment-3124044947) in [sharkdp/fd](https://github.com/sharkdp/fd)
+5. 🗣 Commented on [#2060](https://github.com/Start9Labs/start-os/issues/2060#issuecomment-3121473879) in [Start9Labs/start-os](https://github.com/Start9Labs/start-os)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
