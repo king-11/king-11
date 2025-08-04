@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/king-11/astro-cactus-blog/pull/22) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
-2. 🎉 Merged PR [#23](https://github.com/king-11/astro-cactus-blog/pull/23) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
-3. 🗣 Commented on [#2060](https://github.com/Start9Labs/start-os/issues/2060#issuecomment-3138309570) in [Start9Labs/start-os](https://github.com/Start9Labs/start-os)
-4. 🗣 Commented on [#1737](https://github.com/sharkdp/fd/issues/1737#issuecomment-3124044947) in [sharkdp/fd](https://github.com/sharkdp/fd)
-5. 🗣 Commented on [#2060](https://github.com/Start9Labs/start-os/issues/2060#issuecomment-3121473879) in [Start9Labs/start-os](https://github.com/Start9Labs/start-os)
+1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-3148565219) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 🎉 Merged PR [#22](https://github.com/king-11/astro-cactus-blog/pull/22) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+3. 🎉 Merged PR [#23](https://github.com/king-11/astro-cactus-blog/pull/23) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
+4. 🗣 Commented on [#2060](https://github.com/Start9Labs/start-os/issues/2060#issuecomment-3138309570) in [Start9Labs/start-os](https://github.com/Start9Labs/start-os)
+5. 🗣 Commented on [#1737](https://github.com/sharkdp/fd/issues/1737#issuecomment-3124044947) in [sharkdp/fd](https://github.com/sharkdp/fd)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
