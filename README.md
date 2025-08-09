@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-3148565219) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🎉 Merged PR [#22](https://github.com/king-11/astro-cactus-blog/pull/22) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
-3. 🎉 Merged PR [#23](https://github.com/king-11/astro-cactus-blog/pull/23) in [king-11/astro-cactus-blog](https://github.com/king-11/astro-cactus-blog)
-4. 🗣 Commented on [#2060](https://github.com/Start9Labs/start-os/issues/2060#issuecomment-3138309570) in [Start9Labs/start-os](https://github.com/Start9Labs/start-os)
-5. 🗣 Commented on [#1737](https://github.com/sharkdp/fd/issues/1737#issuecomment-3124044947) in [sharkdp/fd](https://github.com/sharkdp/fd)
+1. 🗣 Commented on [#9740](https://github.com/gitbutlerapp/gitbutler/issues/9740#issuecomment-3168696147) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#4770](https://github.com/rust-bitcoin/rust-bitcoin/issues/4770#issuecomment-3168670631) in [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+3. 🗣 Commented on [#4770](https://github.com/rust-bitcoin/rust-bitcoin/issues/4770#issuecomment-3164575475) in [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+4. 🗣 Commented on [#7665](https://github.com/ElementsProject/lightning/issues/7665#issuecomment-3164297407) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+5. 🗣 Commented on [#8249](https://github.com/ElementsProject/lightning/pull/8249#issuecomment-3148565219) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
