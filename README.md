@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4770](https://github.com/rust-bitcoin/rust-bitcoin/issues/4770#issuecomment-3170138480) in [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-2. 🗣 Commented on [#9740](https://github.com/gitbutlerapp/gitbutler/issues/9740#issuecomment-3168696147) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#4770](https://github.com/rust-bitcoin/rust-bitcoin/issues/4770#issuecomment-3168670631) in [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-4. 🗣 Commented on [#4770](https://github.com/rust-bitcoin/rust-bitcoin/issues/4770#issuecomment-3164575475) in [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-5. 🗣 Commented on [#7665](https://github.com/ElementsProject/lightning/issues/7665#issuecomment-3164297407) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🗣 Commented on [#272](https://github.com/sst/opencode/issues/272#issuecomment-3192592448) in [sst/opencode](https://github.com/sst/opencode)
+2. 🗣 Commented on [#8459](https://github.com/ElementsProject/lightning/issues/8459#issuecomment-3191694060) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 🗣 Commented on [#8459](https://github.com/ElementsProject/lightning/issues/8459#issuecomment-3191687707) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#4770](https://github.com/rust-bitcoin/rust-bitcoin/issues/4770#issuecomment-3170138480) in [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+5. 🗣 Commented on [#9740](https://github.com/gitbutlerapp/gitbutler/issues/9740#issuecomment-3168696147) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
