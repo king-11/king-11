@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8443](https://github.com/ElementsProject/lightning/issues/8443#issuecomment-3194454777) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🗣 Commented on [#8460](https://github.com/ElementsProject/lightning/pull/8460#issuecomment-3193376934) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-3. 🗣 Commented on [#272](https://github.com/sst/opencode/issues/272#issuecomment-3192592448) in [sst/opencode](https://github.com/sst/opencode)
-4. 🗣 Commented on [#8459](https://github.com/ElementsProject/lightning/issues/8459#issuecomment-3191694060) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. 🗣 Commented on [#8459](https://github.com/ElementsProject/lightning/issues/8459#issuecomment-3191687707) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 💪 Opened PR [#8517](https://github.com/ElementsProject/lightning/pull/8517) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+2. 🗣 Commented on [#8443](https://github.com/ElementsProject/lightning/issues/8443#issuecomment-3194454777) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 🗣 Commented on [#8460](https://github.com/ElementsProject/lightning/pull/8460#issuecomment-3193376934) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#272](https://github.com/sst/opencode/issues/272#issuecomment-3192592448) in [sst/opencode](https://github.com/sst/opencode)
+5. 🗣 Commented on [#8459](https://github.com/ElementsProject/lightning/issues/8459#issuecomment-3191694060) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
