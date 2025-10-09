@@ -32,10 +32,10 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7993](https://github.com/ElementsProject/lightning/issues/7993#issuecomment-3368777852) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🗣 Commented on [#8224](https://github.com/ElementsProject/lightning/issues/8224#issuecomment-3368774533) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-3. 🗣 Commented on [#8517](https://github.com/ElementsProject/lightning/pull/8517#issuecomment-3273048339) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-4. 💪 Opened PR [#8540](https://github.com/ElementsProject/lightning/pull/8540) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🗣 Commented on [#1](https://github.com/king-11/rust-lightning/pull/1#issuecomment-3379543229) in [king-11/rust-lightning](https://github.com/king-11/rust-lightning)
+2. 🗣 Commented on [#7993](https://github.com/ElementsProject/lightning/issues/7993#issuecomment-3368777852) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+3. 🗣 Commented on [#8224](https://github.com/ElementsProject/lightning/issues/8224#issuecomment-3368774533) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#8517](https://github.com/ElementsProject/lightning/pull/8517#issuecomment-3273048339) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 5. 🗣 Commented on [#8477](https://github.com/ElementsProject/lightning/issues/8477#issuecomment-3264388540) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
