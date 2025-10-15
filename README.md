@@ -35,7 +35,7 @@
 1. 🗣 Commented on [#1023](https://github.com/rust-itertools/itertools/pull/1023#issuecomment-3394145683) in [rust-itertools/itertools](https://github.com/rust-itertools/itertools)
 2. 🗣 Commented on [#1](https://github.com/king-11/rust-lightning/pull/1#issuecomment-3379543229) in [king-11/rust-lightning](https://github.com/king-11/rust-lightning)
 3. 🗣 Commented on [#7993](https://github.com/ElementsProject/lightning/issues/7993#issuecomment-3368777852) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-4. 🗣 Commented on [#8224](https://github.com/ElementsProject/lightning/issues/8224#issuecomment-3368774533) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🗣 Commented on [#8330](https://github.com/ElementsProject/lightning/pull/8330#issuecomment-3350024898) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 5. 🗣 Commented on [#8477](https://github.com/ElementsProject/lightning/issues/8477#issuecomment-3264388540) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 <!--END_SECTION:activity-->
 
