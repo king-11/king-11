@@ -32,7 +32,7 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#8540](undefined) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🎉 Merged PR [#8540](https://github.com/ElementsProject/lightning/pull/8540) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 2. 🗣 Commented on [#14034](https://github.com/linkerd/linkerd2/issues/14034#issuecomment-3413681306) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
 3. 🗣 Commented on [#10217](https://github.com/gitbutlerapp/gitbutler/issues/10217#issuecomment-3406763740) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 4. 🗣 Commented on [#1023](https://github.com/rust-itertools/itertools/pull/1023#issuecomment-3394145683) in [rust-itertools/itertools](https://github.com/rust-itertools/itertools)
