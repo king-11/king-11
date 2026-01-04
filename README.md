@@ -32,10 +32,10 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8540](https://github.com/ElementsProject/lightning/pull/8540) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-2. 🗣 Commented on [#14034](https://github.com/linkerd/linkerd2/issues/14034#issuecomment-3413681306) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
-3. 🗣 Commented on [#10217](https://github.com/gitbutlerapp/gitbutler/issues/10217#issuecomment-3406763740) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#1023](https://github.com/rust-itertools/itertools/pull/1023#issuecomment-3394145683) in [rust-itertools/itertools](https://github.com/rust-itertools/itertools)
+1. 🗣 Commented on [#1](https://github.com/king-11/lightning/pull/1#issuecomment-3707063304) in [king-11/lightning](https://github.com/king-11/lightning)
+2. 🗣 Commented on [#1](https://github.com/king-11/lightning/pull/1#issuecomment-3707059201) in [king-11/lightning](https://github.com/king-11/lightning)
+3. 🗣 Commented on [#8686](https://github.com/ElementsProject/lightning/issues/8686#issuecomment-3707013402) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+4. 🎉 Merged PR [#8540](https://github.com/ElementsProject/lightning/pull/8540) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 5. 🗣 Commented on [#1](https://github.com/king-11/rust-lightning/pull/1#issuecomment-3379543229) in [king-11/rust-lightning](https://github.com/king-11/rust-lightning)
 <!--END_SECTION:activity-->
 
