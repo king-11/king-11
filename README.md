@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/perforce/p4mcp-server/issues/12#issuecomment-4068189826) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
-2. ❗ Opened issue [#12](https://github.com/perforce/p4mcp-server/issues/12) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
-3. ❗ Opened issue [#11](https://github.com/perforce/p4mcp-server/issues/11) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
-4. 🎉 Merged PR [#8540](https://github.com/ElementsProject/lightning/pull/8540) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
-5. 🗣 Commented on [#1](https://github.com/king-11/rust-lightning/pull/1#issuecomment-3379543229) in [king-11/rust-lightning](https://github.com/king-11/rust-lightning)
+1. 💪 Opened PR [#21](https://github.com/perforce/p4mcp-server/pull/21) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
+2. 🗣 Commented on [#11](https://github.com/perforce/p4mcp-server/issues/11#issuecomment-4118737296) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
+3. 🗣 Commented on [#12](https://github.com/perforce/p4mcp-server/issues/12#issuecomment-4068189826) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
+4. ❗ Opened issue [#12](https://github.com/perforce/p4mcp-server/issues/12) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
+5. ❗ Opened issue [#11](https://github.com/perforce/p4mcp-server/issues/11) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
