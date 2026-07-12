@@ -32,7 +32,7 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8686](https://github.com/ElementsProject/lightning/issues/8686#issuecomment-4431658719) in [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
+1. 🗣 Commented on [#11946](https://github.com/zen-browser/desktop/issues/11946#issuecomment-4948207229) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 2. 🗣 Commented on [#11](https://github.com/perforce/p4mcp-server/issues/11#issuecomment-4118737296) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
 3. 🗣 Commented on [#12](https://github.com/perforce/p4mcp-server/issues/12#issuecomment-4068189826) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
 4. ❗ Opened issue [#12](https://github.com/perforce/p4mcp-server/issues/12) in [perforce/p4mcp-server](https://github.com/perforce/p4mcp-server)
