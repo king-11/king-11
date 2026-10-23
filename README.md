@@ -32,11 +32,11 @@
 ## :zap: Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/king-11/Holistic-Reviews/pull/5) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
-2. 💪 Opened PR [#5](https://github.com/king-11/Holistic-Reviews/pull/5) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
-3. 🎉 Merged PR [#4](https://github.com/king-11/Holistic-Reviews/pull/4) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
-4. 💪 Opened PR [#4](https://github.com/king-11/Holistic-Reviews/pull/4) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
-5. 🎉 Merged PR [#3](https://github.com/king-11/Holistic-Reviews/pull/3) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
+1. 🎉 Merged PR [#6](https://github.com/king-11/Holistic-Reviews/pull/6) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
+2. 💪 Opened PR [#6](https://github.com/king-11/Holistic-Reviews/pull/6) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
+3. 🎉 Merged PR [#5](https://github.com/king-11/Holistic-Reviews/pull/5) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
+4. 💪 Opened PR [#5](https://github.com/king-11/Holistic-Reviews/pull/5) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
+5. 🎉 Merged PR [#4](https://github.com/king-11/Holistic-Reviews/pull/4) in [king-11/Holistic-Reviews](https://github.com/king-11/Holistic-Reviews)
 <!--END_SECTION:activity-->
 
 ## Gtihub Statistics
